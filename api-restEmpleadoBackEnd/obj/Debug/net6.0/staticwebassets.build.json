@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zY5bLq5tdVLVDhOtW+xHb/cV76CAFGKM1ALGQCP9fvI=",
+  "Source": "api-restEmpleadoBackEnd",
+  "BasePath": "_content/api-restEmpleadoBackEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
