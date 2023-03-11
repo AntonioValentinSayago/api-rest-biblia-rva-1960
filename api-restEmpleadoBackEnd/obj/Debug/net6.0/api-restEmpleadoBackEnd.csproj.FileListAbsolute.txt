@@ -80,3 +80,5 @@ D:\Programacion\NetCore-Angular\api.rest-empleados\api-restEmpleadoBackEnd\api-r
 D:\Programacion\NetCore-Angular\api.rest-empleados\api-restEmpleadoBackEnd\api-restEmpleadoBackEnd\obj\Debug\net6.0\api-restEmpleadoBackEnd.pdb
 D:\Programacion\NetCore-Angular\api.rest-empleados\api-restEmpleadoBackEnd\api-restEmpleadoBackEnd\obj\Debug\net6.0\api-restEmpleadoBackEnd.genruntimeconfig.cache
 D:\Programacion\NetCore-Angular\api.rest-empleados\api-restEmpleadoBackEnd\api-restEmpleadoBackEnd\obj\Debug\net6.0\ref\api-restEmpleadoBackEnd.dll
+D:\Programacion\NetCore-Angular\api.rest-empleados\api-restEmpleadoBackEnd\api-restEmpleadoBackEnd\bin\Debug\net6.0\AutoMapper.dll
+D:\Programacion\NetCore-Angular\api.rest-empleados\api-restEmpleadoBackEnd\api-restEmpleadoBackEnd\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

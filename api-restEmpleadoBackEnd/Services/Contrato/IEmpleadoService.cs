@@ -7,7 +7,7 @@ namespace api_restEmpleadoBackEnd.Services.Contrato
         Task<List<Empleado>> GetList();
         Task<Empleado> Get(int idEmpleado);
         Task<Empleado> Add(Empleado modelo);
-        Task<bool> Update(int idEmpleado);
-        Task<bool> Delete(int idEmpleado);
+        Task<bool> Update(Empleado modelo);
+        Task<bool> Delete(Empleado modelo);
     }
 }
