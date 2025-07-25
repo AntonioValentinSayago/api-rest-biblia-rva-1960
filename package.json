@@ -1,0 +1,31 @@
+{
+  "name": "api-rest-biblia-rva-1960",
+  "version": "1.0.0",
+  "description": "API Rest para Biblia RVA 1960",
+  "homepage": "https://github.com/AntonioValentinSayago/api-rest-biblia-rva-1960#readme",
+  "bugs": {
+    "url": "https://github.com/AntonioValentinSayago/api-rest-biblia-rva-1960/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioValentinSayago/api-rest-biblia-rva-1960.git"
+  },
+  "license": "ISC",
+  "author": "Ebenezer Principe de Paz",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
