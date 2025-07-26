@@ -1,0 +1,417 @@
+{
+  "testament": "old",
+  "name": "1-Cronicas",
+  "num_chapters": 29,
+  "chapter": 6,
+  "vers": [
+    {
+      "verse": "Los hijos de Leví: Gersón, Coat y Merari.",
+      "number": 1,
+      "study": "Descendientes de Leví",
+      "id": 10456
+    },
+    {
+      "verse": "Los hijos de Coat: Amram, Izhar, Hebrón y Uziel.",
+      "number": 2,
+      "id": 10457
+    },
+    {
+      "verse": "Los hijos de Amram: Aarón, Moisés y María. Los hijos de Aarón: Nadab, Abiú, Eleazar e Itamar.",
+      "number": 3,
+      "id": 10458
+    },
+    {
+      "verse": "Eleazar engendró a Finees, Finees engendró a Abisúa,",
+      "number": 4,
+      "id": 10459
+    },
+    {
+      "verse": "Abisúa engendró a Buqui, Buqui engendró a Uzi,",
+      "number": 5,
+      "id": 10460
+    },
+    {
+      "verse": "Uzi engendró a Zeraías, Zeraías engendró a Meraiot,",
+      "number": 6,
+      "id": 10461
+    },
+    {
+      "verse": "Meraiot engendró a Amarías, Amarías engendró a Ahitob,",
+      "number": 7,
+      "id": 10462
+    },
+    {
+      "verse": "Ahitob engendró a Sadoc, Sadoc engendró a Ahimaas,",
+      "number": 8,
+      "id": 10463
+    },
+    {
+      "verse": "Ahimaas engendró a Azarías, Azarías engendró a Johanán,",
+      "number": 9,
+      "id": 10464
+    },
+    {
+      "verse": "y Johanán engendró a Azarías, el que tuvo el sacerdocio en la casa que Salomón edificó en Jerusalén.",
+      "number": 10,
+      "id": 10465
+    },
+    {
+      "verse": "Azarías engendró a Amarías, Amarías engendró a Ahitob,",
+      "number": 11,
+      "id": 10466
+    },
+    {
+      "verse": "Ahitob engendró a Sadoc, Sadoc engendró a Salum,",
+      "number": 12,
+      "id": 10467
+    },
+    {
+      "verse": "Salum engendró a Hilcías, Hilcías engendró a Azarías,",
+      "number": 13,
+      "id": 10468
+    },
+    {
+      "verse": "Azarías engendró a Seraías, y Seraías engendró a Josadac,",
+      "number": 14,
+      "id": 10469
+    },
+    {
+      "verse": "y Josadac fue llevado cautivo cuando Jehová transportó a Judá y a Jerusalén por mano de Nabucodonosor.",
+      "number": 15,
+      "id": 10470
+    },
+    {
+      "verse": "Los hijos de Leví: Gersón, Coat y Merari.",
+      "number": 16,
+      "id": 10471
+    },
+    {
+      "verse": "Y estos son los nombres de los hijos de Gersón: Libni y Simei.",
+      "number": 17,
+      "id": 10472
+    },
+    {
+      "verse": "Los hijos de Coat: Amram, Izhar, Hebrón y Uziel.",
+      "number": 18,
+      "id": 10473
+    },
+    {
+      "verse": "Los hijos de Merari: Mahli y Musi. Estas son las familias de Leví, según sus descendencias.",
+      "number": 19,
+      "id": 10474
+    },
+    {
+      "verse": "Gersón: Libni su hijo, Jahat su hijo, Zima su hijo,",
+      "number": 20,
+      "id": 10475
+    },
+    {
+      "verse": "Joa su hijo, Iddo su hijo, Zera su hijo, Jeatrai su hijo.",
+      "number": 21,
+      "id": 10476
+    },
+    {
+      "verse": "Los hijos de Coat: Aminadab su hijo, Coré su hijo, Asir su hijo,",
+      "number": 22,
+      "id": 10477
+    },
+    {
+      "verse": "Elcana su hijo, Ebiasaf su hijo, Asir su hijo,",
+      "number": 23,
+      "id": 10478
+    },
+    {
+      "verse": "Tahat su hijo, Uriel su hijo, Uzías su hijo, y Saúl su hijo.",
+      "number": 24,
+      "id": 10479
+    },
+    {
+      "verse": "Los hijos de Elcana: Amasai y Ahimot;",
+      "number": 25,
+      "id": 10480
+    },
+    {
+      "verse": "Elcana su hijo, Zofai su hijo, Nahat su hijo.",
+      "number": 26,
+      "id": 10481
+    },
+    {
+      "verse": "Eliab su hijo, Jeroham su hijo, Elcana su hijo.",
+      "number": 27,
+      "id": 10482
+    },
+    {
+      "verse": "Los hijos de Samuel: el primogénito Vasni, y Abías.",
+      "number": 28,
+      "id": 10483
+    },
+    {
+      "verse": "Los hijos de Merari: Mahli, Libni su hijo, Simei su hijo, Uza su hijo,",
+      "number": 29,
+      "id": 10484
+    },
+    {
+      "verse": "Simea su hijo, Haguía su hijo, Asaías su hijo.",
+      "number": 30,
+      "id": 10485
+    },
+    {
+      "verse": "Estos son los que David puso sobre el servicio de canto en la casa de Jehová, después que el arca tuvo reposo,",
+      "number": 31,
+      "study": "Cantores del templo nombrados por David",
+      "id": 10486
+    },
+    {
+      "verse": "los cuales servían delante de la tienda del tabernáculo de reunión en el canto, hasta que Salomón edificó la casa de Jehová en Jerusalén; después estuvieron en su ministerio según su costumbre.",
+      "number": 32,
+      "id": 10487
+    },
+    {
+      "verse": "Estos, pues, con sus hijos, ayudaban: de los hijos de Coat, el cantor Hemán hijo de Joel, hijo de Samuel,",
+      "number": 33,
+      "id": 10488
+    },
+    {
+      "verse": "hijo de Elcana, hijo de Jeroham, hijo de Eliel, hijo de Toa,",
+      "number": 34,
+      "id": 10489
+    },
+    {
+      "verse": "hijo de Zuf, hijo de Elcana, hijo de Mahat, hijo de Amasai,",
+      "number": 35,
+      "id": 10490
+    },
+    {
+      "verse": "hijo de Elcana, hijo de Joel, hijo de Azarías, hijo de Sofonías,",
+      "number": 36,
+      "id": 10491
+    },
+    {
+      "verse": "hijo de Tahat, hijo de Asir, hijo de Ebiasaf, hijo de Coré,",
+      "number": 37,
+      "id": 10492
+    },
+    {
+      "verse": "hijo de Izhar, hijo de Coat, hijo de Leví, hijo de Israel;",
+      "number": 38,
+      "id": 10493
+    },
+    {
+      "verse": "y su hermano Asaf, el cual estaba a su mano derecha; Asaf, hijo de Berequías, hijo de Simea,",
+      "number": 39,
+      "id": 10494
+    },
+    {
+      "verse": "hijo de Micael, hijo de Baasías, hijo de Malquías,",
+      "number": 40,
+      "id": 10495
+    },
+    {
+      "verse": "hijo de Etni, hijo de Zera, hijo de Adaía,",
+      "number": 41,
+      "id": 10496
+    },
+    {
+      "verse": "hijo de Etán, hijo de Zima, hijo de Simei,",
+      "number": 42,
+      "id": 10497
+    },
+    {
+      "verse": "hijo de Jahat, hijo de Gersón, hijo de Leví.",
+      "number": 43,
+      "id": 10498
+    },
+    {
+      "verse": "Pero a la mano izquierda estaban sus hermanos los hijos de Merari, esto es, Etán hijo de Quisi, hijo de Abdi, hijo de Maluc,",
+      "number": 44,
+      "id": 10499
+    },
+    {
+      "verse": "hijo de Hasabías, hijo de Amasías, hijo de Hilcías,",
+      "number": 45,
+      "id": 10500
+    },
+    {
+      "verse": "hijo de Amsi, hijo de Bani, hijo de Semer,",
+      "number": 46,
+      "id": 10501
+    },
+    {
+      "verse": "hijo de Mahli, hijo de Musi, hijo de Merari, hijo de Leví.",
+      "number": 47,
+      "id": 10502
+    },
+    {
+      "verse": "Y sus hermanos los levitas fueron puestos sobre todo el ministerio del tabernáculo de la casa de Dios.",
+      "number": 48,
+      "id": 10503
+    },
+    {
+      "verse": "Mas Aarón y sus hijos ofrecían sacrificios sobre el altar del holocausto, y sobre el altar del perfume quemaban incienso, y ministraban en toda la obra del lugar santísimo, y hacían las expiaciones por Israel conforme a todo lo que Moisés siervo de Dios había mandado.",
+      "number": 49,
+      "study": "Descendientes de Aarón",
+      "id": 10504
+    },
+    {
+      "verse": "Los hijos de Aarón son estos: Eleazar su hijo, Finees su hijo, Abisúa su hijo,",
+      "number": 50,
+      "id": 10505
+    },
+    {
+      "verse": "Buqui su hijo, Uzi su hijo, Zeraías su hijo,",
+      "number": 51,
+      "id": 10506
+    },
+    {
+      "verse": "Meraiot su hijo, Amarías su hijo, Ahitob su hijo,",
+      "number": 52,
+      "id": 10507
+    },
+    {
+      "verse": "Sadoc su hijo, Ahimaas su hijo.",
+      "number": 53,
+      "id": 10508
+    },
+    {
+      "verse": "Estas son sus habitaciones, conforme a sus domicilios y sus términos, las de los hijos de Aarón por las familias de los coatitas, porque a ellos les tocó en suerte.",
+      "number": 54,
+      "study": "Las ciudades de los levitas",
+      "id": 10509
+    },
+    {
+      "verse": "Les dieron, pues, Hebrón en tierra de Judá, y sus ejidos alrededor de ella.",
+      "number": 55,
+      "id": 10510
+    },
+    {
+      "verse": "Pero el territorio de la ciudad y sus aldeas se dieron a Caleb, hijo de Jefone.",
+      "number": 56,
+      "id": 10511
+    },
+    {
+      "verse": "De Judá dieron a los hijos de Aarón la ciudad de refugio, esto es, Hebrón; además, Libna con sus ejidos, Jatir, Estemoa con sus ejidos,",
+      "number": 57,
+      "id": 10512
+    },
+    {
+      "verse": "Hilén con sus ejidos, Debir con sus ejidos,",
+      "number": 58,
+      "id": 10513
+    },
+    {
+      "verse": "Asán con sus ejidos y Bet-semes con sus ejidos.",
+      "number": 59,
+      "id": 10514
+    },
+    {
+      "verse": "Y de la tribu de Benjamín, Geba con sus ejidos, Alemet con sus ejidos y Anatot con sus ejidos. Todas sus ciudades fueron trece ciudades, repartidas por sus linajes.",
+      "number": 60,
+      "id": 10515
+    },
+    {
+      "verse": "A los hijos de Coat que quedaron de su parentela, dieron por suerte diez ciudades de la media tribu de Manasés.",
+      "number": 61,
+      "id": 10516
+    },
+    {
+      "verse": "A los hijos de Gersón, por sus linajes, dieron de la tribu de Isacar, de la tribu de Aser, de la tribu de Neftalí y de la tribu de Manasés en Basán, trece ciudades.",
+      "number": 62,
+      "id": 10517
+    },
+    {
+      "verse": "Y a los hijos de Merari, por sus linajes, de la tribu de Rubén, de la tribu de Gad y de la tribu de Zabulón, dieron por suerte doce ciudades.",
+      "number": 63,
+      "id": 10518
+    },
+    {
+      "verse": "Y los hijos de Israel dieron a los levitas ciudades con sus ejidos.",
+      "number": 64,
+      "id": 10519
+    },
+    {
+      "verse": "Dieron por suerte de la tribu de los hijos de Judá, de la tribu de los hijos de Simeón y de la tribu de los hijos de Benjamín, las ciudades que nombraron por sus nombres.",
+      "number": 65,
+      "id": 10520
+    },
+    {
+      "verse": "A las familias de los hijos de Coat dieron ciudades con sus ejidos de la tribu de Efraín.",
+      "number": 66,
+      "id": 10521
+    },
+    {
+      "verse": "Les dieron la ciudad de refugio, Siquem con sus ejidos en el monte de Efraín; además, Gezer con sus ejidos,",
+      "number": 67,
+      "id": 10522
+    },
+    {
+      "verse": "Jocmeam con sus ejidos, Bet-horón con sus ejidos,",
+      "number": 68,
+      "id": 10523
+    },
+    {
+      "verse": "Ajalón con sus ejidos y Gat-rimón con sus ejidos.",
+      "number": 69,
+      "id": 10524
+    },
+    {
+      "verse": "De la media tribu de Manasés, Aner con sus ejidos y Bileam con sus ejidos, para los de las familias de los hijos de Coat que habían quedado.",
+      "number": 70,
+      "id": 10525
+    },
+    {
+      "verse": "A los hijos de Gersón dieron de la media tribu de Manasés, Golán en Basán con sus ejidos y Astarot con sus ejidos.",
+      "number": 71,
+      "id": 10526
+    },
+    {
+      "verse": "De la tribu de Isacar, Cedes con sus ejidos, Daberat con sus ejidos,",
+      "number": 72,
+      "id": 10527
+    },
+    {
+      "verse": "Ramot con sus ejidos y Anem con sus ejidos.",
+      "number": 73,
+      "id": 10528
+    },
+    {
+      "verse": "De la tribu de Aser, Masal con sus ejidos, Abdón con sus ejidos,",
+      "number": 74,
+      "id": 10529
+    },
+    {
+      "verse": "Hucoc con sus ejidos y Rehob con sus ejidos.",
+      "number": 75,
+      "id": 10530
+    },
+    {
+      "verse": "De la tribu de Neftalí, Cedes en Galilea con sus ejidos, Hamón con sus ejidos y Quiriataim con sus ejidos.",
+      "number": 76,
+      "id": 10531
+    },
+    {
+      "verse": "A los hijos de Merari que habían quedado, dieron de la tribu de Zabulón, Rimón con sus ejidos y Tabor con sus ejidos.",
+      "number": 77,
+      "id": 10532
+    },
+    {
+      "verse": "Del otro lado del Jordán frente a Jericó, al oriente del Jordán, dieron de la tribu de Rubén, Beser en el desierto con sus ejidos, Jaza con sus ejidos,",
+      "number": 78,
+      "id": 10533
+    },
+    {
+      "verse": "Cademot con sus ejidos y Mefaat con sus ejidos.",
+      "number": 79,
+      "id": 10534
+    },
+    {
+      "verse": "Y de la tribu de Gad, Ramot de Galaad con sus ejidos, Mahanaim con sus ejidos,",
+      "number": 80,
+      "id": 10535
+    },
+    {
+      "verse": "Hesbón con sus ejidos y Jazer con sus ejidos.",
+      "number": 81,
+      "id": 10536
+    }
+  ]
+}

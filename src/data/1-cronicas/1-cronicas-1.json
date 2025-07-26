@@ -1,0 +1,283 @@
+{
+  "testament": "old",
+  "name": "1-Cronicas",
+  "num_chapters": 29,
+  "chapter": 1,
+  "vers": [
+    {
+      "verse": "Adán, Set, Enós,",
+      "number": 1,
+      "study": "Descendientes de Adán",
+      "id": 10254
+    },
+    {
+      "verse": "Cainán, Mahalaleel, Jared,",
+      "number": 2,
+      "id": 10255
+    },
+    {
+      "verse": "Enoc, Matusalén, Lamec,",
+      "number": 3,
+      "id": 10256
+    },
+    {
+      "verse": "Noé, Sem, Cam y Jafet.",
+      "number": 4,
+      "id": 10257
+    },
+    {
+      "verse": "Los hijos de Jafet: Gomer, Magog, Madai, Javán, Tubal, Mesec y Tiras.",
+      "number": 5,
+      "study": "Descendientes de los hijos de Noé",
+      "id": 10258
+    },
+    {
+      "verse": "Los hijos de Gomer: Askenaz, Rifat y Togarma.",
+      "number": 6,
+      "id": 10259
+    },
+    {
+      "verse": "Los hijos de Javán: Elisa, Tarsis, Quitim y Dodanim.",
+      "number": 7,
+      "id": 10260
+    },
+    {
+      "verse": "Los hijos de Cam: Cus, Mizraim, Fut y Canaán.",
+      "number": 8,
+      "id": 10261
+    },
+    {
+      "verse": "Los hijos de Cus: Seba, Havila, Sabta, Raama y Sabteca. Y los hijos de Raama: Seba y Dedán.",
+      "number": 9,
+      "id": 10262
+    },
+    {
+      "verse": "Cus engendró a Nimrod; éste llegó a ser poderoso en la tierra.",
+      "number": 10,
+      "id": 10263
+    },
+    {
+      "verse": "Mizraim engendró a Ludim, Anamim, Lehabim, Naftuhim,",
+      "number": 11,
+      "id": 10264
+    },
+    {
+      "verse": "Patrusim y Casluhim; de éstos salieron los filisteos y los caftoreos.",
+      "number": 12,
+      "id": 10265
+    },
+    {
+      "verse": "Canaán engendró a Sidón su primogénito, y a Het,",
+      "number": 13,
+      "id": 10266
+    },
+    {
+      "verse": "al jebuseo, al amorreo, al gergeseo,",
+      "number": 14,
+      "id": 10267
+    },
+    {
+      "verse": "al heveo, al araceo, al sineo,",
+      "number": 15,
+      "id": 10268
+    },
+    {
+      "verse": "al arvadeo, al zemareo y al hamateo.",
+      "number": 16,
+      "id": 10269
+    },
+    {
+      "verse": "Los hijos de Sem: Elam, Asur, Arfaxad, Lud, Aram, Uz, Hul, Geter y Mesec.",
+      "number": 17,
+      "id": 10270
+    },
+    {
+      "verse": "Arfaxad engendró a Sela, y Sela engendró a Heber.",
+      "number": 18,
+      "id": 10271
+    },
+    {
+      "verse": "Y a Heber nacieron dos hijos; el nombre del uno fue Peleg, por cuanto en sus días fue dividida la tierra; y el nombre de su hermano fue Joctán.",
+      "number": 19,
+      "id": 10272
+    },
+    {
+      "verse": "Joctán engendró a Almodad, Selef, Hazar-mavet y Jera.",
+      "number": 20,
+      "id": 10273
+    },
+    {
+      "verse": "A Adoram también, a Uzal, Dicla,",
+      "number": 21,
+      "id": 10274
+    },
+    {
+      "verse": "Ebal, Abimael, Seba,",
+      "number": 22,
+      "id": 10275
+    },
+    {
+      "verse": "Ofir, Havila y Jobab; todos hijos de Joctán.",
+      "number": 23,
+      "id": 10276
+    },
+    {
+      "verse": "Sem, Arfaxad, Sela,",
+      "number": 24,
+      "study": "Descendientes de Sem",
+      "id": 10277
+    },
+    {
+      "verse": "Heber, Peleg, Reu,",
+      "number": 25,
+      "id": 10278
+    },
+    {
+      "verse": "Serug, Nacor, Taré,",
+      "number": 26,
+      "id": 10279
+    },
+    {
+      "verse": "y Abram, el cual es Abraham.",
+      "number": 27,
+      "id": 10280
+    },
+    {
+      "verse": "Los hijos de Abraham: Isaac e Ismael.",
+      "number": 28,
+      "study": "Descendientes de Ismael y de Cetura",
+      "id": 10281
+    },
+    {
+      "verse": "Y estas son sus descendencias: el primogénito de Ismael, Nebaiot; después Cedar, Adbeel, Mibsam,",
+      "number": 29,
+      "id": 10282
+    },
+    {
+      "verse": "Misma, Duma, Massa, Hadad, Tema,",
+      "number": 30,
+      "id": 10283
+    },
+    {
+      "verse": "Jetur, Nafis y Cedema; éstos son los hijos de Ismael.",
+      "number": 31,
+      "id": 10284
+    },
+    {
+      "verse": "Y Cetura, concubina de Abraham, dio a luz a Zimram, Jocsán, Medán, Madián, Isbac y Súa. Los hijos de Jocsán: Seba y Dedán.",
+      "number": 32,
+      "id": 10285
+    },
+    {
+      "verse": "Los hijos de Madián: Efa, Efer, Hanoc, Abida y Elda; todos éstos fueron hijos de Cetura.",
+      "number": 33,
+      "id": 10286
+    },
+    {
+      "verse": "Abraham engendró a Isaac, y los hijos de Isaac fueron Esaú e Israel.",
+      "number": 34,
+      "study": "Descendientes de Esaú",
+      "id": 10287
+    },
+    {
+      "verse": "Los hijos de Esaú: Elifaz, Reuel, Jeús, Jaalam y Coré.",
+      "number": 35,
+      "id": 10288
+    },
+    {
+      "verse": "Los hijos de Elifaz: Temán, Omar, Zefo, Gatam, Cenaz, Timna y Amalec.",
+      "number": 36,
+      "id": 10289
+    },
+    {
+      "verse": "Los hijos de Reuel: Nahat, Zera, Sama y Miza.",
+      "number": 37,
+      "id": 10290
+    },
+    {
+      "verse": "Los hijos de Seir: Lotán, Sobal, Zibeón, Aná, Disón, Ezer y Disán.",
+      "number": 38,
+      "id": 10291
+    },
+    {
+      "verse": "Los hijos de Lotán: Hori y Homam; y Timna fue hermana de Lotán.",
+      "number": 39,
+      "id": 10292
+    },
+    {
+      "verse": "Los hijos de Sobal: Alván, Manahat, Ebal, Sefo y Onam. Los hijos de Zibeón: Aja y Aná.",
+      "number": 40,
+      "id": 10293
+    },
+    {
+      "verse": "Disón fue hijo de Aná; y los hijos de Disón: Amram, Esbán, Itrán y Querán.",
+      "number": 41,
+      "id": 10294
+    },
+    {
+      "verse": "Los hijos de Ezer: Bilhán, Zaaván y Jaacán. Los hijos de Disán: Uz y Arán.",
+      "number": 42,
+      "id": 10295
+    },
+    {
+      "verse": "Y estos son los reyes que reinaron en la tierra de Edom, antes que reinase rey sobre los hijos de Israel: Bela hijo de Beor; y el nombre de su ciudad fue Dinaba.",
+      "number": 43,
+      "id": 10296
+    },
+    {
+      "verse": "Muerto Bela, reinó en su lugar Jobab hijo de Zera, de Bosra.",
+      "number": 44,
+      "id": 10297
+    },
+    {
+      "verse": "Y muerto Jobab, reinó en su lugar Husam, de la tierra de los temanitas.",
+      "number": 45,
+      "id": 10298
+    },
+    {
+      "verse": "Muerto Husam, reinó en su lugar Hadad hijo de Bedad, el que derrotó a Madián en el campo de Moab; y el nombre de su ciudad fue Avit.",
+      "number": 46,
+      "id": 10299
+    },
+    {
+      "verse": "Muerto Hadad, reinó en su lugar Samla de Masreca.",
+      "number": 47,
+      "id": 10300
+    },
+    {
+      "verse": "Muerto también Samla, reinó en su lugar Saúl de Rehobot, que está junto al Eufrates.",
+      "number": 48,
+      "id": 10301
+    },
+    {
+      "verse": "Y muerto Saúl, reinó en su lugar Baal-hanán hijo de Acbor.",
+      "number": 49,
+      "id": 10302
+    },
+    {
+      "verse": "Muerto Baal-hanán, reinó en su lugar Hadad, el nombre de cuya ciudad fue Pai; y el nombre de su mujer, Mehetabel hija de Matred, hija de Mezaab.",
+      "number": 50,
+      "id": 10303
+    },
+    {
+      "verse": "Muerto Hadad, sucedieron en Edom los jefes Timna, Alva, Jetet,",
+      "number": 51,
+      "id": 10304
+    },
+    {
+      "verse": "Aholibama, Ela, Pinón,",
+      "number": 52,
+      "id": 10305
+    },
+    {
+      "verse": "Cenaz, Temán, Mibzar,",
+      "number": 53,
+      "id": 10306
+    },
+    {
+      "verse": "Magdiel e Iram. Estos fueron los jefes de Edom.",
+      "number": 54,
+      "id": 10307
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "testament": "old",
+  "name": "1-Cronicas",
+  "num_chapters": 29,
+  "chapter": 25,
+  "vers": [
+    {
+      "verse": "Asimismo David y los jefes del ejército apartaron para el ministerio a los hijos de Asaf, de Hemán y de Jedutún, para que profetizasen con arpas, salterios y címbalos; y el número de ellos, hombres idóneos para la obra de su ministerio, fue:",
+      "number": 1,
+      "study": "Distribución de músicos y cantores",
+      "id": 11048
+    },
+    {
+      "verse": "De los hijos de Asaf: Zacur, José, Netanías y Asarela, hijos de Asaf, bajo la dirección de Asaf, el cual profetizaba bajo las órdenes del rey.",
+      "number": 2,
+      "id": 11049
+    },
+    {
+      "verse": "De los hijos de Jedutún: Gedalías, Zeri, Jesaías, Hasabías, Matatías y Simei; seis, bajo la dirección de su padre Jedutún, el cual profetizaba con arpa, para aclamar y alabar a Jehová.",
+      "number": 3,
+      "id": 11050
+    },
+    {
+      "verse": "De los hijos de Hemán: Buquías, Matanías, Uziel, Sebuel, Jeremot, Hananías, Hanani, Eliata, Gidalti, Romanti-ezer, Josbecasa, Maloti, Hotir y Mahaziot.",
+      "number": 4,
+      "id": 11051
+    },
+    {
+      "verse": "Todos éstos fueron hijos de Hemán, vidente del rey en las cosas de Dios, para exaltar su poder; y Dios dio a Hemán catorce hijos y tres hijas.",
+      "number": 5,
+      "id": 11052
+    },
+    {
+      "verse": "Y todos éstos estaban bajo la dirección de su padre en la música, en la casa de Jehová, con címbalos, salterios y arpas, para el ministerio del templo de Dios. Asaf, Jedutún y Hemán estaban por disposición del rey.",
+      "number": 6,
+      "id": 11053
+    },
+    {
+      "verse": "Y el número de ellos, con sus hermanos, instruidos en el canto para Jehová, todos los aptos, fue doscientos ochenta y ocho.",
+      "number": 7,
+      "id": 11054
+    },
+    {
+      "verse": "Y echaron suertes para servir por turnos, entrando el pequeño con el grande, lo mismo el maestro que el discípulo.",
+      "number": 8,
+      "id": 11055
+    },
+    {
+      "verse": "La primera suerte salió por Asaf, para José; la segunda para Gedalías, quien con sus hermanos e hijos fueron doce.",
+      "number": 9,
+      "id": 11056
+    },
+    {
+      "verse": "la tercera para Zacur, con sus hijos y sus hermanos, doce;",
+      "number": 10,
+      "id": 11057
+    },
+    {
+      "verse": "la cuarta para Izri, con sus hijos y sus hermanos, doce;",
+      "number": 11,
+      "id": 11058
+    },
+    {
+      "verse": "la quinta para Netanías, con sus hijos y sus hermanos, doce;",
+      "number": 12,
+      "id": 11059
+    },
+    {
+      "verse": "la sexta para Buquías, con sus hijos y sus hermanos, doce;",
+      "number": 13,
+      "id": 11060
+    },
+    {
+      "verse": "la séptima para Jesarela, con sus hijos y sus hermanos, doce;",
+      "number": 14,
+      "id": 11061
+    },
+    {
+      "verse": "la octava para Jesahías, con sus hijos y sus hermanos, doce;",
+      "number": 15,
+      "id": 11062
+    },
+    {
+      "verse": "la novena para Matanías, con sus hijos y sus hermanos, doce;",
+      "number": 16,
+      "id": 11063
+    },
+    {
+      "verse": "la décima para Simei, con sus hijos y sus hermanos, doce;",
+      "number": 17,
+      "id": 11064
+    },
+    {
+      "verse": "la undécima para Azareel, con sus hijos y sus hermanos, doce;",
+      "number": 18,
+      "id": 11065
+    },
+    {
+      "verse": "la duodécima para Hasabías, con sus hijos y sus hermanos, doce;",
+      "number": 19,
+      "id": 11066
+    },
+    {
+      "verse": "la decimatercera para Subael, con sus hijos y sus hermanos, doce;",
+      "number": 20,
+      "id": 11067
+    },
+    {
+      "verse": "la decimacuarta para Matatías, con sus hijos y sus hermanos, doce;",
+      "number": 21,
+      "id": 11068
+    },
+    {
+      "verse": "la decimaquinta para Jeremot, con sus hijos y sus hermanos, doce;",
+      "number": 22,
+      "id": 11069
+    },
+    {
+      "verse": "la decimasexta para Hananías, con sus hijos y sus hermanos, doce;",
+      "number": 23,
+      "id": 11070
+    },
+    {
+      "verse": "la decimaséptima para Josbecasa, con sus hijos y sus hermanos, doce;",
+      "number": 24,
+      "id": 11071
+    },
+    {
+      "verse": "la decimaoctava para Hanani, con sus hijos y sus hermanos, doce;",
+      "number": 25,
+      "id": 11072
+    },
+    {
+      "verse": "la decimanovena para Maloti, con sus hijos y sus hermanos, doce;",
+      "number": 26,
+      "id": 11073
+    },
+    {
+      "verse": "la vigésima para Eliata, con sus hijos y sus hermanos, doce;",
+      "number": 27,
+      "id": 11074
+    },
+    {
+      "verse": "la vigesimaprimera para Hotir, con sus hijos y sus hermanos, doce;",
+      "number": 28,
+      "id": 11075
+    },
+    {
+      "verse": "la vigesimasegunda para Gidalti, con sus hijos y sus hermanos, doce;",
+      "number": 29,
+      "id": 11076
+    },
+    {
+      "verse": "la vigesimatercera para Mahaziot, con sus hijos y sus hermanos, doce;",
+      "number": 30,
+      "id": 11077
+    },
+    {
+      "verse": "la vigesimacuarta para Romanti-ezer, con sus hijos y sus hermanos, doce.",
+      "number": 31,
+      "id": 11078
+    }
+  ]
+}
