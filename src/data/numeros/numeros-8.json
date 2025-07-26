@@ -1,0 +1,140 @@
+{
+  "testament": "old",
+  "name": "Numeros",
+  "num_chapters": 36,
+  "chapter": 8,
+  "vers": [
+    {
+      "verse": "Habló Jehová a Moisés, diciendo:",
+      "number": 1,
+      "study": "Aarón enciende las lámparas",
+      "id": 3941
+    },
+    {
+      "verse": "Habla a Aarón y dile: Cuando enciendas las lámparas, las siete lámparas alumbrarán hacia adelante del candelero.",
+      "number": 2,
+      "id": 3942
+    },
+    {
+      "verse": "Y Aarón lo hizo así; encendió hacia la parte anterior del candelero sus lámparas, como Jehová lo mandó a Moisés.",
+      "number": 3,
+      "id": 3943
+    },
+    {
+      "verse": "Y esta era la hechura del candelero, de oro labrado a martillo; desde su pie hasta sus flores era labrado a martillo; conforme al modelo que Jehová mostró a Moisés, así hizo el candelero.",
+      "number": 4,
+      "id": 3944
+    },
+    {
+      "verse": "También Jehová habló a Moisés, diciendo:",
+      "number": 5,
+      "study": "Consagración de los levitas",
+      "id": 3945
+    },
+    {
+      "verse": "Toma a los levitas de entre los hijos de Israel, y haz expiación por ellos.",
+      "number": 6,
+      "id": 3946
+    },
+    {
+      "verse": "Así harás para expiación por ellos: Rocía sobre ellos el agua de la expiación, y haz pasar la navaja sobre todo su cuerpo, y lavarán sus vestidos, y serán purificados.",
+      "number": 7,
+      "id": 3947
+    },
+    {
+      "verse": "Luego tomarán un novillo, con su ofrenda de flor de harina amasada con aceite; y tomarás otro novillo para expiación.",
+      "number": 8,
+      "id": 3948
+    },
+    {
+      "verse": "Y harás que los levitas se acerquen delante del tabernáculo de reunión, y reunirás a toda la congregación de los hijos de Israel.",
+      "number": 9,
+      "id": 3949
+    },
+    {
+      "verse": "Y cuando hayas acercado a los levitas delante de Jehová, pondrán los hijos de Israel sus manos sobre los levitas;",
+      "number": 10,
+      "id": 3950
+    },
+    {
+      "verse": "y ofrecerá Aarón los levitas delante de Jehová en ofrenda de los hijos de Israel, y servirán en el ministerio de Jehová.",
+      "number": 11,
+      "id": 3951
+    },
+    {
+      "verse": "Y los levitas pondrán sus manos sobre las cabezas de los novillos; y ofrecerás el uno por expiación, y el otro en holocausto a Jehová, para hacer expiación por los levitas.",
+      "number": 12,
+      "id": 3952
+    },
+    {
+      "verse": "Y presentarás a los levitas delante de Aarón, y delante de sus hijos, y los ofrecerás en ofrenda a Jehová.",
+      "number": 13,
+      "id": 3953
+    },
+    {
+      "verse": "Así apartarás a los levitas de entre los hijos de Israel, y serán míos los levitas.",
+      "number": 14,
+      "id": 3954
+    },
+    {
+      "verse": "Después de eso vendrán los levitas a ministrar en el tabernáculo de reunión; serán purificados, y los ofrecerás en ofrenda.",
+      "number": 15,
+      "id": 3955
+    },
+    {
+      "verse": "Porque enteramente me son dedicados a mí los levitas de entre los hijos de Israel, en lugar de todo primer nacido; los he tomado para mí en lugar de los primogénitos de todos los hijos de Israel.",
+      "number": 16,
+      "id": 3956
+    },
+    {
+      "verse": "Porque mío es todo primogénito de entre los hijos de Israel, así de hombres como de animales; desde el día que yo herí a todo primogénito en la tierra de Egipto, los santifiqué para mí.",
+      "number": 17,
+      "id": 3957
+    },
+    {
+      "verse": "Y he tomado a los levitas en lugar de todos los primogénitos de los hijos de Israel.",
+      "number": 18,
+      "id": 3958
+    },
+    {
+      "verse": "Y yo he dado en don los levitas a Aarón y a sus hijos de entre los hijos de Israel, para que ejerzan el ministerio de los hijos de Israel en el tabernáculo de reunión, y reconcilien a los hijos de Israel; para que no haya plaga en los hijos de Israel, al acercarse los hijos de Israel al santuario.",
+      "number": 19,
+      "id": 3959
+    },
+    {
+      "verse": "Y Moisés y Aarón y toda la congregación de los hijos de Israel hicieron con los levitas conforme a todas las cosas que mandó Jehová a Moisés acerca de los levitas; así hicieron con ellos los hijos de Israel.",
+      "number": 20,
+      "id": 3960
+    },
+    {
+      "verse": "Y los levitas se purificaron, y lavaron sus vestidos; y Aarón los ofreció en ofrenda delante de Jehová, e hizo Aarón expiación por ellos para purificarlos.",
+      "number": 21,
+      "id": 3961
+    },
+    {
+      "verse": "Así vinieron después los levitas para ejercer su ministerio en el tabernáculo de reunión delante de Aarón y delante de sus hijos; de la manera que mandó Jehová a Moisés acerca de los levitas, así hicieron con ellos.",
+      "number": 22,
+      "id": 3962
+    },
+    {
+      "verse": "Luego habló Jehová a Moisés, diciendo:",
+      "number": 23,
+      "id": 3963
+    },
+    {
+      "verse": "Los levitas de veinticinco años arriba entrarán a ejercer su ministerio en el servicio del tabernáculo de reunión.",
+      "number": 24,
+      "id": 3964
+    },
+    {
+      "verse": "Pero desde los cincuenta años cesarán de ejercer su ministerio, y nunca más lo ejercerán.",
+      "number": 25,
+      "id": 3965
+    },
+    {
+      "verse": "Servirán con sus hermanos en el tabernáculo de reunión, para hacer la guardia, pero no servirán en el ministerio. Así harás con los levitas en cuanto a su ministerio.",
+      "number": 26,
+      "id": 3966
+    }
+  ]
+}

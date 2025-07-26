@@ -1,0 +1,290 @@
+{
+  "testament": "old",
+  "name": "Numeros",
+  "num_chapters": 36,
+  "chapter": 33,
+  "vers": [
+    {
+      "verse": "Estas son las jornadas de los hijos de Israel, que salieron de la tierra de Egipto por sus ejércitos, bajo el mando de Moisés y Aarón.",
+      "number": 1,
+      "study": "Jornadas de Israel desde Egipto hasta el Jordán",
+      "id": 4762
+    },
+    {
+      "verse": "Moisés escribió sus salidas conforme a sus jornadas por mandato de Jehová. Estas, pues, son sus jornadas con arreglo a sus salidas.",
+      "number": 2,
+      "id": 4763
+    },
+    {
+      "verse": "De Ramesés salieron en el mes primero, a los quince días del mes primero; el segundo día de la pascua salieron los hijos de Israel con mano poderosa, a vista de todos los egipcios,",
+      "number": 3,
+      "id": 4764
+    },
+    {
+      "verse": "mientras enterraban los egipcios a los que Jehová había herido de muerte de entre ellos, a todo primogénito; también había hecho Jehová juicios contra sus dioses.",
+      "number": 4,
+      "id": 4765
+    },
+    {
+      "verse": "Salieron, pues, los hijos de Israel de Ramesés, y acamparon en Sucot.",
+      "number": 5,
+      "id": 4766
+    },
+    {
+      "verse": "Salieron de Sucot y acamparon en Etam, que está al confín del desierto.",
+      "number": 6,
+      "id": 4767
+    },
+    {
+      "verse": "Salieron de Etam y volvieron sobre Pi-hahirot, que está delante de Baal-zefón, y acamparon delante de Migdol.",
+      "number": 7,
+      "id": 4768
+    },
+    {
+      "verse": "Salieron de Pi-hahirot y pasaron por en medio del mar al desierto, y anduvieron tres días de camino por el desierto de Etam, y acamparon en Mara.",
+      "number": 8,
+      "id": 4769
+    },
+    {
+      "verse": "Salieron de Mara y vinieron a Elim, donde había doce fuentes de aguas, y setenta palmeras; y acamparon allí.",
+      "number": 9,
+      "id": 4770
+    },
+    {
+      "verse": "Salieron de Elim y acamparon junto al Mar Rojo.",
+      "number": 10,
+      "id": 4771
+    },
+    {
+      "verse": "Salieron del Mar Rojo y acamparon en el desierto de Sin.",
+      "number": 11,
+      "id": 4772
+    },
+    {
+      "verse": "Salieron del desierto de Sin y acamparon en Dofca.",
+      "number": 12,
+      "id": 4773
+    },
+    {
+      "verse": "Salieron de Dofca y acamparon en Alús.",
+      "number": 13,
+      "id": 4774
+    },
+    {
+      "verse": "Salieron de Alús y acamparon en Refidim, donde el pueblo no tuvo aguas para beber.",
+      "number": 14,
+      "id": 4775
+    },
+    {
+      "verse": "Salieron de Refidim y acamparon en el desierto de Sinaí.",
+      "number": 15,
+      "id": 4776
+    },
+    {
+      "verse": "Salieron del desierto de Sinaí y acamparon en Kibrot- hataava.",
+      "number": 16,
+      "id": 4777
+    },
+    {
+      "verse": "Salieron de Kibrot-hataava y acamparon en Hazerot.",
+      "number": 17,
+      "id": 4778
+    },
+    {
+      "verse": "Salieron de Hazerot y acamparon en Ritma.",
+      "number": 18,
+      "id": 4779
+    },
+    {
+      "verse": "Salieron de Ritma y acamparon en Rimón-peres.",
+      "number": 19,
+      "id": 4780
+    },
+    {
+      "verse": "Salieron de Rimón-peres y acamparon en Libna.",
+      "number": 20,
+      "id": 4781
+    },
+    {
+      "verse": "Salieron de Libna y acamparon en Rissa.",
+      "number": 21,
+      "id": 4782
+    },
+    {
+      "verse": "Salieron de Rissa y acamparon en Ceelata.",
+      "number": 22,
+      "id": 4783
+    },
+    {
+      "verse": "Salieron de Ceelata y acamparon en el monte de Sefer.",
+      "number": 23,
+      "id": 4784
+    },
+    {
+      "verse": "Salieron del monte de Sefer y acamparon en Harada.",
+      "number": 24,
+      "id": 4785
+    },
+    {
+      "verse": "Salieron de Harada y acamparon en Macelot.",
+      "number": 25,
+      "id": 4786
+    },
+    {
+      "verse": "Salieron de Macelot y acamparon en Tahat.",
+      "number": 26,
+      "id": 4787
+    },
+    {
+      "verse": "Salieron de Tahat y acamparon en Tara.",
+      "number": 27,
+      "id": 4788
+    },
+    {
+      "verse": "Salieron de Tara y acamparon en Mitca.",
+      "number": 28,
+      "id": 4789
+    },
+    {
+      "verse": "Salieron de Mitca y acamparon en Hasmona.",
+      "number": 29,
+      "id": 4790
+    },
+    {
+      "verse": "Salieron de Hasmona y acamparon en Moserot.",
+      "number": 30,
+      "id": 4791
+    },
+    {
+      "verse": "Salieron de Moserot y acamparon en Bene-jaacán.",
+      "number": 31,
+      "id": 4792
+    },
+    {
+      "verse": "Salieron de Bene-jaacán y acamparon en el monte de Gidgad.",
+      "number": 32,
+      "id": 4793
+    },
+    {
+      "verse": "Salieron del monte de Gidgad y acamparon en Jotbata.",
+      "number": 33,
+      "id": 4794
+    },
+    {
+      "verse": "Salieron de Jotbata y acamparon en Abrona.",
+      "number": 34,
+      "id": 4795
+    },
+    {
+      "verse": "Salieron de Abrona y acamparon en Ezión-geber.",
+      "number": 35,
+      "id": 4796
+    },
+    {
+      "verse": "Salieron de Ezión-geber y acamparon en el desierto de Zin, que es Cades.",
+      "number": 36,
+      "id": 4797
+    },
+    {
+      "verse": "Y salieron de Cades y acamparon en el monte de Hor, en la extremidad del país de Edom.",
+      "number": 37,
+      "id": 4798
+    },
+    {
+      "verse": "Y subió el sacerdote Aarón al monte de Hor, conforme al dicho de Jehová, y allí murió  a los cuarenta años de la salida de los hijos de Israel de la tierra de Egipto, en el mes quinto, en el primero del mes.",
+      "number": 38,
+      "id": 4799
+    },
+    {
+      "verse": "Era Aarón de edad de ciento veintitrés años, cuando murió en el monte de Hor.",
+      "number": 39,
+      "id": 4800
+    },
+    {
+      "verse": "Y el cananeo, rey de Arad, que habitaba en el Neguev en la tierra de Canaán, oyó que habían venido los hijos de Israel.",
+      "number": 40,
+      "id": 4801
+    },
+    {
+      "verse": "Y salieron del monte de Hor y acamparon en Zalmona.",
+      "number": 41,
+      "id": 4802
+    },
+    {
+      "verse": "Salieron de Zalmona y acamparon en Punón.",
+      "number": 42,
+      "id": 4803
+    },
+    {
+      "verse": "Salieron de Punón y acamparon en Obot.",
+      "number": 43,
+      "id": 4804
+    },
+    {
+      "verse": "Salieron de Obot y acamparon en Ije-abarim, en la frontera de Moab.",
+      "number": 44,
+      "id": 4805
+    },
+    {
+      "verse": "Salieron de Ije-abarim y acamparon en Dibón-gad.",
+      "number": 45,
+      "id": 4806
+    },
+    {
+      "verse": "Salieron de Dibón-gad y acamparon en Almón-diblataim.",
+      "number": 46,
+      "id": 4807
+    },
+    {
+      "verse": "Salieron de Almón-diblataim y acamparon en los montes de Abarim, delante de Nebo.",
+      "number": 47,
+      "id": 4808
+    },
+    {
+      "verse": "Salieron de los montes de Abarim y acamparon en los campos de Moab, junto al Jordán, frente a Jericó.",
+      "number": 48,
+      "id": 4809
+    },
+    {
+      "verse": "Finalmente acamparon junto al Jordán, desde Bet-jesimot hasta Abel-sitim, en los campos de Moab.",
+      "number": 49,
+      "id": 4810
+    },
+    {
+      "verse": "Y habló Jehová a Moisés en los campos de Moab junto al Jordán frente a Jericó, diciendo:",
+      "number": 50,
+      "study": "Límites y repartición de Canaán",
+      "id": 4811
+    },
+    {
+      "verse": "Habla a los hijos de Israel, y diles: Cuando hayáis pasado el Jordán entrando en la tierra de Canaán,",
+      "number": 51,
+      "id": 4812
+    },
+    {
+      "verse": "echaréis de delante de vosotros a todos los moradores del país, y destruiréis todos sus ídolos de piedra, y todas sus imágenes de fundición, y destruiréis todos sus lugares altos;",
+      "number": 52,
+      "id": 4813
+    },
+    {
+      "verse": "y echaréis a los moradores de la tierra, y habitaréis en ella; porque yo os la he dado para que sea vuestra propiedad.",
+      "number": 53,
+      "id": 4814
+    },
+    {
+      "verse": "Y heredaréis la tierra por sorteo por vuestras familias; a los muchos daréis mucho por herencia, y a los pocos daréis menos por herencia; donde le cayere la suerte, allí la tendrá cada uno; por las tribus de vuestros padres heredaréis.",
+      "number": 54,
+      "id": 4815
+    },
+    {
+      "verse": "Y si no echareis a los moradores del país de delante de vosotros, sucederá que los que dejareis de ellos serán por aguijones en vuestros ojos y por espinas en vuestros costados, y os afligirán sobre la tierra en que vosotros habitareis.",
+      "number": 55,
+      "id": 4816
+    },
+    {
+      "verse": "Además, haré a vosotros como yo pensé hacerles a ellos.",
+      "number": 56,
+      "id": 4817
+    }
+  ]
+}

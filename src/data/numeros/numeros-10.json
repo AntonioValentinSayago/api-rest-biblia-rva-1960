@@ -1,0 +1,190 @@
+{
+  "testament": "old",
+  "name": "Numeros",
+  "num_chapters": 36,
+  "chapter": 10,
+  "vers": [
+    {
+      "verse": "Jehová habló a Moisés, diciendo:",
+      "number": 1,
+      "study": "Las trompetas de plata",
+      "id": 3990
+    },
+    {
+      "verse": "Hazte dos trompetas de plata; de obra de martillo las harás, las cuales te servirán para convocar la congregación, y para hacer mover los campamentos.",
+      "number": 2,
+      "id": 3991
+    },
+    {
+      "verse": "Y cuando las tocaren, toda la congregación se reunirá ante ti a la puerta del tabernáculo de reunión.",
+      "number": 3,
+      "id": 3992
+    },
+    {
+      "verse": "Mas cuando tocaren sólo una, entonces se congregarán ante ti los príncipes, los jefes de los millares de Israel.",
+      "number": 4,
+      "id": 3993
+    },
+    {
+      "verse": "Y cuando tocareis alarma, entonces moverán los campamentos de los que están acampados al oriente.",
+      "number": 5,
+      "id": 3994
+    },
+    {
+      "verse": "Y cuando tocareis alarma la segunda vez, entonces moverán los campamentos de los que están acampados al sur; alarma tocarán para sus partidas.",
+      "number": 6,
+      "id": 3995
+    },
+    {
+      "verse": "Pero para reunir la congregación tocaréis, mas no con sonido de alarma.",
+      "number": 7,
+      "id": 3996
+    },
+    {
+      "verse": "Y los hijos de Aarón, los sacerdotes, tocarán las trompetas; y las tendréis por estatuto perpetuo por vuestras generaciones.",
+      "number": 8,
+      "id": 3997
+    },
+    {
+      "verse": "Y cuando saliereis a la guerra en vuestra tierra contra el enemigo que os molestare, tocaréis alarma con las trompetas; y seréis recordados por Jehová vuestro Dios, y seréis salvos de vuestros enemigos.",
+      "number": 9,
+      "id": 3998
+    },
+    {
+      "verse": "Y en el día de vuestra alegría, y en vuestras solemnidades, y en los principios de vuestros meses, tocaréis las trompetas sobre vuestros holocaustos, y sobre los sacrificios de paz, y os serán por memoria delante de vuestro Dios. Yo Jehová vuestro Dios.",
+      "number": 10,
+      "id": 3999
+    },
+    {
+      "verse": "En el año segundo, en el mes segundo, a los veinte días del mes, la nube se alzó del tabernáculo del testimonio.",
+      "number": 11,
+      "study": "Los israelitas salen de Sinaí",
+      "id": 4000
+    },
+    {
+      "verse": "Y partieron los hijos de Israel del desierto de Sinaí según el orden de marcha; y se detuvo la nube en el desierto de Parán.",
+      "number": 12,
+      "id": 4001
+    },
+    {
+      "verse": "Partieron la primera vez al mandato de Jehová por medio de Moisés.",
+      "number": 13,
+      "id": 4002
+    },
+    {
+      "verse": "La bandera del campamento de los hijos de Judá comenzó a marchar primero, por sus ejércitos; y Naasón hijo de Aminadab estaba sobre su cuerpo de ejército.",
+      "number": 14,
+      "id": 4003
+    },
+    {
+      "verse": "Sobre el cuerpo de ejército de la tribu de los hijos de Isacar, Natanael hijo de Zuar.",
+      "number": 15,
+      "id": 4004
+    },
+    {
+      "verse": "Y sobre el cuerpo de ejército de la tribu de los hijos de Zabulón, Eliab hijo de Helón.",
+      "number": 16,
+      "id": 4005
+    },
+    {
+      "verse": "Después que estaba ya desarmado el tabernáculo, se movieron los hijos de Gersón y los hijos de Merari, que lo llevaban.",
+      "number": 17,
+      "id": 4006
+    },
+    {
+      "verse": "Luego comenzó a marchar la bandera del campamento de Rubén por sus ejércitos; y Elisur hijo de Sedeur estaba sobre su cuerpo de ejército.",
+      "number": 18,
+      "id": 4007
+    },
+    {
+      "verse": "Sobre el cuerpo de ejército de la tribu de los hijos de Simeón, Selumiel hijo de Zurisadai.",
+      "number": 19,
+      "id": 4008
+    },
+    {
+      "verse": "Y sobre el cuerpo de ejército de la tribu de los hijos de Gad, Eliasaf hijo de Deuel.",
+      "number": 20,
+      "id": 4009
+    },
+    {
+      "verse": "Luego comenzaron a marchar los coatitas llevando el santuario; y entretanto que ellos llegaban, los otros acondicionaron el tabernáculo.",
+      "number": 21,
+      "id": 4010
+    },
+    {
+      "verse": "Después comenzó a marchar la bandera del campamento de los hijos de Efraín por sus ejércitos; y Elisama hijo de Amiud estaba sobre su cuerpo de ejército.",
+      "number": 22,
+      "id": 4011
+    },
+    {
+      "verse": "Sobre el cuerpo de ejército de la tribu de los hijos de Manasés, Gamaliel hijo de Pedasur.",
+      "number": 23,
+      "id": 4012
+    },
+    {
+      "verse": "Y sobre el cuerpo de ejército de la tribu de los hijos de Benjamín, Abidán hijo de Gedeoni.",
+      "number": 24,
+      "id": 4013
+    },
+    {
+      "verse": "Luego comenzó a marchar la bandera del campamento de los hijos de Dan por sus ejércitos, a retaguardia de todos los campamentos; y Ahiezer hijo de Amisadai estaba sobre su cuerpo de ejército.",
+      "number": 25,
+      "id": 4014
+    },
+    {
+      "verse": "Sobre el cuerpo de ejército de la tribu de los hijos de Aser, Pagiel hijo de Ocrán.",
+      "number": 26,
+      "id": 4015
+    },
+    {
+      "verse": "Y sobre el cuerpo de ejército de la tribu de los hijos de Neftalí, Ahira hijo de Enán.",
+      "number": 27,
+      "id": 4016
+    },
+    {
+      "verse": "Este era el orden de marcha de los hijos de Israel por sus ejércitos cuando partían.",
+      "number": 28,
+      "id": 4017
+    },
+    {
+      "verse": "Entonces dijo Moisés a Hobab, hijo de Ragüel madianita, su suegro: Nosotros partimos para el lugar del cual Jehová ha dicho: Yo os lo daré. Ven con nosotros, y te haremos bien; porque Jehová ha prometido el bien a Israel.",
+      "number": 29,
+      "id": 4018
+    },
+    {
+      "verse": "Y él le respondió: Yo no iré, sino que me marcharé a mi tierra y a mi parentela.",
+      "number": 30,
+      "id": 4019
+    },
+    {
+      "verse": "Y él le dijo: Te ruego que no nos dejes; porque tú conoces los lugares donde hemos de acampar en el desierto, y nos serás en lugar de ojos.",
+      "number": 31,
+      "id": 4020
+    },
+    {
+      "verse": "Y si vienes con nosotros, cuando tengamos el bien que Jehová nos ha de hacer, nosotros te haremos bien.",
+      "number": 32,
+      "id": 4021
+    },
+    {
+      "verse": "Así partieron del monte de Jehová camino de tres días; y el arca del pacto de Jehová fue delante de ellos camino de tres días, buscándoles lugar de descanso.",
+      "number": 33,
+      "id": 4022
+    },
+    {
+      "verse": "Y la nube de Jehová iba sobre ellos de día, desde que salieron del campamento.",
+      "number": 34,
+      "id": 4023
+    },
+    {
+      "verse": "Cuando el arca se movía, Moisés decía: Levántate, oh Jehová, y sean dispersados tus enemigos, y huyan de tu presencia los que te aborrecen.",
+      "number": 35,
+      "id": 4024
+    },
+    {
+      "verse": "Y cuando ella se detenía, decía: Vuelve, oh Jehová, a los millares de millares de Israel.",
+      "number": 36,
+      "id": 4025
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "testament": "old",
+  "name": "Numeros",
+  "num_chapters": 36,
+  "chapter": 1,
+  "vers": [
+    {
+      "verse": "Habló Jehová a Moisés en el desierto de Sinaí, en el tabernáculo de reunión, en el día primero del mes segundo, en el segundo año de su salida de la tierra de Egipto, diciendo:",
+      "number": 1,
+      "study": "Censo de Israel en Sinaí",
+      "id": 3606
+    },
+    {
+      "verse": "Tomad el censo de toda la congregación de los hijos de Israel por sus familias, por las casas de sus padres, con la cuenta de los nombres, todos los varones por sus cabezas.",
+      "number": 2,
+      "id": 3607
+    },
+    {
+      "verse": "De veinte años arriba, todos los que pueden salir a la guerra en Israel, los contaréis tú y Aarón por sus ejércitos.",
+      "number": 3,
+      "id": 3608
+    },
+    {
+      "verse": "Y estará con vosotros un varón de cada tribu, cada uno jefe de la casa de sus padres.",
+      "number": 4,
+      "id": 3609
+    },
+    {
+      "verse": "Estos son los nombres de los varones que estarán con vosotros: De la tribu de Rubén, Elisur hijo de Sedeur.",
+      "number": 5,
+      "id": 3610
+    },
+    {
+      "verse": "De Simeón, Selumiel hijo de Zurisadai.",
+      "number": 6,
+      "id": 3611
+    },
+    {
+      "verse": "De Judá, Naasón hijo de Aminadab.",
+      "number": 7,
+      "id": 3612
+    },
+    {
+      "verse": "De Isacar, Natanael hijo de Zuar.",
+      "number": 8,
+      "id": 3613
+    },
+    {
+      "verse": "De Zabulón, Eliab hijo de Helón.",
+      "number": 9,
+      "id": 3614
+    },
+    {
+      "verse": "De los hijos de José: de Efraín, Elisama hijo de Amiud; de Manasés, Gamaliel hijo de Pedasur.",
+      "number": 10,
+      "id": 3615
+    },
+    {
+      "verse": "De Benjamín, Abidán hijo de Gedeoni.",
+      "number": 11,
+      "id": 3616
+    },
+    {
+      "verse": "De Dan, Ahiezer hijo de Amisadai.",
+      "number": 12,
+      "id": 3617
+    },
+    {
+      "verse": "De Aser, Pagiel hijo de Ocrán.",
+      "number": 13,
+      "id": 3618
+    },
+    {
+      "verse": "De Gad, Eliasaf hijo de Deuel.",
+      "number": 14,
+      "id": 3619
+    },
+    {
+      "verse": "De Neftalí, Ahira hijo de Enán.",
+      "number": 15,
+      "id": 3620
+    },
+    {
+      "verse": "Estos eran los nombrados de entre la congregación, príncipes de las tribus de sus padres, capitanes de los millares de Israel.",
+      "number": 16,
+      "id": 3621
+    },
+    {
+      "verse": "Tomaron, pues, Moisés y Aarón a estos varones que fueron designados por sus nombres,",
+      "number": 17,
+      "id": 3622
+    },
+    {
+      "verse": "y reunieron a toda la congregación en el día primero del mes segundo, y fueron agrupados por familias, según las casas de sus padres, conforme a la cuenta de los nombres por cabeza, de veinte años arriba.",
+      "number": 18,
+      "id": 3623
+    },
+    {
+      "verse": "Como Jehová lo había mandado a Moisés, los contó en el desierto de Sinaí.",
+      "number": 19,
+      "id": 3624
+    },
+    {
+      "verse": "De los hijos de Rubén, primogénito de Israel, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres por cabeza, todos los varones de veinte años arriba, todos los que podían salir a la guerra;",
+      "number": 20,
+      "id": 3625
+    },
+    {
+      "verse": "los contados de la tribu de Rubén fueron cuarenta y seis mil quinientos.",
+      "number": 21,
+      "id": 3626
+    },
+    {
+      "verse": "De los hijos de Simeón, por su descendencia, por sus familias, según las casas de sus padres, fueron contados conforme a la cuenta de los nombres por cabeza, todos los varones de veinte años arriba, todos los que podían salir a la guerra;",
+      "number": 22,
+      "id": 3627
+    },
+    {
+      "verse": "los contados de la tribu de Simeón fueron cincuenta y nueve mil trescientos.",
+      "number": 23,
+      "id": 3628
+    },
+    {
+      "verse": "De los hijos de Gad, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra;",
+      "number": 24,
+      "id": 3629
+    },
+    {
+      "verse": "los contados de la tribu de Gad fueron cuarenta y cinco mil seiscientos cincuenta.",
+      "number": 25,
+      "id": 3630
+    },
+    {
+      "verse": "De los hijos de Judá, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra;",
+      "number": 26,
+      "id": 3631
+    },
+    {
+      "verse": "los contados de la tribu de Judá fueron setenta y cuatro mil seiscientos.",
+      "number": 27,
+      "id": 3632
+    },
+    {
+      "verse": "De los hijos de Isacar, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra;",
+      "number": 28,
+      "id": 3633
+    },
+    {
+      "verse": "los contados de la tribu de Isacar fueron cincuenta y cuatro mil cuatrocientos.",
+      "number": 29,
+      "id": 3634
+    },
+    {
+      "verse": "De los hijos de Zabulón, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de sus nombres, de veinte años arriba, todos los que podían salir a la guerra;",
+      "number": 30,
+      "id": 3635
+    },
+    {
+      "verse": "los contados de la tribu de Zabulón fueron cincuenta y siete mil cuatrocientos.",
+      "number": 31,
+      "id": 3636
+    },
+    {
+      "verse": "De los hijos de José; de los hijos de Efraín, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra;",
+      "number": 32,
+      "id": 3637
+    },
+    {
+      "verse": "los contados de la tribu de Efraín fueron cuarenta mil quinientos.",
+      "number": 33,
+      "id": 3638
+    },
+    {
+      "verse": "Y de los hijos de Manasés, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra;",
+      "number": 34,
+      "id": 3639
+    },
+    {
+      "verse": "los contados de la tribu de Manasés fueron treinta y dos mil doscientos.",
+      "number": 35,
+      "id": 3640
+    },
+    {
+      "verse": "De los hijos de Benjamín, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra;",
+      "number": 36,
+      "id": 3641
+    },
+    {
+      "verse": "los contados de la tribu de Benjamín fueron treinta y cinco mil cuatrocientos.",
+      "number": 37,
+      "id": 3642
+    },
+    {
+      "verse": "De los hijos de Dan, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra;",
+      "number": 38,
+      "id": 3643
+    },
+    {
+      "verse": "los contados de la tribu de Dan fueron sesenta y dos mil setecientos.",
+      "number": 39,
+      "id": 3644
+    },
+    {
+      "verse": "De los hijos de Aser, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra;",
+      "number": 40,
+      "id": 3645
+    },
+    {
+      "verse": "los contados de la tribu de Aser fueron cuarenta y un mil quinientos.",
+      "number": 41,
+      "id": 3646
+    },
+    {
+      "verse": "De los hijos de Neftalí, por su descendencia, por sus familias, según las casas de sus padres, conforme a la cuenta de los nombres, de veinte años arriba, todos los que podían salir a la guerra;",
+      "number": 42,
+      "id": 3647
+    },
+    {
+      "verse": "los contados de la tribu de Neftalí fueron cincuenta y tres mil cuatrocientos.",
+      "number": 43,
+      "id": 3648
+    },
+    {
+      "verse": "Estos fueron los contados, los cuales contaron Moisés y Aarón, con los príncipes de Israel, doce varones, uno por cada casa de sus padres.",
+      "number": 44,
+      "id": 3649
+    },
+    {
+      "verse": "Y todos los contados de los hijos de Israel por las casas de sus padres, de veinte años arriba, todos los que podían salir a la guerra en Israel,",
+      "number": 45,
+      "id": 3650
+    },
+    {
+      "verse": "fueron todos los contados seiscientos tres mil quinientos cincuenta.",
+      "number": 46,
+      "id": 3651
+    },
+    {
+      "verse": "Pero los levitas, según la tribu de sus padres, no fueron contados entre ellos;",
+      "number": 47,
+      "study": "Nombramiento de los levitas",
+      "id": 3652
+    },
+    {
+      "verse": "porque habló Jehová a Moisés, diciendo:",
+      "number": 48,
+      "id": 3653
+    },
+    {
+      "verse": "Solamente no contarás la tribu de Leví, ni tomarás la cuenta de ellos entre los hijos de Israel,",
+      "number": 49,
+      "id": 3654
+    },
+    {
+      "verse": "sino que pondrás a los levitas en el tabernáculo del testimonio, y sobre todos sus utensilios, y sobre todas las cosas que le pertenecen; ellos llevarán el tabernáculo y todos sus enseres, y ellos servirán en él, y acamparán alrededor del tabernáculo.",
+      "number": 50,
+      "id": 3655
+    },
+    {
+      "verse": "Y cuando el tabernáculo haya de trasladarse, los levitas lo desarmarán, y cuando el tabernáculo haya de detenerse, los levitas lo armarán; y el extraño que se acercare morirá.",
+      "number": 51,
+      "id": 3656
+    },
+    {
+      "verse": "Los hijos de Israel acamparán cada uno en su campamento, y cada uno junto a su bandera, por sus ejércitos;",
+      "number": 52,
+      "id": 3657
+    },
+    {
+      "verse": "pero los levitas acamparán alrededor del tabernáculo del testimonio, para que no haya ira sobre la congregación de los hijos de Israel; y los levitas tendrán la guarda del tabernáculo del testimonio.",
+      "number": 53,
+      "id": 3658
+    },
+    {
+      "verse": "E hicieron los hijos de Israel conforme a todas las cosas que mandó Jehová a Moisés; así lo hicieron.",
+      "number": 54,
+      "id": 3659
+    }
+  ]
+}

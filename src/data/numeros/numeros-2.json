@@ -1,0 +1,179 @@
+{
+  "testament": "old",
+  "name": "Numeros",
+  "num_chapters": 36,
+  "chapter": 2,
+  "vers": [
+    {
+      "verse": "Habló Jehová a Moisés y a Aarón, diciendo:",
+      "number": 1,
+      "study": "Campamentos y jefes de las tribus",
+      "id": 3660
+    },
+    {
+      "verse": "Los hijos de Israel acamparán cada uno junto a su bandera, bajo las enseñas de las casas de sus padres; alrededor del tabernáculo de reunión acamparán.",
+      "number": 2,
+      "id": 3661
+    },
+    {
+      "verse": "Estos acamparán al oriente, al este: la bandera del campamento de Judá, por sus ejércitos; y el jefe de los hijos de Judá, Naasón hijo de Aminadab.",
+      "number": 3,
+      "id": 3662
+    },
+    {
+      "verse": "Su cuerpo de ejército, con sus contados, setenta y cuatro mil seiscientos.",
+      "number": 4,
+      "id": 3663
+    },
+    {
+      "verse": "Junto a él acamparán los de la tribu de Isacar; y el jefe de los hijos de Isacar, Natanael hijo de Zuar.",
+      "number": 5,
+      "id": 3664
+    },
+    {
+      "verse": "Su cuerpo de ejército, con sus contados, cincuenta y cuatro mil cuatrocientos.",
+      "number": 6,
+      "id": 3665
+    },
+    {
+      "verse": "Y la tribu de Zabulón; y el jefe de los hijos de Zabulón, Eliab hijo de Helón.",
+      "number": 7,
+      "id": 3666
+    },
+    {
+      "verse": "Su cuerpo de ejército, con sus contados, cincuenta y siete mil cuatrocientos.",
+      "number": 8,
+      "id": 3667
+    },
+    {
+      "verse": "Todos los contados en el campamento de Judá, ciento ochenta y seis mil cuatrocientos, por sus ejércitos, marcharán delante.",
+      "number": 9,
+      "id": 3668
+    },
+    {
+      "verse": "La bandera del campamento de Rubén estará al sur, por sus ejércitos; y el jefe de los hijos de Rubén, Elisur hijo de Sedeur.",
+      "number": 10,
+      "id": 3669
+    },
+    {
+      "verse": "Su cuerpo de ejército, con sus contados, cuarenta y seis mil quinientos.",
+      "number": 11,
+      "id": 3670
+    },
+    {
+      "verse": "Acamparán junto a él los de la tribu de Simeón; y el jefe de los hijos de Simeón, Selumiel hijo de Zurisadai.",
+      "number": 12,
+      "id": 3671
+    },
+    {
+      "verse": "Su cuerpo de ejército, con sus contados, cincuenta y nueve mil trescientos.",
+      "number": 13,
+      "id": 3672
+    },
+    {
+      "verse": "Y la tribu de Gad; y el jefe de los hijos de Gad, Eliasaf hijo de Reuel.",
+      "number": 14,
+      "id": 3673
+    },
+    {
+      "verse": "Su cuerpo de ejército, con sus contados, cuarenta y cinco mil seiscientos cincuenta.",
+      "number": 15,
+      "id": 3674
+    },
+    {
+      "verse": "Todos los contados en el campamento de Rubén, ciento cincuenta y un mil cuatrocientos cincuenta, por sus ejércitos, marcharán los segundos.",
+      "number": 16,
+      "id": 3675
+    },
+    {
+      "verse": "Luego irá el tabernáculo de reunión, con el campamento de los levitas, en medio de los campamentos en el orden en que acampan; así marchará cada uno junto a su bandera.",
+      "number": 17,
+      "id": 3676
+    },
+    {
+      "verse": "La bandera del campamento de Efraín por sus ejércitos, al occidente; y el jefe de los hijos de Efraín, Elisama hijo de Amiud.",
+      "number": 18,
+      "id": 3677
+    },
+    {
+      "verse": "Su cuerpo de ejército, con sus contados, cuarenta mil quinientos.",
+      "number": 19,
+      "id": 3678
+    },
+    {
+      "verse": "Junto a él estará la tribu de Manasés; y el jefe de los hijos de Manasés, Gamaliel hijo de Pedasur.",
+      "number": 20,
+      "id": 3679
+    },
+    {
+      "verse": "Su cuerpo de ejército, con sus contados, treinta y dos mil doscientos.",
+      "number": 21,
+      "id": 3680
+    },
+    {
+      "verse": "Y la tribu de Benjamín; y el jefe de los hijos de Benjamín, Abidán hijo de Gedeoni.",
+      "number": 22,
+      "id": 3681
+    },
+    {
+      "verse": "Y su cuerpo de ejército, con sus contados, treinta y cinco mil cuatrocientos.",
+      "number": 23,
+      "id": 3682
+    },
+    {
+      "verse": "Todos los contados en el campamento de Efraín, ciento ocho mil cien, por sus ejércitos, irán los terceros.",
+      "number": 24,
+      "id": 3683
+    },
+    {
+      "verse": "La bandera del campamento de Dan estará al norte, por sus ejércitos; y el jefe de los hijos de Dan, Ahiezer hijo de Amisadai.",
+      "number": 25,
+      "id": 3684
+    },
+    {
+      "verse": "Su cuerpo de ejército, con sus contados, sesenta y dos mil setecientos.",
+      "number": 26,
+      "id": 3685
+    },
+    {
+      "verse": "Junto a él acamparán los de la tribu de Aser; y el jefe de los hijos de Aser, Pagiel hijo de Ocrán.",
+      "number": 27,
+      "id": 3686
+    },
+    {
+      "verse": "Su cuerpo de ejército, con sus contados, cuarenta y un mil quinientos.",
+      "number": 28,
+      "id": 3687
+    },
+    {
+      "verse": "Y la tribu de Neftalí; y el jefe de los hijos de Neftalí, Ahira hijo de Enán.",
+      "number": 29,
+      "id": 3688
+    },
+    {
+      "verse": "Su cuerpo de ejército, con sus contados, cincuenta y tres mil cuatrocientos.",
+      "number": 30,
+      "id": 3689
+    },
+    {
+      "verse": "Todos los contados en el campamento de Dan, ciento cincuenta y siete mil seiscientos, irán los últimos tras sus banderas.",
+      "number": 31,
+      "id": 3690
+    },
+    {
+      "verse": "Estos son los contados de los hijos de Israel, según las casas de sus padres; todos los contados por campamentos, por sus ejércitos, seiscientos tres mil quinientos cincuenta.",
+      "number": 32,
+      "id": 3691
+    },
+    {
+      "verse": "Mas los levitas no fueron contados entre los hijos de Israel, como Jehová lo mandó a Moisés.",
+      "number": 33,
+      "id": 3692
+    },
+    {
+      "verse": "E hicieron los hijos de Israel conforme a todas las cosas que Jehová mandó a Moisés; así acamparon por sus banderas, y así marcharon cada uno por sus familias, según las casas de sus padres.",
+      "number": 34,
+      "id": 3693
+    }
+  ]
+}
