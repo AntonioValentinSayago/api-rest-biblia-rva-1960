@@ -1,0 +1,359 @@
+{
+  "testament": "old",
+  "name": "Esdras",
+  "num_chapters": 10,
+  "chapter": 2,
+  "vers": [
+    {
+      "verse": "Estos son los hijos de la provincia que subieron del cautiverio, de aquellos que Nabucodonosor rey de Babilonia había llevado cautivos a Babilonia, y que volvieron a Jerusalén y a Judá, cada uno a su ciudad;",
+      "number": 1,
+      "study": "Los que volvieron con Zorobabel",
+      "id": 12029
+    },
+    {
+      "verse": "los cuales vinieron con Zorobabel, Jesúa, Nehemías, Seraías, Reelaías, Mardoqueo, Bilsán, Mispar, Bigvai, Rehum y Baana. El número de los varones del pueblo de Israel:",
+      "number": 2,
+      "id": 12030
+    },
+    {
+      "verse": "Los hijos de Paros, dos mil ciento setenta y dos.",
+      "number": 3,
+      "id": 12031
+    },
+    {
+      "verse": "Los hijos de Sefatías, trescientos setenta y dos.",
+      "number": 4,
+      "id": 12032
+    },
+    {
+      "verse": "Los hijos de Ara, setecientos setenta y cinco.",
+      "number": 5,
+      "id": 12033
+    },
+    {
+      "verse": "Los hijos de Pahat-moab, de los hijos de Jesúa y de Joab, dos mil ochocientos doce.",
+      "number": 6,
+      "id": 12034
+    },
+    {
+      "verse": "Los hijos de Elam, mil doscientos cincuenta y cuatro.",
+      "number": 7,
+      "id": 12035
+    },
+    {
+      "verse": "Los hijos de Zatu, novecientos cuarenta y cinco.",
+      "number": 8,
+      "id": 12036
+    },
+    {
+      "verse": "Los hijos de Zacai, setecientos sesenta.",
+      "number": 9,
+      "id": 12037
+    },
+    {
+      "verse": "Los hijos de Bani, seiscientos cuarenta y dos.",
+      "number": 10,
+      "id": 12038
+    },
+    {
+      "verse": "Los hijos de Bebai, seiscientos veintitrés.",
+      "number": 11,
+      "id": 12039
+    },
+    {
+      "verse": "Los hijos de Azgad, mil doscientos veintidós.",
+      "number": 12,
+      "id": 12040
+    },
+    {
+      "verse": "Los hijos de Adonicam, seiscientos sesenta y seis.",
+      "number": 13,
+      "id": 12041
+    },
+    {
+      "verse": "Los hijos de Bigvai, dos mil cincuenta y seis.",
+      "number": 14,
+      "id": 12042
+    },
+    {
+      "verse": "Los hijos de Adín, cuatrocientos cincuenta y cuatro.",
+      "number": 15,
+      "id": 12043
+    },
+    {
+      "verse": "Los hijos de Ater, de Ezequías, noventa y ocho.",
+      "number": 16,
+      "id": 12044
+    },
+    {
+      "verse": "Los hijos de Bezai, trescientos veintitrés.",
+      "number": 17,
+      "id": 12045
+    },
+    {
+      "verse": "Los hijos de Jora, ciento doce.",
+      "number": 18,
+      "id": 12046
+    },
+    {
+      "verse": "Los hijos de Hasum, doscientos veintitrés.",
+      "number": 19,
+      "id": 12047
+    },
+    {
+      "verse": "Los hijos de Gibar, noventa y cinco.",
+      "number": 20,
+      "id": 12048
+    },
+    {
+      "verse": "Los hijos de Belén, ciento veintitrés.",
+      "number": 21,
+      "id": 12049
+    },
+    {
+      "verse": "Los varones de Netofa, cincuenta y seis.",
+      "number": 22,
+      "id": 12050
+    },
+    {
+      "verse": "Los varones de Anatot, ciento veintiocho.",
+      "number": 23,
+      "id": 12051
+    },
+    {
+      "verse": "Los hijos de Azmavet, cuarenta y dos.",
+      "number": 24,
+      "id": 12052
+    },
+    {
+      "verse": "Los hijos de Quiriat-jearim, Cafira y Beerot, setecientos cuarenta y tres.",
+      "number": 25,
+      "id": 12053
+    },
+    {
+      "verse": "Los hijos de Ramá y Geba, seiscientos veintiuno.",
+      "number": 26,
+      "id": 12054
+    },
+    {
+      "verse": "Los varones de Micmas, ciento veintidós.",
+      "number": 27,
+      "id": 12055
+    },
+    {
+      "verse": "Los varones de Bet-el y Hai, doscientos veintitrés.",
+      "number": 28,
+      "id": 12056
+    },
+    {
+      "verse": "Los hijos de Nebo, cincuenta y dos.",
+      "number": 29,
+      "id": 12057
+    },
+    {
+      "verse": "Los hijos de Magbis, ciento cincuenta y seis.",
+      "number": 30,
+      "id": 12058
+    },
+    {
+      "verse": "Los hijos del otro Elam, mil doscientos cincuenta y cuatro.",
+      "number": 31,
+      "id": 12059
+    },
+    {
+      "verse": "Los hijos de Harim, trescientos veinte.",
+      "number": 32,
+      "id": 12060
+    },
+    {
+      "verse": "Los hijos de Lod, Hadid y Ono, setecientos veinticinco.",
+      "number": 33,
+      "id": 12061
+    },
+    {
+      "verse": "Los hijos de Jericó, trescientos cuarenta y cinco.",
+      "number": 34,
+      "id": 12062
+    },
+    {
+      "verse": "Los hijos de Senaa, tres mil seiscientos treinta.",
+      "number": 35,
+      "id": 12063
+    },
+    {
+      "verse": "Los sacerdotes: los hijos de Jedaías, de la casa de Jesúa, novecientos setenta y tres.",
+      "number": 36,
+      "id": 12064
+    },
+    {
+      "verse": "Los hijos de Imer, mil cincuenta y dos.",
+      "number": 37,
+      "id": 12065
+    },
+    {
+      "verse": "Los hijos de Pasur, mil doscientos cuarenta y siete.",
+      "number": 38,
+      "id": 12066
+    },
+    {
+      "verse": "Los hijos de Harim, mil diecisiete.",
+      "number": 39,
+      "id": 12067
+    },
+    {
+      "verse": "Los levitas: los hijos de Jesúa y de Cadmiel, de los hijos de Hodavías, setenta y cuatro.",
+      "number": 40,
+      "id": 12068
+    },
+    {
+      "verse": "Los cantores: los hijos de Asaf, ciento veintiocho.",
+      "number": 41,
+      "id": 12069
+    },
+    {
+      "verse": "Los hijos de los porteros: los hijos de Salum, los hijos de Ater, los hijos de Talmón, los hijos de Acub, los hijos de Hatita, los hijos de Sobai; por todos, ciento treinta y nueve.",
+      "number": 42,
+      "id": 12070
+    },
+    {
+      "verse": "Los sirvientes del templo: los hijos de Ziha, los hijos de Hasufa, los hijos de Tabaot,",
+      "number": 43,
+      "id": 12071
+    },
+    {
+      "verse": "los hijos de Queros, los hijos de Siaha, los hijos de Padón,",
+      "number": 44,
+      "id": 12072
+    },
+    {
+      "verse": "los hijos de Lebana, los hijos de Hagaba, los hijos de Acub,",
+      "number": 45,
+      "id": 12073
+    },
+    {
+      "verse": "los hijos de Hagab, los hijos de Salmai, los hijos de Hanán,",
+      "number": 46,
+      "id": 12074
+    },
+    {
+      "verse": "los hijos de Gidel, los hijos de Gahar, los hijos de Reaía,",
+      "number": 47,
+      "id": 12075
+    },
+    {
+      "verse": "los hijos de Rezín, los hijos de Necoda, los hijos de Gazam,",
+      "number": 48,
+      "id": 12076
+    },
+    {
+      "verse": "los hijos de Uza, los hijos de Paseah, los hijos de Besai,",
+      "number": 49,
+      "id": 12077
+    },
+    {
+      "verse": "los hijos de Asena, los hijos de Meunim, los hijos de Nefusim,",
+      "number": 50,
+      "id": 12078
+    },
+    {
+      "verse": "los hijos de Bacbuc, los hijos de Hacufa, los hijos de Harhur,",
+      "number": 51,
+      "id": 12079
+    },
+    {
+      "verse": "los hijos de Bazlut, los hijos de Mehída, los hijos de Harsa,",
+      "number": 52,
+      "id": 12080
+    },
+    {
+      "verse": "los hijos de Barcos, los hijos de Sísara, los hijos de Tema,",
+      "number": 53,
+      "id": 12081
+    },
+    {
+      "verse": "los hijos de Nezía, los hijos de Hatifa.",
+      "number": 54,
+      "id": 12082
+    },
+    {
+      "verse": "Los hijos de los siervos de Salomón: los hijos de Sotai, los hijos de Soferet, los hijos de Peruda,",
+      "number": 55,
+      "id": 12083
+    },
+    {
+      "verse": "los hijos de Jaala, los hijos de Darcón, los hijos de Gidel,",
+      "number": 56,
+      "id": 12084
+    },
+    {
+      "verse": "los hijos de Sefatías, los hijos de Hatil, los hijos de Poqueret-hazebaim, los hijos de Ami.",
+      "number": 57,
+      "id": 12085
+    },
+    {
+      "verse": "Todos los sirvientes del templo, e hijos de los siervos de Salomón, trescientos noventa y dos.",
+      "number": 58,
+      "id": 12086
+    },
+    {
+      "verse": "Estos fueron los que subieron de Tel-mela, Tel-harsa, Querub, Addán e Imer que no pudieron demostrar la casa de sus padres, ni su linaje, si eran de Israel:",
+      "number": 59,
+      "id": 12087
+    },
+    {
+      "verse": "los hijos de Delaía, los hijos de Tobías, los hijos de Necoda, seiscientos cincuenta y dos.",
+      "number": 60,
+      "id": 12088
+    },
+    {
+      "verse": "Y de los hijos de los sacerdotes: los hijos de Habaía, los hijos de Cos, los hijos de Barzilai, el cual tomó mujer de las hijas de Barzilai galaadita, y fue llamado por el nombre de ellas.",
+      "number": 61,
+      "id": 12089
+    },
+    {
+      "verse": "Estos buscaron su registro de genealogías, y no fue hallado; y fueron excluidos del sacerdocio,",
+      "number": 62,
+      "id": 12090
+    },
+    {
+      "verse": "y el gobernador les dijo que no comiesen de las cosas más santas, hasta que hubiese sacerdote para consultar con Urim y Tumim.",
+      "number": 63,
+      "id": 12091
+    },
+    {
+      "verse": "Toda la congregación, unida como un solo hombre, era de cuarenta y dos mil trescientos sesenta,",
+      "number": 64,
+      "id": 12092
+    },
+    {
+      "verse": "sin contar sus siervos y siervas, los cuales eran siete mil trescientos treinta y siete; y tenían doscientos cantores y cantoras.",
+      "number": 65,
+      "id": 12093
+    },
+    {
+      "verse": "Sus caballos eran setecientos treinta y seis; sus mulas, doscientas cuarenta y cinco;",
+      "number": 66,
+      "id": 12094
+    },
+    {
+      "verse": "sus camellos, cuatrocientos treinta y cinco; asnos, seis mil setecientos veinte.",
+      "number": 67,
+      "id": 12095
+    },
+    {
+      "verse": "Y algunos de los jefes de casas paternas, cuando vinieron a la casa de Jehová que estaba en Jerusalén, hicieron ofrendas voluntarias para la casa de Dios, para reedificarla en su sitio.",
+      "number": 68,
+      "id": 12096
+    },
+    {
+      "verse": "Según sus fuerzas dieron al tesorero de la obra sesenta y un mil dracmas de oro, cinco mil libras de plata, y cien túnicas sacerdotales.",
+      "number": 69,
+      "id": 12097
+    },
+    {
+      "verse": "Y habitaron los sacerdotes, los levitas, los del pueblo, los cantores, los porteros y los sirvientes del templo en sus ciudades; y todo Israel en sus ciudades.",
+      "number": 70,
+      "id": 12098
+    }
+  ]
+}
