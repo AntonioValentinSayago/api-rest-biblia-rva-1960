@@ -1,0 +1,39 @@
+{
+  "testament": "old",
+  "name": "Malaquias",
+  "num_chapters": 4,
+  "chapter": 4,
+  "vers": [
+    {
+      "verse": "Porque he aquí, viene el día ardiente como un horno, y todos los soberbios y todos los que hacen maldad serán estopa; aquel día que vendrá los abrasará, ha dicho Jehová de los ejércitos, y no les dejará ni raíz ni rama.",
+      "number": 1,
+      "study": "El advenimiento del día de Jehová",
+      "id": 23139
+    },
+    {
+      "verse": "Mas a vosotros los que teméis mi nombre, nacerá el Sol de justicia, y en sus alas traerá salvación; y saldréis, y saltaréis como becerros de la manada.",
+      "number": 2,
+      "id": 23140
+    },
+    {
+      "verse": "Hollaréis a los malos, los cuales serán ceniza bajo las plantas de vuestros pies, en el día en que yo actúe, ha dicho Jehová de los ejércitos.",
+      "number": 3,
+      "id": 23141
+    },
+    {
+      "verse": "Acordaos de la ley de Moisés mi siervo, al cual encargué en Horeb ordenanzas y leyes para todo Israel.",
+      "number": 4,
+      "id": 23142
+    },
+    {
+      "verse": "He aquí, yo os envío el profeta Elías, antes que venga el día de Jehová, grande y terrible.",
+      "number": 5,
+      "id": 23143
+    },
+    {
+      "verse": "El hará volver el corazón de los padres hacia los hijos, y el corazón de los hijos hacia los padres, no sea que yo venga y hiera la tierra con maldición.",
+      "number": 6,
+      "id": 23144
+    }
+  ]
+}
