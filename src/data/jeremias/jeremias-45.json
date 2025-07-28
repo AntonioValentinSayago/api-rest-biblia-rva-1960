@@ -1,0 +1,34 @@
+{
+  "testament": "old",
+  "name": "Jeremias",
+  "num_chapters": 52,
+  "chapter": 45,
+  "vers": [
+    {
+      "verse": "Palabra que habló el profeta Jeremías a Baruc hijo de Nerías, cuando escribía en el libro estas palabras de boca de Jeremías, en el año cuarto de Joacim hijo de Josías rey de Judá, diciendo:",
+      "number": 1,
+      "study": "Mensaje a Baruc",
+      "id": 20041
+    },
+    {
+      "verse": "Así ha dicho Jehová Dios de Israel a ti, oh Baruc:",
+      "number": 2,
+      "id": 20042
+    },
+    {
+      "verse": "Tú dijiste: ¡Ay de mí ahora! porque ha añadido Jehová tristeza a mi dolor; fatigado estoy de gemir, y no he hallado descanso.",
+      "number": 3,
+      "id": 20043
+    },
+    {
+      "verse": "Así le dirás: Ha dicho Jehová: He aquí que yo destruyo a los que edifiqué, y arranco a los que planté, y a toda esta tierra.",
+      "number": 4,
+      "id": 20044
+    },
+    {
+      "verse": "¿Y tú buscas para ti grandezas? No las busques; porque he aquí que yo traigo mal sobre toda carne, ha dicho Jehová; pero a ti te daré tu vida por botín en todos los lugares adonde fueres.",
+      "number": 5,
+      "id": 20045
+    }
+  ]
+}

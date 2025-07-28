@@ -1,0 +1,44 @@
+{
+  "testament": "old",
+  "name": "Jeremias",
+  "num_chapters": 52,
+  "chapter": 47,
+  "vers": [
+    {
+      "verse": "Palabra de Jehová que vino al profeta Jeremías acerca de los filisteos, antes que Faraón destruyese a Gaza.",
+      "number": 1,
+      "study": "Profecía sobre los filisteos",
+      "id": 20074
+    },
+    {
+      "verse": "Así ha dicho Jehová: He aquí que suben aguas del norte, y se harán torrente; inundarán la tierra y su plenitud, la ciudad y los moradores de ella; y los hombres clamarán, y lamentará todo morador de la tierra.",
+      "number": 2,
+      "id": 20075
+    },
+    {
+      "verse": "Por el sonido de los cascos de sus caballos, por el alboroto de sus carros, por el estruendo de sus ruedas, los padres no cuidaron a los hijos por la debilidad de sus manos;",
+      "number": 3,
+      "id": 20076
+    },
+    {
+      "verse": "a causa del día que viene para destrucción de todos los filisteos, para destruir a Tiro y a Sidón todo aliado que les queda todavía; porque Jehová destruirá a los filisteos, al resto de la costa de Caftor.",
+      "number": 4,
+      "id": 20077
+    },
+    {
+      "verse": "Gaza fue rapada, Ascalón ha perecido, y el resto de su valle; ¿hasta cuándo te sajarás?",
+      "number": 5,
+      "id": 20078
+    },
+    {
+      "verse": "Oh espada de Jehová, ¿hasta cuándo reposarás? Vuelve a tu vaina, reposa y sosiégate.",
+      "number": 6,
+      "id": 20079
+    },
+    {
+      "verse": "¿Cómo reposarás? pues Jehová te ha enviado contra Ascalón, y contra la costa del mar, allí te puso.",
+      "number": 7,
+      "id": 20080
+    }
+  ]
+}
