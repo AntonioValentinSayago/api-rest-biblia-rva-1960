@@ -1,0 +1,178 @@
+{
+  "testament": "old",
+  "name": "Proverbios",
+  "num_chapters": 31,
+  "chapter": 24,
+  "vers": [
+    {
+      "verse": "No tengas envidia de los hombres malos, Ni desees estar con ellos;",
+      "number": 1,
+      "id": 17081
+    },
+    {
+      "verse": "Porque su corazón piensa en robar, E iniquidad hablan sus labios.",
+      "number": 2,
+      "id": 17082
+    },
+    {
+      "verse": "Con sabiduría se edificará la casa, Y con prudencia se afirmará;",
+      "number": 3,
+      "id": 17083
+    },
+    {
+      "verse": "Y con ciencia se llenarán las cámaras De todo bien preciado y agradable.",
+      "number": 4,
+      "id": 17084
+    },
+    {
+      "verse": "El hombre sabio es fuerte, Y de pujante vigor el hombre docto.",
+      "number": 5,
+      "id": 17085
+    },
+    {
+      "verse": "Porque con ingenio harás la guerra, Y en la multitud de consejeros está la victoria.",
+      "number": 6,
+      "id": 17086
+    },
+    {
+      "verse": "Alta está para el insensato la sabiduría; En la puerta no abrirá él su boca.",
+      "number": 7,
+      "id": 17087
+    },
+    {
+      "verse": "Al que piensa hacer el mal, Le llamarán hombre de malos pensamientos.",
+      "number": 8,
+      "id": 17088
+    },
+    {
+      "verse": "El pensamiento del necio es pecado, Y abominación a los hombres el escarnecedor.",
+      "number": 9,
+      "id": 17089
+    },
+    {
+      "verse": "Si fueres flojo en el día de trabajo, Tu fuerza será reducida.",
+      "number": 10,
+      "id": 17090
+    },
+    {
+      "verse": "Libra a los que son llevados a la muerte; Salva a los que están en peligro de muerte.",
+      "number": 11,
+      "id": 17091
+    },
+    {
+      "verse": "Porque si dijeres: Ciertamente no lo supimos, ¿Acaso no lo entenderá el que pesa los corazones? El que mira por tu alma, él lo conocerá, Y dará al hombre según sus obras.",
+      "number": 12,
+      "id": 17092
+    },
+    {
+      "verse": "Come, hijo mío, de la miel, porque es buena, Y el panal es dulce a tu paladar.",
+      "number": 13,
+      "id": 17093
+    },
+    {
+      "verse": "Así será a tu alma el conocimiento de la sabiduría; Si la hallares tendrás recompensa, Y al fin tu esperanza no será cortada.",
+      "number": 14,
+      "id": 17094
+    },
+    {
+      "verse": "Oh impío, no aceches la tienda del justo, No saquees su cámara;",
+      "number": 15,
+      "id": 17095
+    },
+    {
+      "verse": "Porque siete veces cae el justo, y vuelve a levantarse; Mas los impíos caerán en el mal.",
+      "number": 16,
+      "id": 17096
+    },
+    {
+      "verse": "Cuando cayere tu enemigo, no te regocijes, Y cuando tropezare, no se alegre tu corazón;",
+      "number": 17,
+      "id": 17097
+    },
+    {
+      "verse": "No sea que Jehová lo mire, y le desagrade, Y aparte de sobre él su enojo.",
+      "number": 18,
+      "id": 17098
+    },
+    {
+      "verse": "No te entremetas con los malignos, Ni tengas envidia de los impíos;",
+      "number": 19,
+      "id": 17099
+    },
+    {
+      "verse": "Porque para el malo no habrá buen fin, Y la lámpara de los impíos será apagada.",
+      "number": 20,
+      "id": 17100
+    },
+    {
+      "verse": "Teme a Jehová, hijo mío, y al rey; No te entremetas con los veleidosos;",
+      "number": 21,
+      "id": 17101
+    },
+    {
+      "verse": "Porque su quebrantamiento vendrá de repente; Y el quebrantamiento de ambos, ¿quién lo comprende?",
+      "number": 22,
+      "id": 17102
+    },
+    {
+      "verse": "También estos son dichos de los sabios: Hacer acepción de personas en el juicio no es bueno.",
+      "number": 23,
+      "id": 17103
+    },
+    {
+      "verse": "El que dijere al malo: Justo eres, Los pueblos lo maldecirán, y le detestarán las naciones;",
+      "number": 24,
+      "id": 17104
+    },
+    {
+      "verse": "Mas los que lo reprendieren tendrán felicidad, Y sobre ellos vendrá gran bendición.",
+      "number": 25,
+      "id": 17105
+    },
+    {
+      "verse": "Besados serán los labios Del que responde palabras rectas.",
+      "number": 26,
+      "id": 17106
+    },
+    {
+      "verse": "Prepara tus labores fuera, Y disponlas en tus campos, Y después edificarás tu casa.",
+      "number": 27,
+      "id": 17107
+    },
+    {
+      "verse": "No seas sin causa testigo contra tu prójimo, Y no lisonjees con tus labios.",
+      "number": 28,
+      "id": 17108
+    },
+    {
+      "verse": "No digas: Como me hizo, así le haré; Daré el pago al hombre según su obra.",
+      "number": 29,
+      "id": 17109
+    },
+    {
+      "verse": "Pasé junto al campo del hombre perezoso, Y junto a la viña del hombre falto de entendimiento;",
+      "number": 30,
+      "id": 17110
+    },
+    {
+      "verse": "Y he aquí que por toda ella habían crecido los espinos, Ortigas habían ya cubierto su faz, Y su cerca de piedra estaba ya destruida.",
+      "number": 31,
+      "id": 17111
+    },
+    {
+      "verse": "Miré, y lo puse en mi corazón; Lo vi, y tomé consejo.",
+      "number": 32,
+      "id": 17112
+    },
+    {
+      "verse": "Un poco de sueño, cabeceando otro poco, Poniendo mano sobre mano otro poco para dormir;",
+      "number": 33,
+      "id": 17113
+    },
+    {
+      "verse": "Así vendrá como caminante tu necesidad, Y tu pobreza como hombre armado.",
+      "number": 34,
+      "id": 17114
+    }
+  ]
+}

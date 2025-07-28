@@ -1,0 +1,174 @@
+{
+  "testament": "old",
+  "name": "Proverbios",
+  "num_chapters": 31,
+  "chapter": 30,
+  "vers": [
+    {
+      "verse": "Palabras de Agur, hijo de Jaqué; la profecía que dijo el varón a Itiel, a Itiel y a Ucal.",
+      "number": 1,
+      "study": "Las palabras de Agur",
+      "id": 17253
+    },
+    {
+      "verse": "Ciertamente más rudo soy yo que ninguno, Ni tengo entendimiento de hombre.",
+      "number": 2,
+      "id": 17254
+    },
+    {
+      "verse": "Yo ni aprendí sabiduría, Ni conozco la ciencia del Santo.",
+      "number": 3,
+      "id": 17255
+    },
+    {
+      "verse": "¿Quién subió al cielo, y descendió? ¿Quién encerró los vientos en sus puños? ¿Quién ató las aguas en un paño? ¿Quién afirmó todos los términos de la tierra? ¿Cuál es su nombre, y el nombre de su hijo, si sabes?",
+      "number": 4,
+      "id": 17256
+    },
+    {
+      "verse": "Toda palabra de Dios es limpia; El es escudo a los que en él esperan.",
+      "number": 5,
+      "id": 17257
+    },
+    {
+      "verse": "No añadas a sus palabras, para que no te reprenda, Y seas hallado mentiroso.",
+      "number": 6,
+      "id": 17258
+    },
+    {
+      "verse": "Dos cosas te he demandado; No me las niegues antes que muera:",
+      "number": 7,
+      "id": 17259
+    },
+    {
+      "verse": "Vanidad y palabra mentirosa aparta de mí; No me des pobreza ni riquezas; Manténme del pan necesario;",
+      "number": 8,
+      "id": 17260
+    },
+    {
+      "verse": "No sea que me sacie, y te niegue, y diga: ¿Quién es Jehová? O que siendo pobre, hurte, Y blasfeme el nombre de mi Dios.",
+      "number": 9,
+      "id": 17261
+    },
+    {
+      "verse": "No acuses al siervo ante su señor, No sea que te maldiga, y lleves el castigo.",
+      "number": 10,
+      "id": 17262
+    },
+    {
+      "verse": "Hay generación que maldice a su padre Y a su madre no bendice.",
+      "number": 11,
+      "id": 17263
+    },
+    {
+      "verse": "Hay generación limpia en su propia opinión, Si bien no se ha limpiado de su inmundicia.",
+      "number": 12,
+      "id": 17264
+    },
+    {
+      "verse": "Hay generación cuyos ojos son altivos Y cuyos párpados están levantados en alto.",
+      "number": 13,
+      "id": 17265
+    },
+    {
+      "verse": "Hay generación cuyos dientes son espadas, y sus muelas cuchillos, Para devorar a los pobres de la tierra, y a los menesterosos de entre los hombres.",
+      "number": 14,
+      "id": 17266
+    },
+    {
+      "verse": "La sanguijuela tiene dos hijas que dicen: ¡Dame! ¡dame! Tres cosas hay que nunca se sacian; Aun la cuarta nunca dice: ¡Basta!",
+      "number": 15,
+      "id": 17267
+    },
+    {
+      "verse": "El Seol, la matriz estéril, La tierra que no se sacia de aguas, Y el fuego que jamás dice: ¡Basta!",
+      "number": 16,
+      "id": 17268
+    },
+    {
+      "verse": "El ojo que escarnece a su padre Y menosprecia la enseñanza de la madre, Los cuervos de la cañada lo saquen, Y lo devoren los hijos del águila.",
+      "number": 17,
+      "id": 17269
+    },
+    {
+      "verse": "Tres cosas me son ocultas; Aun tampoco sé la cuarta:",
+      "number": 18,
+      "id": 17270
+    },
+    {
+      "verse": "El rastro del águila en el aire; El rastro de la culebra sobre la peña; El rastro de la nave en medio del mar; Y el rastro del hombre en la doncella.",
+      "number": 19,
+      "id": 17271
+    },
+    {
+      "verse": "El proceder de la mujer adúltera es así: Come, y limpia su boca Y dice: No he hecho maldad.",
+      "number": 20,
+      "id": 17272
+    },
+    {
+      "verse": "Por tres cosas se alborota la tierra, Y la cuarta ella no puede sufrir:",
+      "number": 21,
+      "id": 17273
+    },
+    {
+      "verse": "Por el siervo cuando reina; Por el necio cuando se sacia de pan;",
+      "number": 22,
+      "id": 17274
+    },
+    {
+      "verse": "Por la mujer odiada cuando se casa; Y por la sierva cuando hereda a su señora.",
+      "number": 23,
+      "id": 17275
+    },
+    {
+      "verse": "Cuatro cosas son de las más pequeñas de la tierra, Y las mismas son más sabias que los sabios:",
+      "number": 24,
+      "id": 17276
+    },
+    {
+      "verse": "Las hormigas, pueblo no fuerte, Y en el verano preparan su comida;",
+      "number": 25,
+      "id": 17277
+    },
+    {
+      "verse": "Los conejos, pueblo nada esforzado, Y ponen su casa en la piedra;",
+      "number": 26,
+      "id": 17278
+    },
+    {
+      "verse": "Las langostas, que no tienen rey, Y salen todas por cuadrillas;",
+      "number": 27,
+      "id": 17279
+    },
+    {
+      "verse": "La araña que atrapas con la mano, Y está en palacios de rey.",
+      "number": 28,
+      "id": 17280
+    },
+    {
+      "verse": "Tres cosas hay de hermoso andar, Y la cuarta pasea muy bien:",
+      "number": 29,
+      "id": 17281
+    },
+    {
+      "verse": "El león, fuerte entre todos los animales, Que no vuelve atrás por nada;",
+      "number": 30,
+      "id": 17282
+    },
+    {
+      "verse": "El ceñido de lomos; asimismo el macho cabrío; Y el rey, a quien nadie resiste.",
+      "number": 31,
+      "id": 17283
+    },
+    {
+      "verse": "Si neciamente has procurado enaltecerte, O si has pensado hacer mal, Pon el dedo sobre tu boca.",
+      "number": 32,
+      "id": 17284
+    },
+    {
+      "verse": "Ciertamente el que bate la leche sacará mantequilla, Y el que recio se suena las narices sacará sangre; Y el que provoca la ira causará contienda.",
+      "number": 33,
+      "id": 17285
+    }
+  ]
+}

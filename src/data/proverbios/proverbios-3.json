@@ -1,0 +1,184 @@
+{
+  "testament": "old",
+  "name": "Proverbios",
+  "num_chapters": 31,
+  "chapter": 3,
+  "vers": [
+    {
+      "verse": "Hijo mío, no te olvides de mi ley, Y tu corazón guarde mis mandamientos;",
+      "number": 1,
+      "study": "Exhortación a la obediencia",
+      "id": 16457
+    },
+    {
+      "verse": "Porque largura de días y años de vida Y paz te aumentarán.",
+      "number": 2,
+      "id": 16458
+    },
+    {
+      "verse": "Nunca se aparten de ti la misericordia y la verdad; Atalas a tu cuello, Escríbelas en la tabla de tu corazón;",
+      "number": 3,
+      "id": 16459
+    },
+    {
+      "verse": "Y hallarás gracia y buena opinión Ante los ojos de Dios y de los hombres.",
+      "number": 4,
+      "id": 16460
+    },
+    {
+      "verse": "Fíate de Jehová de todo tu corazón, Y no te apoyes en tu propia prudencia.",
+      "number": 5,
+      "id": 16461
+    },
+    {
+      "verse": "Reconócelo en todos tus caminos, Y él enderezará tus veredas.",
+      "number": 6,
+      "id": 16462
+    },
+    {
+      "verse": "No seas sabio en tu propia opinión; Teme a Jehová, y apártate del mal;",
+      "number": 7,
+      "id": 16463
+    },
+    {
+      "verse": "Porque será medicina a tu cuerpo, Y refrigerio para tus huesos.",
+      "number": 8,
+      "id": 16464
+    },
+    {
+      "verse": "Honra a Jehová con tus bienes, Y con las primicias de todos tus frutos;",
+      "number": 9,
+      "id": 16465
+    },
+    {
+      "verse": "Y serán llenos tus graneros con abundancia, Y tus lagares rebosarán de mosto.",
+      "number": 10,
+      "id": 16466
+    },
+    {
+      "verse": "No menosprecies, hijo mío, el castigo de Jehová, Ni te fatigues de su corrección;",
+      "number": 11,
+      "id": 16467
+    },
+    {
+      "verse": "Porque Jehová al que ama castiga, Como el padre al hijo a quien quiere.",
+      "number": 12,
+      "id": 16468
+    },
+    {
+      "verse": "Bienaventurado el hombre que halla la sabiduría, Y que obtiene la inteligencia;",
+      "number": 13,
+      "id": 16469
+    },
+    {
+      "verse": "Porque su ganancia es mejor que la ganancia de la plata, Y sus frutos más que el oro fino.",
+      "number": 14,
+      "id": 16470
+    },
+    {
+      "verse": "Más preciosa es que las piedras preciosas; Y todo lo que puedes desear, no se puede comparar a ella.",
+      "number": 15,
+      "id": 16471
+    },
+    {
+      "verse": "Largura de días está en su mano derecha; En su izquierda, riquezas y honra.",
+      "number": 16,
+      "id": 16472
+    },
+    {
+      "verse": "Sus caminos son caminos deleitosos, Y todas sus veredas paz.",
+      "number": 17,
+      "id": 16473
+    },
+    {
+      "verse": "Ella es árbol de vida a los que de ella echan mano, Y bienaventurados son los que la retienen.",
+      "number": 18,
+      "id": 16474
+    },
+    {
+      "verse": "Jehová con sabiduría fundó la tierra; Afirmó los cielos con inteligencia.",
+      "number": 19,
+      "id": 16475
+    },
+    {
+      "verse": "Con su ciencia los abismos fueron divididos, Y destilan rocío los cielos.",
+      "number": 20,
+      "id": 16476
+    },
+    {
+      "verse": "Hijo mío, no se aparten estas cosas de tus ojos; Guarda la ley y el consejo,",
+      "number": 21,
+      "id": 16477
+    },
+    {
+      "verse": "Y serán vida a tu alma, Y gracia a tu cuello.",
+      "number": 22,
+      "id": 16478
+    },
+    {
+      "verse": "Entonces andarás por tu camino confiadamente, Y tu pie no tropezará.",
+      "number": 23,
+      "id": 16479
+    },
+    {
+      "verse": "Cuando te acuestes, no tendrás temor, Sino que te acostarás, y tu sueño será grato.",
+      "number": 24,
+      "id": 16480
+    },
+    {
+      "verse": "No tendrás temor de pavor repentino, Ni de la ruina de los impíos cuando viniere,",
+      "number": 25,
+      "id": 16481
+    },
+    {
+      "verse": "Porque Jehová será tu confianza, Y él preservará tu pie de quedar preso.",
+      "number": 26,
+      "id": 16482
+    },
+    {
+      "verse": "No te niegues a hacer el bien a quien es debido, Cuando tuvieres poder para hacerlo.",
+      "number": 27,
+      "id": 16483
+    },
+    {
+      "verse": "No digas a tu prójimo: Anda, y vuelve, Y mañana te daré, Cuando tienes contigo qué darle.",
+      "number": 28,
+      "id": 16484
+    },
+    {
+      "verse": "No intentes mal contra tu prójimo Que habita confiado junto a ti.",
+      "number": 29,
+      "id": 16485
+    },
+    {
+      "verse": "No tengas pleito con nadie sin razón, Si no te han hecho agravio.",
+      "number": 30,
+      "id": 16486
+    },
+    {
+      "verse": "No envidies al hombre injusto, Ni escojas ninguno de sus caminos.",
+      "number": 31,
+      "id": 16487
+    },
+    {
+      "verse": "Porque Jehová abomina al perverso; Mas su comunión íntima es con los justos.",
+      "number": 32,
+      "id": 16488
+    },
+    {
+      "verse": "La maldición de Jehová está en la casa del impío, Pero bendecirá la morada de los justos.",
+      "number": 33,
+      "id": 16489
+    },
+    {
+      "verse": "Ciertamente él escarnecerá a los escarnecedores, Y a los humildes dará gracia.",
+      "number": 34,
+      "id": 16490
+    },
+    {
+      "verse": "Los sabios heredarán honra, Mas los necios llevarán ignominia.",
+      "number": 35,
+      "id": 16491
+    }
+  ]
+}
