@@ -1,0 +1,178 @@
+{
+  "testament": "old",
+  "name": "Job",
+  "num_chapters": 42,
+  "chapter": 41,
+  "vers": [
+    {
+      "verse": "¿Sacarás tú al leviatán con anzuelo, O con cuerda que le eches en su lengua?",
+      "number": 1,
+      "id": 13890
+    },
+    {
+      "verse": "¿Pondrás tú soga en sus narices, Y horadarás con garfio su quijada?",
+      "number": 2,
+      "id": 13891
+    },
+    {
+      "verse": "¿Multiplicará él ruegos para contigo? ¿Te hablará él lisonjas?",
+      "number": 3,
+      "id": 13892
+    },
+    {
+      "verse": "¿Hará pacto contigo Para que lo tomes por siervo perpetuo?",
+      "number": 4,
+      "id": 13893
+    },
+    {
+      "verse": "¿Jugarás con él como con pájaro, O lo atarás para tus niñas?",
+      "number": 5,
+      "id": 13894
+    },
+    {
+      "verse": "¿Harán de él banquete los compañeros? ¿Lo repartirán entre los mercaderes?",
+      "number": 6,
+      "id": 13895
+    },
+    {
+      "verse": "¿Cortarás tú con cuchillo su piel, O con arpón de pescadores su cabeza?",
+      "number": 7,
+      "id": 13896
+    },
+    {
+      "verse": "Pon tu mano sobre él; Te acordarás de la batalla, y nunca más volverás.",
+      "number": 8,
+      "id": 13897
+    },
+    {
+      "verse": "He aquí que la esperanza acerca de él será burlada, Porque aun a su sola vista se desmayarán.",
+      "number": 9,
+      "id": 13898
+    },
+    {
+      "verse": "Nadie hay tan osado que lo despierte; ¿Quién, pues, podrá estar delante de mí?",
+      "number": 10,
+      "id": 13899
+    },
+    {
+      "verse": "¿Quién me ha dado a mí primero, para que yo restituya? Todo lo que hay debajo del cielo es mío.",
+      "number": 11,
+      "id": 13900
+    },
+    {
+      "verse": "No guardaré silencio sobre sus miembros, Ni sobre sus fuerzas y la gracia de su disposición.",
+      "number": 12,
+      "id": 13901
+    },
+    {
+      "verse": "¿Quién descubrirá la delantera de su vestidura? ¿Quién se acercará a él con su freno doble?",
+      "number": 13,
+      "id": 13902
+    },
+    {
+      "verse": "¿Quién abrirá las puertas de su rostro? Las hileras de sus dientes espantan.",
+      "number": 14,
+      "id": 13903
+    },
+    {
+      "verse": "La gloria de su vestido son escudos fuertes, Cerrados entre sí estrechamente.",
+      "number": 15,
+      "id": 13904
+    },
+    {
+      "verse": "El uno se junta con el otro, Que viento no entra entre ellos.",
+      "number": 16,
+      "id": 13905
+    },
+    {
+      "verse": "Pegado está el uno con el otro; Están trabados entre sí, que no se pueden apartar.",
+      "number": 17,
+      "id": 13906
+    },
+    {
+      "verse": "Con sus estornudos enciende lumbre, Y sus ojos son como los párpados del alba.",
+      "number": 18,
+      "id": 13907
+    },
+    {
+      "verse": "De su boca salen hachones de fuego; Centellas de fuego proceden.",
+      "number": 19,
+      "id": 13908
+    },
+    {
+      "verse": "De sus narices sale humo, Como de una olla o caldero que hierve.",
+      "number": 20,
+      "id": 13909
+    },
+    {
+      "verse": "Su aliento enciende los carbones, Y de su boca sale llama.",
+      "number": 21,
+      "id": 13910
+    },
+    {
+      "verse": "En su cerviz está la fuerza, Y delante de él se esparce el desaliento.",
+      "number": 22,
+      "id": 13911
+    },
+    {
+      "verse": "Las partes más flojas de su carne están endurecidas; Están en él firmes, y no se mueven.",
+      "number": 23,
+      "id": 13912
+    },
+    {
+      "verse": "Su corazón es firme como una piedra, Y fuerte como la muela de abajo.",
+      "number": 24,
+      "id": 13913
+    },
+    {
+      "verse": "De su grandeza tienen temor los fuertes, Y a causa de su desfallecimiento hacen por purificarse.",
+      "number": 25,
+      "id": 13914
+    },
+    {
+      "verse": "Cuando alguno lo alcanzare, Ni espada, ni lanza, ni dardo, ni coselete durará.",
+      "number": 26,
+      "id": 13915
+    },
+    {
+      "verse": "Estima como paja el hierro, Y el bronce como leño podrido.",
+      "number": 27,
+      "id": 13916
+    },
+    {
+      "verse": "Saeta no le hace huir; Las piedras de honda le son como paja.",
+      "number": 28,
+      "id": 13917
+    },
+    {
+      "verse": "Tiene toda arma por hojarasca, Y del blandir de la jabalina se burla.",
+      "number": 29,
+      "id": 13918
+    },
+    {
+      "verse": "Por debajo tiene agudas conchas; Imprime su agudez en el suelo.",
+      "number": 30,
+      "id": 13919
+    },
+    {
+      "verse": "Hace hervir como una olla el mar profundo, Y lo vuelve como una olla de ungüento.",
+      "number": 31,
+      "id": 13920
+    },
+    {
+      "verse": "En pos de sí hace resplandecer la senda, Que parece que el abismo es cano.",
+      "number": 32,
+      "id": 13921
+    },
+    {
+      "verse": "No hay sobre la tierra quien se le parezca; Animal hecho exento de temor.",
+      "number": 33,
+      "id": 13922
+    },
+    {
+      "verse": "Menosprecia toda cosa alta; Es rey sobre todos los soberbios.",
+      "number": 34,
+      "id": 13923
+    }
+  ]
+}

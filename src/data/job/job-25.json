@@ -1,0 +1,39 @@
+{
+  "testament": "old",
+  "name": "Job",
+  "num_chapters": 42,
+  "chapter": 25,
+  "vers": [
+    {
+      "verse": "Respondió Bildad suhita, y dijo:",
+      "number": 1,
+      "study": "Bildad niega que el hombre pueda ser justificado delante de Dios",
+      "id": 13463
+    },
+    {
+      "verse": "El señorío y el temor están con él; El hace paz en sus alturas.",
+      "number": 2,
+      "id": 13464
+    },
+    {
+      "verse": "¿Tienen sus ejércitos número? ¿Sobre quién no está su luz?",
+      "number": 3,
+      "id": 13465
+    },
+    {
+      "verse": "¿Cómo, pues, se justificará el hombre para con Dios? ¿Y cómo será limpio el que nace de mujer?",
+      "number": 4,
+      "id": 13466
+    },
+    {
+      "verse": "He aquí que ni aun la misma luna será resplandeciente, Ni las estrellas son limpias delante de sus ojos;",
+      "number": 5,
+      "id": 13467
+    },
+    {
+      "verse": "¿Cuánto menos el hombre, que es un gusano, Y el hijo de hombre, también gusano?",
+      "number": 6,
+      "id": 13468
+    }
+  ]
+}

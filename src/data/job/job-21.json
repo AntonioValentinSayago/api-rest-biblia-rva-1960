@@ -1,0 +1,179 @@
+{
+  "testament": "old",
+  "name": "Job",
+  "num_chapters": 42,
+  "chapter": 21,
+  "vers": [
+    {
+      "verse": "Entonces respondió Job, y dijo:",
+      "number": 1,
+      "study": "Job afirma que los malos prosperan",
+      "id": 13357
+    },
+    {
+      "verse": "Oíd atentamente mi palabra, Y sea esto el consuelo que me deis.",
+      "number": 2,
+      "id": 13358
+    },
+    {
+      "verse": "Toleradme, y yo hablaré; Y después que haya hablado, escarneced.",
+      "number": 3,
+      "id": 13359
+    },
+    {
+      "verse": "¿Acaso me quejo yo de algún hombre? ¿Y por qué no se ha de angustiar mi espíritu?",
+      "number": 4,
+      "id": 13360
+    },
+    {
+      "verse": "Miradme, y espantaos, Y poned la mano sobre la boca.",
+      "number": 5,
+      "id": 13361
+    },
+    {
+      "verse": "Aun yo mismo, cuando me acuerdo, me asombro, Y el temblor estremece mi carne.",
+      "number": 6,
+      "id": 13362
+    },
+    {
+      "verse": "¿Por qué viven los impíos, Y se envejecen, y aun crecen en riquezas?",
+      "number": 7,
+      "id": 13363
+    },
+    {
+      "verse": "Su descendencia se robustece a su vista, Y sus renuevos están delante de sus ojos.",
+      "number": 8,
+      "id": 13364
+    },
+    {
+      "verse": "Sus casas están a salvo de temor, Ni viene azote de Dios sobre ellos.",
+      "number": 9,
+      "id": 13365
+    },
+    {
+      "verse": "Sus toros engendran, y no fallan; Paren sus vacas, y no malogran su cría.",
+      "number": 10,
+      "id": 13366
+    },
+    {
+      "verse": "Salen sus pequeñuelos como manada, Y sus hijos andan saltando.",
+      "number": 11,
+      "id": 13367
+    },
+    {
+      "verse": "Al son de tamboril y de cítara saltan, Y se regocijan al son de la flauta.",
+      "number": 12,
+      "id": 13368
+    },
+    {
+      "verse": "Pasan sus días en prosperidad, Y en paz descienden al Seol.",
+      "number": 13,
+      "id": 13369
+    },
+    {
+      "verse": "Dicen, pues, a Dios: Apártate de nosotros, Porque no queremos el conocimiento de tus caminos.",
+      "number": 14,
+      "id": 13370
+    },
+    {
+      "verse": "¿Quién es el Todopoderoso, para que le sirvamos? ¿Y de qué nos aprovechará que oremos a él?",
+      "number": 15,
+      "id": 13371
+    },
+    {
+      "verse": "He aquí que su bien no está en mano de ellos; El consejo de los impíos lejos esté de mí.",
+      "number": 16,
+      "id": 13372
+    },
+    {
+      "verse": "¡Oh, cuántas veces la lámpara de los impíos es apagada, Y viene sobre ellos su quebranto, Y Dios en su ira les reparte dolores!",
+      "number": 17,
+      "id": 13373
+    },
+    {
+      "verse": "Serán como la paja delante del viento, Y como el tamo que arrebata el torbellino.",
+      "number": 18,
+      "id": 13374
+    },
+    {
+      "verse": "Dios guardará para los hijos de ellos su violencia; Le dará su pago, para que conozca.",
+      "number": 19,
+      "id": 13375
+    },
+    {
+      "verse": "Verán sus ojos su quebranto, Y beberá de la ira del Todopoderoso.",
+      "number": 20,
+      "id": 13376
+    },
+    {
+      "verse": "Porque ¿qué deleite tendrá él de su casa después de sí, Siendo cortado el número de sus meses?",
+      "number": 21,
+      "id": 13377
+    },
+    {
+      "verse": "¿Enseñará alguien a Dios sabiduría, Juzgando él a los que están elevados?",
+      "number": 22,
+      "id": 13378
+    },
+    {
+      "verse": "Este morirá en el vigor de su hermosura, todo quieto y pacífico;",
+      "number": 23,
+      "id": 13379
+    },
+    {
+      "verse": "Sus vasijas estarán llenas de leche, Y sus huesos serán regados de tuétano.",
+      "number": 24,
+      "id": 13380
+    },
+    {
+      "verse": "Y este otro morirá en amargura de ánimo, Y sin haber comido jamás con gusto.",
+      "number": 25,
+      "id": 13381
+    },
+    {
+      "verse": "Igualmente yacerán ellos en el polvo, Y gusanos los cubrirán.",
+      "number": 26,
+      "id": 13382
+    },
+    {
+      "verse": "He aquí, yo conozco vuestros pensamientos, Y las imaginaciones que contra mí forjáis.",
+      "number": 27,
+      "id": 13383
+    },
+    {
+      "verse": "Porque decís: ¿Qué hay de la casa del príncipe, Y qué de la tienda de las moradas de los impíos?",
+      "number": 28,
+      "id": 13384
+    },
+    {
+      "verse": "¿No habéis preguntado a los que pasan por los caminos, Y no habéis conocido su respuesta,",
+      "number": 29,
+      "id": 13385
+    },
+    {
+      "verse": "Que el malo es preservado en el día de la destrucción? Guardado será en el día de la ira.",
+      "number": 30,
+      "id": 13386
+    },
+    {
+      "verse": "¿Quién le denunciará en su cara su camino? Y de lo que él hizo, ¿quién le dará el pago?",
+      "number": 31,
+      "id": 13387
+    },
+    {
+      "verse": "Porque llevado será a los sepulcros, Y sobre su túmulo estarán velando.",
+      "number": 32,
+      "id": 13388
+    },
+    {
+      "verse": "Los terrones del valle le serán dulces; Tras de él será llevado todo hombre, Y antes de él han ido innumerables.",
+      "number": 33,
+      "id": 13389
+    },
+    {
+      "verse": "¿Cómo, pues, me consoláis en vano, Viniendo a parar vuestras respuestas en falacia?",
+      "number": 34,
+      "id": 13390
+    }
+  ]
+}
