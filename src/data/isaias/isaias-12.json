@@ -1,0 +1,39 @@
+{
+  "testament": "old",
+  "name": "Isaias",
+  "num_chapters": 66,
+  "chapter": 12,
+  "vers": [
+    {
+      "verse": "En aquel día dirás: Cantaré a ti, oh Jehová; pues aunque te enojaste contra mí, tu indignación se apartó, y me has consolado.",
+      "number": 1,
+      "study": "Cántico de acción de gracias",
+      "id": 17902
+    },
+    {
+      "verse": "He aquí Dios es salvación mía; me aseguraré y no temeré; porque mi fortaleza y mi canción es JAH Jehová, quien ha sido salvación para mí.",
+      "number": 2,
+      "id": 17903
+    },
+    {
+      "verse": "Sacaréis con gozo aguas de las fuentes de la salvación.",
+      "number": 3,
+      "id": 17904
+    },
+    {
+      "verse": "Y diréis en aquel día: Cantad a Jehová, aclamad su nombre, haced célebres en los pueblos sus obras, recordad que su nombre es engrandecido.",
+      "number": 4,
+      "id": 17905
+    },
+    {
+      "verse": "Cantad salmos a Jehová, porque ha hecho cosas magníficas; sea sabido esto por toda la tierra.",
+      "number": 5,
+      "id": 17906
+    },
+    {
+      "verse": "Regocíjate y canta, oh moradora de Sion; porque grande es en medio de ti el Santo de Israel.",
+      "number": 6,
+      "id": 17907
+    }
+  ]
+}
