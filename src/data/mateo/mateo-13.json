@@ -1,0 +1,311 @@
+{
+  "testament": "new",
+  "name": "Mateo",
+  "num_chapters": 28,
+  "chapter": 13,
+  "vers": [
+    {
+      "verse": "Aquel día salió Jesús de la casa y se sentó unto al mar.",
+      "number": 1,
+      "study": "Parábola del sembrador",
+      "id": 23540
+    },
+    {
+      "verse": "Y se le juntó mucha gente; y entrando él en la barca, se sentó, y toda la gente estaba en la playa.",
+      "number": 2,
+      "id": 23541
+    },
+    {
+      "verse": "Y les habló muchas cosas por parábolas, diciendo: He aquí, el sembrador salió a sembrar.",
+      "number": 3,
+      "id": 23542
+    },
+    {
+      "verse": "Y mientras sembraba, parte de la semilla cayó junto al camino; y vinieron las aves y la comieron.",
+      "number": 4,
+      "id": 23543
+    },
+    {
+      "verse": "Parte cayó en pedregales, donde no había mucha tierra; y brotó pronto, porque no tenía profundidad de tierra;",
+      "number": 5,
+      "id": 23544
+    },
+    {
+      "verse": "pero salido el sol, se quemó; y porque no tenía raíz, se secó.",
+      "number": 6,
+      "id": 23545
+    },
+    {
+      "verse": "Y parte cayó entre espinos; y los espinos crecieron, y la ahogaron.",
+      "number": 7,
+      "id": 23546
+    },
+    {
+      "verse": "Pero parte cayó en buena tierra, y dio fruto, cuál a ciento, cuál a sesenta, y cuál a treinta por uno.",
+      "number": 8,
+      "id": 23547
+    },
+    {
+      "verse": "El que tiene oídos para oír, oiga.",
+      "number": 9,
+      "id": 23548
+    },
+    {
+      "verse": "Entonces, acercándose los discípulos, le dijeron: ¿Por qué les hablas por parábolas?",
+      "number": 10,
+      "study": "Propósito de las parábolas",
+      "id": 23549
+    },
+    {
+      "verse": "El respondiendo, les dijo: Porque a vosotros os es dado saber los misterios del reino de los cielos; mas a ellos no les es dado.",
+      "number": 11,
+      "id": 23550
+    },
+    {
+      "verse": "Porque a cualquiera que tiene, se le dará, y tendrá más; pero al que no tiene, aun lo que tiene le será quitado.",
+      "number": 12,
+      "id": 23551
+    },
+    {
+      "verse": "Por eso les hablo por parábolas: porque viendo no ven, y oyendo no oyen, ni entienden.",
+      "number": 13,
+      "id": 23552
+    },
+    {
+      "verse": "De manera que se cumple en ellos la profecía de Isaías, que dijo: De oído oiréis, y no entenderéis; Y viendo veréis, y no percibiréis.",
+      "number": 14,
+      "id": 23553
+    },
+    {
+      "verse": "Porque el corazón de este pueblo se ha engrosado, Y con los oídos oyen pesadamente, Y han cerrado sus ojos; Para que no vean con los ojos, Y oigan con los oídos, Y con el corazón entiendan, Y se conviertan, Y yo los sane.",
+      "number": 15,
+      "id": 23554
+    },
+    {
+      "verse": "Pero bienaventurados vuestros ojos, porque ven; y vuestros oídos, porque oyen.",
+      "number": 16,
+      "id": 23555
+    },
+    {
+      "verse": "Porque de cierto os digo, que muchos profetas y justos desearon ver lo que veis, y no lo vieron; y oír lo que oís, y no lo oyeron.",
+      "number": 17,
+      "id": 23556
+    },
+    {
+      "verse": "Oíd, pues, vosotros la parábola del sembrador:",
+      "number": 18,
+      "study": "Jesús explica la parábola del sembrador",
+      "id": 23557
+    },
+    {
+      "verse": "Cuando alguno oye la palabra del reino y no la entiende, viene el malo, y arrebata lo que fue sembrado en su corazón. Este es el que fue sembrado junto al camino.",
+      "number": 19,
+      "id": 23558
+    },
+    {
+      "verse": "Y el que fue sembrado en pedregales, éste es el que oye la palabra, y al momento la recibe con gozo;",
+      "number": 20,
+      "id": 23559
+    },
+    {
+      "verse": "pero no tiene raíz en sí, sino que es de corta duración, pues al venir la aflicción o la persecución por causa de la palabra, luego tropieza.",
+      "number": 21,
+      "id": 23560
+    },
+    {
+      "verse": "El que fue sembrado entre espinos, éste es el que oye la palabra, pero el afán de este siglo y el engaño de las riquezas ahogan la palabra, y se hace infructuosa.",
+      "number": 22,
+      "id": 23561
+    },
+    {
+      "verse": "Mas el que fue sembrado en buena tierra, éste es el que oye y entiende la palabra, y da fruto; y produce a ciento, a sesenta, y a treinta por uno.",
+      "number": 23,
+      "id": 23562
+    },
+    {
+      "verse": "Les refirió otra parábola, diciendo: El reino de los cielos es semejante a un hombre que sembró buena semilla en su campo;",
+      "number": 24,
+      "study": "Parábola del trigo y la cizaña",
+      "id": 23563
+    },
+    {
+      "verse": "pero mientras dormían los hombres, vino su enemigo y sembró cizaña entre el trigo, y se fue.",
+      "number": 25,
+      "id": 23564
+    },
+    {
+      "verse": "Y cuando salió la hierba y dio fruto, entonces apareció también la cizaña.",
+      "number": 26,
+      "id": 23565
+    },
+    {
+      "verse": "Vinieron entonces los siervos del padre de familia y le dijeron: Señor, ¿no sembraste buena semilla en tu campo? ¿De dónde, pues, tiene cizaña?",
+      "number": 27,
+      "id": 23566
+    },
+    {
+      "verse": "El les dijo: Un enemigo ha hecho esto. Y los siervos le dijeron: ¿Quieres, pues, que vayamos y la arranquemos?",
+      "number": 28,
+      "id": 23567
+    },
+    {
+      "verse": "El les dijo: No, no sea que al arrancar la cizaña, arranquéis también con ella el trigo.",
+      "number": 29,
+      "id": 23568
+    },
+    {
+      "verse": "Dejad crecer juntamente lo uno y lo otro hasta la siega; y al tiempo de la siega yo diré a los segadores: Recoged primero la cizaña, y atadla en manojos para quemarla; pero recoged el trigo en mi granero.",
+      "number": 30,
+      "id": 23569
+    },
+    {
+      "verse": "Otra parábola les refirió, diciendo: El reino de los cielos es semejante al grano de mostaza, que un hombre tomó y sembró en su campo;",
+      "number": 31,
+      "study": "Parábola de la semilla de mostaza",
+      "id": 23570
+    },
+    {
+      "verse": "el cual a la verdad es la más pequeña de todas las semillas; pero cuando ha crecido, es la mayor de las hortalizas, y se hace árbol, de tal manera que vienen las aves del cielo y hacen nidos en sus ramas.",
+      "number": 32,
+      "id": 23571
+    },
+    {
+      "verse": "Otra parábola les dijo: El reino de los cielos es semejante a la levadura que tomó una mujer, y escondió en tres medidas de harina, hasta que todo fue leudado.",
+      "number": 33,
+      "study": "Parábola de la levadura",
+      "id": 23572
+    },
+    {
+      "verse": "Todo esto habló Jesús por parábolas a la gente, y sin parábolas no les hablaba;",
+      "number": 34,
+      "study": "El uso que Jesús hace de las parábolas",
+      "id": 23573
+    },
+    {
+      "verse": "para que se cumpliese lo dicho por el profeta, cuando dijo: Abriré en parábolas mi boca; Declararé cosas escondidas desde la fundación del mundo.",
+      "number": 35,
+      "id": 23574
+    },
+    {
+      "verse": "Entonces, despedida la gente, entró Jesús en la casa; y acercándose a él sus discípulos, le dijeron: Explícanos la parábola de la cizaña del campo.",
+      "number": 36,
+      "study": "Jesús explica la parábola de la cizaña",
+      "id": 23575
+    },
+    {
+      "verse": "Respondiendo él, les dijo: El que siembra la buena semilla es el Hijo del Hombre.",
+      "number": 37,
+      "id": 23576
+    },
+    {
+      "verse": "El campo es el mundo; la buena semilla son los hijos del reino, y la cizaña son los hijos del malo.",
+      "number": 38,
+      "id": 23577
+    },
+    {
+      "verse": "El enemigo que la sembróes el diablo; la siega es el fin del siglo; y los segadores son los ángeles.",
+      "number": 39,
+      "id": 23578
+    },
+    {
+      "verse": "De manera que como se arranca la cizaña, y se quema en el fuego, asíseráen el fin de este siglo.",
+      "number": 40,
+      "id": 23579
+    },
+    {
+      "verse": "Enviará el Hijo del Hombre a sus ángeles, y recogerán de su reino a todos los que sirven de tropiezo, y a los que hacen iniquidad,",
+      "number": 41,
+      "id": 23580
+    },
+    {
+      "verse": "y los echarán en el horno de fuego; allí será el lloro y el crujir de dientes.",
+      "number": 42,
+      "id": 23581
+    },
+    {
+      "verse": "Entonces los justos resplandecerán como el sol en el reino de su Padre. El que tiene oídos para oír, oiga.",
+      "number": 43,
+      "id": 23582
+    },
+    {
+      "verse": "Además, el reino de los cielos es semejante a un tesoro escondido en un campo, el cual un hombre halla, y lo esconde de nuevo; y gozoso por ello va y vende todo lo que tiene, y compra aquel campo.",
+      "number": 44,
+      "study": "El tesoro escondido",
+      "id": 23583
+    },
+    {
+      "verse": "También el reino de los cielos es semejante a un mercader que busca buenas perlas,",
+      "number": 45,
+      "study": "La perla de gran precio",
+      "id": 23584
+    },
+    {
+      "verse": "que habiendo hallado una perla preciosa, fue y vendió todo lo que tenía, y la compró.",
+      "number": 46,
+      "id": 23585
+    },
+    {
+      "verse": "Asimismo el reino de los cielos es semejante a una red, que echada en el mar, recoge de toda clase de peces;",
+      "number": 47,
+      "study": "La red",
+      "id": 23586
+    },
+    {
+      "verse": "y una vez llena, la sacan a la orilla; y sentados, recogen lo bueno en cestas, y lo malo echan fuera.",
+      "number": 48,
+      "id": 23587
+    },
+    {
+      "verse": "Asíserá al fin del siglo: saldrán los ángeles, y apartarán a los malos de entre los justos,",
+      "number": 49,
+      "id": 23588
+    },
+    {
+      "verse": "y los echarán en el horno de fuego; allí será el lloro y el crujir de dientes.",
+      "number": 50,
+      "id": 23589
+    },
+    {
+      "verse": "Jesús les dijo: ¿Habéis entendido todas estas cosas? Ellos respondieron: Sí, Señor.",
+      "number": 51,
+      "study": "Tesoros nuevos y viejos",
+      "id": 23590
+    },
+    {
+      "verse": "El les dijo: Por eso todo escriba docto en el reino de los cielos es semejante a un padre de familia, que saca de su tesoro cosas nuevas y cosas viejas.",
+      "number": 52,
+      "id": 23591
+    },
+    {
+      "verse": "Aconteció que cuando terminó Jesús estas parábolas, se fue de allí.",
+      "number": 53,
+      "study": "Jesús en Nazaret",
+      "id": 23592
+    },
+    {
+      "verse": "Y venido a su tierra, les enseñaba en la sinagoga de ellos, de tal manera que se maravillaban, y decían: ¿De dónde tiene éste esta sabiduría y estos milagros?",
+      "number": 54,
+      "id": 23593
+    },
+    {
+      "verse": "¿No es éste el hijo del carpintero? ¿No se llama su madre María, y sus hermanos, Jacobo, José, Simón y Judas?",
+      "number": 55,
+      "id": 23594
+    },
+    {
+      "verse": "¿No están todas sus hermanas con nosotros? ¿De dónde, pues, tiene éste todas estas cosas?",
+      "number": 56,
+      "id": 23595
+    },
+    {
+      "verse": "Y se escandalizaban de él. Pero Jesús les dijo: No hay profeta sin honra, sino en su propia tierra y en su casa.",
+      "number": 57,
+      "id": 23596
+    },
+    {
+      "verse": "Y no hizo allí muchos milagros, a causa de la incredulidad de ellos.",
+      "number": 58,
+      "id": 23597
+    }
+  ]
+}

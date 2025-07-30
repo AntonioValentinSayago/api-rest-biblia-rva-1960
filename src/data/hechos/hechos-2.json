@@ -1,0 +1,246 @@
+{
+  "testament": "new",
+  "name": "Hechos",
+  "num_chapters": 28,
+  "chapter": 2,
+  "vers": [
+    {
+      "verse": "Cuando llegó el día de Pentecostés, estaban todos unánimes juntos.",
+      "number": 1,
+      "study": "La venida del Espíritu Santo",
+      "id": 26950
+    },
+    {
+      "verse": "Y de repente vino del cielo un estruendo como de un viento recio que soplaba, el cual llenó toda la casa donde estaban sentados;",
+      "number": 2,
+      "id": 26951
+    },
+    {
+      "verse": "y se les aparecieron lenguas repartidas, como de fuego, asentándose sobre cada uno de ellos.",
+      "number": 3,
+      "id": 26952
+    },
+    {
+      "verse": "Y fueron todos llenos del Espíritu Santo, y comenzaron a hablar en otras lenguas, según el Espíritu les daba que hablasen.",
+      "number": 4,
+      "id": 26953
+    },
+    {
+      "verse": "Moraban entonces en Jerusalén judíos, varones piadosos, de todas las naciones bajo el cielo.",
+      "number": 5,
+      "id": 26954
+    },
+    {
+      "verse": "Y hecho este estruendo, se juntó la multitud; y estaban confusos, porque cada uno les oía hablar en su propia lengua.",
+      "number": 6,
+      "id": 26955
+    },
+    {
+      "verse": "Y estaban atónitos y maravillados, diciendo: Mirad, ¿no son galileos todos estos que hablan?",
+      "number": 7,
+      "id": 26956
+    },
+    {
+      "verse": "¿Cómo, pues, les oímos nosotros hablar cada uno en nuestra lengua en la que hemos nacido?",
+      "number": 8,
+      "id": 26957
+    },
+    {
+      "verse": "Partos, medos, elamitas, y los que habitamos en Mesopotamia, en Judea, en Capadocia, en el Ponto y en Asia,",
+      "number": 9,
+      "id": 26958
+    },
+    {
+      "verse": "en Frigia y Panfilia, en Egipto y en las regiones de Africa más allá de Cirene, y romanos aquí residentes, tanto judíos como prosélitos,",
+      "number": 10,
+      "id": 26959
+    },
+    {
+      "verse": "cretenses y árabes, les oímos hablar en nuestras lenguas las maravillas de Dios.",
+      "number": 11,
+      "id": 26960
+    },
+    {
+      "verse": "Y estaban todos atónitos y perplejos, diciéndose unos a otros: ¿Qué quiere decir esto?",
+      "number": 12,
+      "id": 26961
+    },
+    {
+      "verse": "Mas otros, burlándose, decían: Están llenos de mosto.",
+      "number": 13,
+      "id": 26962
+    },
+    {
+      "verse": "Entonces Pedro, poniéndose en pie con los once, alzó la voz y les habló diciendo: Varones judíos, y todos los que habitáis en Jerusalén, esto os sea notorio, y oíd mis palabras.",
+      "number": 14,
+      "study": "Primer discurso de Pedro",
+      "id": 26963
+    },
+    {
+      "verse": "Porque éstos no están ebrios, como vosotros suponéis, puesto que es la hora tercera del día.",
+      "number": 15,
+      "id": 26964
+    },
+    {
+      "verse": "Mas esto es lo dicho por el profeta Joel:",
+      "number": 16,
+      "id": 26965
+    },
+    {
+      "verse": "Y en los postreros días, dice Dios, Derramaré de mi Espíritu sobre toda carne, Y vuestros hijos y vuestras hijas profetizarán; Vuestros jóvenes verán visiones, Y vuestros ancianos soñarán sueños;",
+      "number": 17,
+      "id": 26966
+    },
+    {
+      "verse": "Y de cierto sobre mis siervos y sobre mis siervas en aquellos días Derramaré de mi Espíritu, y profetizarán.",
+      "number": 18,
+      "id": 26967
+    },
+    {
+      "verse": "Y daré prodigios arriba en el cielo, Y señales abajo en la tierra, Sangre y fuego y vapor de humo;",
+      "number": 19,
+      "id": 26968
+    },
+    {
+      "verse": "El sol se convertirá en tinieblas, Y la luna en sangre, Antes que venga el día del Señor, Grande y manifiesto;",
+      "number": 20,
+      "id": 26969
+    },
+    {
+      "verse": "Y todo aquel que invocare el nombre del Señor, será salvo.",
+      "number": 21,
+      "id": 26970
+    },
+    {
+      "verse": "Varones israelitas, oíd estas palabras: Jesús nazareno, varón aprobado por Dios entre vosotros con las maravillas, prodigios y señales que Dios hizo entre vosotros por medio de él, como vosotros mismos sabéis;",
+      "number": 22,
+      "id": 26971
+    },
+    {
+      "verse": "a éste, entregado por el determinado consejo y anticipado conocimiento de Dios, prendisteis y matasteis por manos de inicuos, crucificándole;",
+      "number": 23,
+      "id": 26972
+    },
+    {
+      "verse": "al cual Dios levantó, sueltos los dolores de la muerte, por cuanto era imposible que fuese retenido por ella.",
+      "number": 24,
+      "id": 26973
+    },
+    {
+      "verse": "Porque David dice de él: Veía al Señor siempre delante de mí; Porque está a mi diestra, no seré conmovido.",
+      "number": 25,
+      "id": 26974
+    },
+    {
+      "verse": "Por lo cual mi corazón se alegró, y se gozó mi lengua, Y aun mi carne descansará en esperanza;",
+      "number": 26,
+      "id": 26975
+    },
+    {
+      "verse": "Porque no dejarás mi alma en el Hades, Ni permitirás que tu Santo vea corrupción.",
+      "number": 27,
+      "id": 26976
+    },
+    {
+      "verse": "Me hiciste conocer los caminos de la vida; Me llenarás de gozo con tu presencia.",
+      "number": 28,
+      "id": 26977
+    },
+    {
+      "verse": "Varones hermanos, se os puede decir libremente del patriarca David, que murió y fue sepultado, y su sepulcro está con nosotros hasta el día de hoy.",
+      "number": 29,
+      "id": 26978
+    },
+    {
+      "verse": "Pero siendo profeta, y sabiendo que con juramento Dios le había jurado que de su descendencia, en cuanto a la carne, levantaría al Cristo para que se sentase en su trono,",
+      "number": 30,
+      "id": 26979
+    },
+    {
+      "verse": "viéndolo antes, habló de la resurrección de Cristo, que su alma no fue dejada en el Hades, ni su carne vio corrupción.",
+      "number": 31,
+      "id": 26980
+    },
+    {
+      "verse": "A este Jesús resucitó Dios, de lo cual todos nosotros somos testigos.",
+      "number": 32,
+      "id": 26981
+    },
+    {
+      "verse": "Así que, exaltado por la diestra de Dios, y habiendo recibido del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís.",
+      "number": 33,
+      "id": 26982
+    },
+    {
+      "verse": "Porque David no subió a los cielos; pero él mismo dice: Dijo el Señor a mi Señor: Siéntate a mi diestra,",
+      "number": 34,
+      "id": 26983
+    },
+    {
+      "verse": "Hasta que ponga a tus enemigos por estrado de tus pies.",
+      "number": 35,
+      "id": 26984
+    },
+    {
+      "verse": "Sepa, pues, ciertísimamente toda la casa de Israel, que a este Jesús a quien vosotros crucificasteis, Dios le ha hecho Señor y Cristo.",
+      "number": 36,
+      "id": 26985
+    },
+    {
+      "verse": "Al oír esto, se compungieron de corazón, y dijeron a Pedro y a los otros apóstoles: Varones hermanos, ¿qué haremos?",
+      "number": 37,
+      "id": 26986
+    },
+    {
+      "verse": "Pedro les dijo: Arrepentíos, y bautícese cada uno de vosotros en el nombre de Jesucristo para perdón de los pecados; y recibiréis el don del Espíritu Santo.",
+      "number": 38,
+      "id": 26987
+    },
+    {
+      "verse": "Porque para vosotros es la promesa, y para vuestros hijos, y para todos los que están lejos; para cuantos el Señor nuestro Dios llamare.",
+      "number": 39,
+      "id": 26988
+    },
+    {
+      "verse": "Y con otras muchas palabras testificaba y les exhortaba, diciendo: Sed salvos de esta perversa generación.",
+      "number": 40,
+      "id": 26989
+    },
+    {
+      "verse": "Así que, los que recibieron su palabra fueron bautizados; y se añadieron aquel día como tres mil personas.",
+      "number": 41,
+      "id": 26990
+    },
+    {
+      "verse": "Y perseveraban en la doctrina de los apóstoles, en la comunión unos con otros, en el partimiento del pan y en las oraciones.",
+      "number": 42,
+      "id": 26991
+    },
+    {
+      "verse": "Y sobrevino temor a toda persona; y muchas maravillas y señales eran hechas por los apóstoles.",
+      "number": 43,
+      "study": "La vida de los primeros cristianos",
+      "id": 26992
+    },
+    {
+      "verse": "Todos los que habían creído estaban juntos, y tenían en común todas las cosas;",
+      "number": 44,
+      "id": 26993
+    },
+    {
+      "verse": "y vendían sus propiedades y sus bienes, y lo repartían a todos según la necesidad de cada uno.",
+      "number": 45,
+      "id": 26994
+    },
+    {
+      "verse": "Y perseverando unánimes cada día en el templo, y partiendo el pan en las casas, comían juntos con alegría y sencillez de corazón,",
+      "number": 46,
+      "id": 26995
+    },
+    {
+      "verse": "alabando a Dios, y teniendo favor con todo el pueblo. Y el Señor añadía cada día a la iglesia los que habían de ser salvos.",
+      "number": 47,
+      "id": 26996
+    }
+  ]
+}

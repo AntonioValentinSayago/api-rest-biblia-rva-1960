@@ -1,0 +1,211 @@
+{
+  "testament": "new",
+  "name": "Hechos",
+  "num_chapters": 28,
+  "chapter": 8,
+  "vers": [
+    {
+      "verse": "Y Saulo consentía en su muerte. En aquel día hubo una gran persecución contra la iglesia que estaba en Jerusalén; y todos fueron esparcidos por las tierras de Judea y de Samaria, salvo los apóstoles.",
+      "number": 1,
+      "study": "Saulo persigue a la iglesia",
+      "id": 27177
+    },
+    {
+      "verse": "Y hombres piadosos llevaron a enterrar a Esteban, e hicieron gran llanto sobre él.",
+      "number": 2,
+      "id": 27178
+    },
+    {
+      "verse": "Y Saulo asolaba la iglesia, y entrando casa por casa, arrastraba a hombres y a mujeres, y los entregaba en la cárcel.",
+      "number": 3,
+      "id": 27179
+    },
+    {
+      "verse": "Pero los que fueron esparcidos iban por todas partes anunciando el evangelio.",
+      "number": 4,
+      "study": "Predicación del evangelio en Samaria",
+      "id": 27180
+    },
+    {
+      "verse": "Entonces Felipe, descendiendo a la ciudad de Samaria, les predicaba a Cristo.",
+      "number": 5,
+      "id": 27181
+    },
+    {
+      "verse": "Y la gente, unánime, escuchaba atentamente las cosas que decía Felipe, oyendo y viendo las señales que hacía.",
+      "number": 6,
+      "id": 27182
+    },
+    {
+      "verse": "Porque de muchos que tenían espíritus inmundos, salían éstos dando grandes voces; y muchos paralíticos y cojos eran sanados;",
+      "number": 7,
+      "id": 27183
+    },
+    {
+      "verse": "así que había gran gozo en aquella ciudad.",
+      "number": 8,
+      "id": 27184
+    },
+    {
+      "verse": "Pero había un hombre llamado Simón, que antes ejercía la magia en aquella ciudad, y había engañado a la gente de Samaria, haciéndose pasar por algún grande.",
+      "number": 9,
+      "id": 27185
+    },
+    {
+      "verse": "A éste oían atentamente todos, desde el más pequeño hasta el más grande, diciendo: Este es el gran poder de Dios.",
+      "number": 10,
+      "id": 27186
+    },
+    {
+      "verse": "Y le estaban atentos, porque con sus artes mágicas les había engañado mucho tiempo.",
+      "number": 11,
+      "id": 27187
+    },
+    {
+      "verse": "Pero cuando creyeron a Felipe, que anunciaba el evangelio del reino de Dios y el nombre de Jesucristo, se bautizaban hombres y mujeres.",
+      "number": 12,
+      "id": 27188
+    },
+    {
+      "verse": "También creyó Simón mismo, y habiéndose bautizado, estaba siempre con Felipe; y viendo las señales y grandes milagros que se hacían, estaba atónito.",
+      "number": 13,
+      "id": 27189
+    },
+    {
+      "verse": "Cuando los apóstoles que estaban en Jerusalén oyeron que Samaria había recibido la palabra de Dios, enviaron allá a Pedro y a Juan;",
+      "number": 14,
+      "id": 27190
+    },
+    {
+      "verse": "los cuales, habiendo venido, oraron por ellos para que recibiesen el Espíritu Santo;",
+      "number": 15,
+      "id": 27191
+    },
+    {
+      "verse": "porque aún no había descendido sobre ninguno de ellos, sino que solamente habían sido bautizados en el nombre de Jesús.",
+      "number": 16,
+      "id": 27192
+    },
+    {
+      "verse": "Entonces les imponían las manos, y recibían el Espíritu Santo.",
+      "number": 17,
+      "id": 27193
+    },
+    {
+      "verse": "Cuando vio Simón que por la imposición de las manos de los apóstoles se daba el Espíritu Santo, les ofreció dinero,",
+      "number": 18,
+      "id": 27194
+    },
+    {
+      "verse": "diciendo: Dadme también a mí este poder, para que cualquiera a quien yo impusiere las manos reciba el Espíritu Santo.",
+      "number": 19,
+      "id": 27195
+    },
+    {
+      "verse": "Entonces Pedro le dijo: Tu dinero perezca contigo, porque has pensado que el don de Dios se obtiene con dinero.",
+      "number": 20,
+      "id": 27196
+    },
+    {
+      "verse": "No tienes tú parte ni suerte en este asunto, porque tu corazón no es recto delante de Dios.",
+      "number": 21,
+      "id": 27197
+    },
+    {
+      "verse": "Arrepiéntete, pues, de esta tu maldad, y ruega a Dios, si quizás te sea perdonado el pensamiento de tu corazón;",
+      "number": 22,
+      "id": 27198
+    },
+    {
+      "verse": "porque en hiel de amargura y en prisión de maldad veo que estás.",
+      "number": 23,
+      "id": 27199
+    },
+    {
+      "verse": "Respondiendo entonces Simón, dijo: Rogad vosotros por mí al Señor, para que nada de esto que habéis dicho venga sobre mí.",
+      "number": 24,
+      "id": 27200
+    },
+    {
+      "verse": "Y ellos, habiendo testificado y hablado la palabra de Dios, se volvieron a Jerusalén, y en muchas poblaciones de los samaritanos anunciaron el evangelio.",
+      "number": 25,
+      "id": 27201
+    },
+    {
+      "verse": "Un ángel del Señor habló a Felipe, diciendo: Levántate y ve hacia el sur, por el camino que desciende de Jerusalén a Gaza, el cual es desierto.",
+      "number": 26,
+      "study": "Felipe y el etíope",
+      "id": 27202
+    },
+    {
+      "verse": "Entonces él se levantó y fue. Y sucedió que un etíope, eunuco, funcionario de Candace reina de los etíopes, el cual estaba sobre todos sus tesoros, y había venido a Jerusalén para adorar,",
+      "number": 27,
+      "id": 27203
+    },
+    {
+      "verse": "volvía sentado en su carro, y leyendo al profeta Isaías.",
+      "number": 28,
+      "id": 27204
+    },
+    {
+      "verse": "Y el Espíritu dijo a Felipe: Acércate y júntate a ese carro.",
+      "number": 29,
+      "id": 27205
+    },
+    {
+      "verse": "Acudiendo Felipe, le oyó que leía al profeta Isaías, y dijo: Pero ¿entiendes lo que lees?",
+      "number": 30,
+      "id": 27206
+    },
+    {
+      "verse": "El dijo: ¿Y cómo podré, si alguno no me enseñare? Y rogó a Felipe que subiese y se sentara con él.",
+      "number": 31,
+      "id": 27207
+    },
+    {
+      "verse": "El pasaje de la Escritura que leía era este: Como oveja a la muerte fue llevado; Y como cordero mudo delante del que lo trasquila, Así no abrió su boca.",
+      "number": 32,
+      "id": 27208
+    },
+    {
+      "verse": "En su humillación no se le hizo justicia; Mas su generación, ¿quién la contará? Porque fue quitada de la tierra su vida.",
+      "number": 33,
+      "id": 27209
+    },
+    {
+      "verse": "Respondiendo el eunuco, dijo a Felipe: Te ruego que me digas: ¿de quién dice el profeta esto; de sí mismo, o de algún otro?",
+      "number": 34,
+      "id": 27210
+    },
+    {
+      "verse": "Entonces Felipe, abriendo su boca, y comenzando desde esta escritura, le anunció el evangelio de Jesús.",
+      "number": 35,
+      "id": 27211
+    },
+    {
+      "verse": "Y yendo por el camino, llegaron a cierta agua, y dijo el eunuco: Aquí hay agua; ¿qué impide que yo sea bautizado?",
+      "number": 36,
+      "id": 27212
+    },
+    {
+      "verse": "Felipe dijo: Si crees de todo corazón, bien puedes. Y respondiendo, dijo: Creo que Jesucristo es el Hijo de Dios.",
+      "number": 37,
+      "id": 27213
+    },
+    {
+      "verse": "Y mandó parar el carro; y descendieron ambos al agua, Felipe y el eunuco, y le bautizó.",
+      "number": 38,
+      "id": 27214
+    },
+    {
+      "verse": "Cuando subieron del agua, el Espíritu del Señor arrebató a Felipe; y el eunuco no le vio más, y siguió gozoso su camino.",
+      "number": 39,
+      "id": 27215
+    },
+    {
+      "verse": "Pero Felipe se encontró en Azoto; y pasando, anunciaba el evangelio en todas las ciudades, hasta que llegó a Cesarea.",
+      "number": 40,
+      "id": 27216
+    }
+  ]
+}

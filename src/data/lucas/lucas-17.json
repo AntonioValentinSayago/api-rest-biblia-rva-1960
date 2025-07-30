@@ -1,0 +1,198 @@
+{
+  "testament": "new",
+  "name": "Lucas",
+  "num_chapters": 24,
+  "chapter": 17,
+  "vers": [
+    {
+      "verse": "Dijo Jesús a sus discípulos: Imposible es que no vengan tropiezos; mas ¡ay de aquel por quien vienen!",
+      "number": 1,
+      "study": "ocasiones de caer",
+      "id": 25652
+    },
+    {
+      "verse": "Mejor le fuera que se le atase al cuello una piedra de molino y se le arrojase al mar, que hacer tropezar a uno de estos pequeñitos.",
+      "number": 2,
+      "id": 25653
+    },
+    {
+      "verse": "Mirad por vosotros mismos. Si tu hermano pecare contra ti, repréndele; y si se arrepintiere, perdónale.",
+      "number": 3,
+      "id": 25654
+    },
+    {
+      "verse": "Y si siete veces al día pecare contra ti, y siete veces al día volviere a ti, diciendo: Me arrepiento; perdónale.",
+      "number": 4,
+      "id": 25655
+    },
+    {
+      "verse": "Dijeron los apóstoles al Señor: Auméntanos la fe.",
+      "number": 5,
+      "study": "Auméntanos la fe",
+      "id": 25656
+    },
+    {
+      "verse": "Entonces el Señor dijo: Si tuvierais fe como un grano de mostaza, podríais decir a este sicómoro: Desarráigate, y plántate en el mar; y os obedecería.",
+      "number": 6,
+      "id": 25657
+    },
+    {
+      "verse": "¿Quién de vosotros, teniendo un siervo que ara o apacienta ganado, al volver él del campo, luego le dice: Pasa, siéntate a la mesa?",
+      "number": 7,
+      "study": "El deber del siervo",
+      "id": 25658
+    },
+    {
+      "verse": "¿No le dice más bien: Prepárame la cena, cíñete, y sírveme hasta que haya comido y bebido; y después de esto, come y bebe tú?",
+      "number": 8,
+      "id": 25659
+    },
+    {
+      "verse": "¿Acaso da gracias al siervo porque hizo lo que se le había mandado? Pienso que no.",
+      "number": 9,
+      "id": 25660
+    },
+    {
+      "verse": "Así también vosotros, cuando hayáis hecho todo lo que os ha sido ordenado, decid: Siervos inútiles somos, pues lo que debíamos hacer, hicimos.",
+      "number": 10,
+      "id": 25661
+    },
+    {
+      "verse": "Yendo Jesús a Jerusalén, pasaba entre Samaria y Galilea.",
+      "number": 11,
+      "study": "Diez leprosos son limpiados",
+      "id": 25662
+    },
+    {
+      "verse": "Y al entrar en una aldea, le salieron al encuentro diez hombres leprosos, los cuales se pararon de lejos",
+      "number": 12,
+      "id": 25663
+    },
+    {
+      "verse": "y alzaron la voz, diciendo: ¡Jesús, Maestro, ten misericordia de nosotros!",
+      "number": 13,
+      "id": 25664
+    },
+    {
+      "verse": "Cuando él los vio, les dijo: Id, mostraos a los sacerdotes. Y aconteció que mientras iban, fueron limpiados.",
+      "number": 14,
+      "id": 25665
+    },
+    {
+      "verse": "Entonces uno de ellos, viendo que había sido sanado, volvió, glorificando a Dios a gran voz,",
+      "number": 15,
+      "id": 25666
+    },
+    {
+      "verse": "y se postró rostro en tierra a sus pies, dándole gracias; y éste era samaritano.",
+      "number": 16,
+      "id": 25667
+    },
+    {
+      "verse": "Respondiendo Jesús, dijo: ¿No son diez los que fueron limpiados? Y los nueve, ¿dónde están?",
+      "number": 17,
+      "id": 25668
+    },
+    {
+      "verse": "¿No hubo quien volviese y diese gloria a Dios sino este extranjero?",
+      "number": 18,
+      "id": 25669
+    },
+    {
+      "verse": "Y le dijo: Levántate, vete; tu fe te ha salvado.",
+      "number": 19,
+      "id": 25670
+    },
+    {
+      "verse": "Preguntado por los fariseos, cuándo había de venir el reino de Dios, les respondió y dijo: El reino de Dios no vendrá con advertencia,",
+      "number": 20,
+      "study": "La venida del Reino",
+      "id": 25671
+    },
+    {
+      "verse": "ni dirán: Helo aquí, o helo allí; porque he aquí el reino de Dios está entre vosotros.",
+      "number": 21,
+      "id": 25672
+    },
+    {
+      "verse": "Y dijo a sus discípulos: Tiempo vendrá cuando desearéis ver uno de los días del Hijo del Hombre, y no lo veréis.",
+      "number": 22,
+      "id": 25673
+    },
+    {
+      "verse": "Y os dirán: Helo aquí, o helo allí. No vayáis, ni los sigáis.",
+      "number": 23,
+      "id": 25674
+    },
+    {
+      "verse": "Porque como el relámpago que al fulgurar resplandece desde un extremo del cielo hasta el otro, así también será el Hijo del Hombre en su día.",
+      "number": 24,
+      "id": 25675
+    },
+    {
+      "verse": "Pero primero es necesario que padezca mucho, y sea desechado por esta generación.",
+      "number": 25,
+      "id": 25676
+    },
+    {
+      "verse": "Como fue en los días de Noé, así también será en los días del Hijo del Hombre.",
+      "number": 26,
+      "id": 25677
+    },
+    {
+      "verse": "Comían, bebían, se casaban y se daban en casamiento, hasta el día en que entró Noé en el arca, y vino el diluvio y los destruyó a todos.",
+      "number": 27,
+      "id": 25678
+    },
+    {
+      "verse": "Asimismo como sucedió en los días de Lot; comían, bebían, compraban, vendían, plantaban, edificaban;",
+      "number": 28,
+      "id": 25679
+    },
+    {
+      "verse": "mas el día en que Lot salió de Sodoma, llovió del cielo fuego y azufre, y los destruyó a todos.",
+      "number": 29,
+      "id": 25680
+    },
+    {
+      "verse": "Así será el día en que el Hijo del Hombre se manifieste.",
+      "number": 30,
+      "id": 25681
+    },
+    {
+      "verse": "En aquel día, el que esté en la azotea, y sus bienes en casa, no descienda a tomarlos; y el que en el campo, asimismo no vuelva atrás.",
+      "number": 31,
+      "id": 25682
+    },
+    {
+      "verse": "Acordaos de la mujer de Lot.",
+      "number": 32,
+      "id": 25683
+    },
+    {
+      "verse": "Todo el que procure salvar su vida, la perderá; y todo el que la pierda, la salvará.",
+      "number": 33,
+      "id": 25684
+    },
+    {
+      "verse": "Os digo que en aquella noche estarán dos en una cama; el uno será tomado, y el otro será dejado.",
+      "number": 34,
+      "id": 25685
+    },
+    {
+      "verse": "Dos mujeres estarán moliendo juntas; la una será tomada, y la otra dejada.",
+      "number": 35,
+      "id": 25686
+    },
+    {
+      "verse": "Dos estarán en el campo; el uno será tomado, y el otro dejado.",
+      "number": 36,
+      "id": 25687
+    },
+    {
+      "verse": "Y respondiendo, le dijeron: ¿Dónde, Señor? El les dijo: Donde estuviere el cuerpo, allí se juntarán también las águilas.",
+      "number": 37,
+      "id": 25688
+    }
+  ]
+}

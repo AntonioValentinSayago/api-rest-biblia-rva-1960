@@ -1,0 +1,211 @@
+{
+  "testament": "new",
+  "name": "Hechos",
+  "num_chapters": 28,
+  "chapter": 16,
+  "vers": [
+    {
+      "verse": "Después llegó a Derbe y a Listra; y he aquí, había allí cierto discípulo llamado Timoteo, hijo de una mujer judía creyente, pero de padre griego;",
+      "number": 1,
+      "study": "Timoteo acompaña a Pablo y a Silas",
+      "id": 27484
+    },
+    {
+      "verse": "y daban buen testimonio de él los hermanos que estaban en Listra y en Iconio.",
+      "number": 2,
+      "id": 27485
+    },
+    {
+      "verse": "Quiso Pablo que éste fuese con él; y tomándole, le circuncidó por causa de los judíos que había en aquellos lugares; porque todos sabían que su padre era griego.",
+      "number": 3,
+      "id": 27486
+    },
+    {
+      "verse": "Y al pasar por las ciudades, les entregaban las ordenanzas que habían acordado los apóstoles y los ancianos que estaban en Jerusalén, para que las guardasen.",
+      "number": 4,
+      "id": 27487
+    },
+    {
+      "verse": "Así que las iglesias eran confirmadas en la fe, y aumentaban en número cada día.",
+      "number": 5,
+      "id": 27488
+    },
+    {
+      "verse": "Y atravesando Frigia y la provincia de Galacia, les fue prohibido por el Espíritu Santo hablar la palabra en Asia;",
+      "number": 6,
+      "study": "La visión del varón macedonio",
+      "id": 27489
+    },
+    {
+      "verse": "y cuando llegaron a Misia, intentaron ir a Bitinia, pero el Espíritu no se lo permitió.",
+      "number": 7,
+      "id": 27490
+    },
+    {
+      "verse": "Y pasando junto a Misia, descendieron a Troas.",
+      "number": 8,
+      "id": 27491
+    },
+    {
+      "verse": "Y se le mostró a Pablo una visión de noche: un varón macedonio estaba en pie, rogándole y diciendo: Pasa a Macedonia y ayúdanos.",
+      "number": 9,
+      "id": 27492
+    },
+    {
+      "verse": "Cuando vio la visión, en seguida procuramos partir para Macedonia, dando por cierto que Dios nos llamaba para que les anunciásemos el evangelio.",
+      "number": 10,
+      "id": 27493
+    },
+    {
+      "verse": "Zarpando, pues, de Troas, vinimos con rumbo directo a Samotracia, y el día siguiente a Neápolis;",
+      "number": 11,
+      "study": "Encarcelados en Filipos",
+      "id": 27494
+    },
+    {
+      "verse": "y de allí a Filipos, que es la primera ciudad de la provincia de Macedonia, y una colonia; y estuvimos en aquella ciudad algunos días.",
+      "number": 12,
+      "id": 27495
+    },
+    {
+      "verse": "Y un día de reposo salimos fuera de la puerta, junto al río, donde solía hacerse la oración; y sentándonos, hablamos a las mujeres que se habían reunido.",
+      "number": 13,
+      "id": 27496
+    },
+    {
+      "verse": "Entonces una mujer llamada Lidia, vendedora de púrpura, de la ciudad de Tiatira, que adoraba a Dios, estaba oyendo; y el Señor abrió el corazón de ella para que estuviese atenta a lo que Pablo decía.",
+      "number": 14,
+      "id": 27497
+    },
+    {
+      "verse": "Y cuando fue bautizada, y su familia, nos rogó diciendo: Si habéis juzgado que yo sea fiel al Señor, entrad en mi casa, y posad. Y nos obligó a quedarnos.",
+      "number": 15,
+      "id": 27498
+    },
+    {
+      "verse": "Aconteció que mientras íbamos a la oración, nos salió al encuentro una muchacha que tenía espíritu de adivinación, la cual daba gran ganancia a sus amos, adivinando.",
+      "number": 16,
+      "id": 27499
+    },
+    {
+      "verse": "Esta, siguiendo a Pablo y a nosotros, daba voces, diciendo: Estos hombres son siervos del Dios Altísimo, quienes os anuncian el camino de salvación.",
+      "number": 17,
+      "id": 27500
+    },
+    {
+      "verse": "Y esto lo hacía por muchos días; mas desagradando a Pablo, éste se volvió y dijo al espíritu: Te mando en el nombre de Jesucristo, que salgas de ella. Y salió en aquella misma hora.",
+      "number": 18,
+      "id": 27501
+    },
+    {
+      "verse": "Pero viendo sus amos que había salido la esperanza de su ganancia, prendieron a Pablo y a Silas, y los trajeron al foro, ante las autoridades;",
+      "number": 19,
+      "id": 27502
+    },
+    {
+      "verse": "y presentándolos a los magistrados, dijeron: Estos hombres, siendo judíos, alborotan nuestra ciudad,",
+      "number": 20,
+      "id": 27503
+    },
+    {
+      "verse": "y enseñan costumbres que no nos es lícito recibir ni hacer, pues somos romanos.",
+      "number": 21,
+      "id": 27504
+    },
+    {
+      "verse": "Y se agolpó el pueblo contra ellos; y los magistrados, rasgándoles las ropas, ordenaron azotarles con varas.",
+      "number": 22,
+      "id": 27505
+    },
+    {
+      "verse": "Después de haberles azotado mucho, los echaron en la cárcel, mandando al carcelero que los guardase con seguridad.",
+      "number": 23,
+      "id": 27506
+    },
+    {
+      "verse": "El cual, recibido este mandato, los metió en el calabozo de más adentro, y les aseguró los pies en el cepo.",
+      "number": 24,
+      "id": 27507
+    },
+    {
+      "verse": "Pero a medianoche, orando Pablo y Silas, cantaban himnos a Dios; y los presos los oían.",
+      "number": 25,
+      "id": 27508
+    },
+    {
+      "verse": "Entonces sobrevino de repente un gran terremoto, de tal manera que los cimientos de la cárcel se sacudían; y al instante se abrieron todas las puertas, y las cadenas de todos se soltaron.",
+      "number": 26,
+      "id": 27509
+    },
+    {
+      "verse": "Despertando el carcelero, y viendo abiertas las puertas de la cárcel, sacó la espada y se iba a matar, pensando que los presos habían huido.",
+      "number": 27,
+      "id": 27510
+    },
+    {
+      "verse": "Mas Pablo clamó a gran voz, diciendo: No te hagas ningún mal, pues todos estamos aquí.",
+      "number": 28,
+      "id": 27511
+    },
+    {
+      "verse": "El entonces, pidiendo luz, se precipitó adentro, y temblando, se postró a los pies de Pablo y de Silas;",
+      "number": 29,
+      "id": 27512
+    },
+    {
+      "verse": "y sacándolos, les dijo: Señores, ¿qué debo hacer para ser salvo?",
+      "number": 30,
+      "id": 27513
+    },
+    {
+      "verse": "Ellos dijeron: Cree en el Señor Jesucristo, y serás salvo, tú y tu casa.",
+      "number": 31,
+      "id": 27514
+    },
+    {
+      "verse": "Y le hablaron la palabra del Señor a él y a todos los que estaban en su casa.",
+      "number": 32,
+      "id": 27515
+    },
+    {
+      "verse": "Y él, tomándolos en aquella misma hora de la noche, les lavó las heridas; y en seguida se bautizó él con todos los suyos.",
+      "number": 33,
+      "id": 27516
+    },
+    {
+      "verse": "Y llevándolos a su casa, les puso la mesa; y se regocijó con toda su casa de haber creído a Dios.",
+      "number": 34,
+      "id": 27517
+    },
+    {
+      "verse": "Cuando fue de día, los magistrados enviaron alguaciles a decir: Suelta a aquellos hombres.",
+      "number": 35,
+      "id": 27518
+    },
+    {
+      "verse": "Y el carcelero hizo saber estas palabras a Pablo: Los magistrados han mandado a decir que se os suelte; así que ahora salid, y marchaos en paz.",
+      "number": 36,
+      "id": 27519
+    },
+    {
+      "verse": "Pero Pablo les dijo: Después de azotarnos públicamente sin sentencia judicial, siendo ciudadanos romanos, nos echaron en la cárcel, ¿y ahora nos echan encubiertamente? No, por cierto, sino vengan ellos mismos a sacarnos.",
+      "number": 37,
+      "id": 27520
+    },
+    {
+      "verse": "Y los alguaciles hicieron saber estas palabras a los magistrados, los cuales tuvieron miedo al oír que eran romanos.",
+      "number": 38,
+      "id": 27521
+    },
+    {
+      "verse": "Y viniendo, les rogaron; y sacándolos, les pidieron que salieran de la ciudad.",
+      "number": 39,
+      "id": 27522
+    },
+    {
+      "verse": "Entonces, saliendo de la cárcel, entraron en casa de Lidia, y habiendo visto a los hermanos, los consolaron, y se fueron.",
+      "number": 40,
+      "id": 27523
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "testament": "new",
+  "name": "2-Tesalonicenses",
+  "num_chapters": 3,
+  "chapter": 1,
+  "vers": [
+    {
+      "verse": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios nuestro Padre y en el Señor Jesucristo:",
+      "number": 1,
+      "study": "Salutación",
+      "id": 29650
+    },
+    {
+      "verse": "Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.",
+      "number": 2,
+      "id": 29651
+    },
+    {
+      "verse": "Debemos siempre dar gracias a Dios por vosotros, hermanos, como es digno, por cuanto vuestra fe va creciendo, y el amor de todos y cada uno de vosotros abunda para con los demás;",
+      "number": 3,
+      "study": "Dios juzgará a los pecadores en la venida de Cristo",
+      "id": 29652
+    },
+    {
+      "verse": "tanto, que nosotros mismos nos gloriamos de vosotros en las iglesias de Dios, por vuestra paciencia y fe en todas vuestras persecuciones y tribulaciones que soportáis.",
+      "number": 4,
+      "id": 29653
+    },
+    {
+      "verse": "Esto es demostración del justo juicio de Dios, para que seáis tenidos por dignos del reino de Dios, por el cual asimismo padecéis.",
+      "number": 5,
+      "id": 29654
+    },
+    {
+      "verse": "Porque es justo delante de Dios pagar con tribulación a los que os atribulan,",
+      "number": 6,
+      "id": 29655
+    },
+    {
+      "verse": "y a vosotros que sois atribulados, daros reposo con nosotros, cuando se manifieste el Señor Jesús desde el cielo con los ángeles de su poder,",
+      "number": 7,
+      "id": 29656
+    },
+    {
+      "verse": "en llama de fuego, para dar retribución a los que no conocieron a Dios, ni obedecen al evangelio de nuestro Señor Jesucristo;",
+      "number": 8,
+      "id": 29657
+    },
+    {
+      "verse": "los cuales sufrirán pena de eterna perdición, excluidos de la presencia del Señor y de la gloria de su poder,",
+      "number": 9,
+      "id": 29658
+    },
+    {
+      "verse": "cuando venga en aquel día para ser glorificado en sus santos y ser admirado en todos los que creyeron (por cuanto nuestro testimonio ha sido creído entre vosotros).",
+      "number": 10,
+      "id": 29659
+    },
+    {
+      "verse": "Por lo cual asimismo oramos siempre por vosotros, para que nuestro Dios os tenga por dignos de su llamamiento, y cumpla todo propósito de bondad y toda obra de fe con su poder,",
+      "number": 11,
+      "id": 29660
+    },
+    {
+      "verse": "para que el nombre de nuestro Señor Jesucristo sea glorificado en vosotros, y vosotros en él, por la gracia de nuestro Dios y del Señor Jesucristo.",
+      "number": 12,
+      "id": 29661
+    }
+  ]
+}

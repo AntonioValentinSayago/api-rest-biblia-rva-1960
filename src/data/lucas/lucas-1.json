@@ -1,0 +1,414 @@
+{
+  "testament": "new",
+  "name": "Lucas",
+  "num_chapters": 24,
+  "chapter": 1,
+  "vers": [
+    {
+      "verse": "Puesto que ya muchos han tratado de poner en orden la historia de las cosas que entre nosotros han sido ciertísimas,",
+      "number": 1,
+      "study": "Dedicatoria a Teófilo",
+      "id": 24894
+    },
+    {
+      "verse": "tal como nos lo enseñaron los que desde el principio lo vieron con sus ojos, y fueron ministros de la palabra,",
+      "number": 2,
+      "id": 24895
+    },
+    {
+      "verse": "me ha parecido también a mí, después de haber investigado con diligencia todas las cosas desde su origen, escribírtelas por orden, oh excelentísimo Teófilo,",
+      "number": 3,
+      "id": 24896
+    },
+    {
+      "verse": "para que conozcas bien la verdad de las cosas en las cuales has sido instruido.",
+      "number": 4,
+      "id": 24897
+    },
+    {
+      "verse": "Hubo en los días de Herodes, rey de Judea, un sacerdote llamado Zacarías, de la clase de Abías; su mujer era de las hijas de Aarón, y se llamaba Elisabet.",
+      "number": 5,
+      "study": "Anuncio del nacimiento de Juan",
+      "id": 24898
+    },
+    {
+      "verse": "Ambos eran justos delante de Dios, y andaban irreprensibles en todos los mandamientos y ordenanzas del Señor.",
+      "number": 6,
+      "id": 24899
+    },
+    {
+      "verse": "Pero no tenían hijo, porque Elisabet era estéril, y ambos eran ya de edad avanzada.",
+      "number": 7,
+      "id": 24900
+    },
+    {
+      "verse": "Aconteció que ejerciendo Zacarías el sacerdocio delante de Dios según el orden de su clase,",
+      "number": 8,
+      "id": 24901
+    },
+    {
+      "verse": "conforme a la costumbre del sacerdocio, le tocó en suerte ofrecer el incienso, entrando en el santuario del Señor.",
+      "number": 9,
+      "id": 24902
+    },
+    {
+      "verse": "Y toda la multitud del pueblo estaba fuera orando a la hora del incienso.",
+      "number": 10,
+      "id": 24903
+    },
+    {
+      "verse": "Y se le apareció un ángel del Señor puesto en pie a la derecha del altar del incienso.",
+      "number": 11,
+      "id": 24904
+    },
+    {
+      "verse": "Y se turbó Zacarías al verle, y le sobrecogió temor.",
+      "number": 12,
+      "id": 24905
+    },
+    {
+      "verse": "Pero el ángel le dijo: Zacarías, no temas; porque tu oración ha sido oída, y tu mujer Elisabet te dará a luz un hijo, y llamarás su nombre Juan.",
+      "number": 13,
+      "id": 24906
+    },
+    {
+      "verse": "Y tendrás gozo y alegría, y muchos se regocijarán de su nacimiento;",
+      "number": 14,
+      "id": 24907
+    },
+    {
+      "verse": "porque será grande delante de Dios. No beberá vino ni sidra, y será lleno del Espíritu Santo, aun desde el vientre de su madre.",
+      "number": 15,
+      "id": 24908
+    },
+    {
+      "verse": "Y hará que muchos de los hijos de Israel se conviertan al Señor Dios de ellos.",
+      "number": 16,
+      "id": 24909
+    },
+    {
+      "verse": "E irá delante de él con el espíritu y el poder de Elías, para hacer volver los corazones de los padres a los hijos, y de los rebeldes a la prudencia de los justos, para preparar al Señor un pueblo bien dispuesto.",
+      "number": 17,
+      "id": 24910
+    },
+    {
+      "verse": "Dijo Zacarías al ángel: ¿En qué conoceré esto? Porque yo soy viejo, y mi mujer es de edad avanzada.",
+      "number": 18,
+      "id": 24911
+    },
+    {
+      "verse": "Respondiendo el ángel, le dijo: Yo soy Gabriel, que estoy delante de Dios; y he sido enviado a hablarte, y darte estas buenas nuevas.",
+      "number": 19,
+      "id": 24912
+    },
+    {
+      "verse": "Y ahora quedarás mudo y no podrás hablar, hasta el día en que esto se haga, por cuanto no creíste mis palabras, las cuales se cumplirán a su tiempo.",
+      "number": 20,
+      "id": 24913
+    },
+    {
+      "verse": "Y el pueblo estaba esperando a Zacarías, y se extrañaba de que él se demorase en el santuario.",
+      "number": 21,
+      "id": 24914
+    },
+    {
+      "verse": "Pero cuando salió, no les podía hablar; y comprendieron que había visto visión en el santuario. El les hablaba por señas, y permaneció mudo.",
+      "number": 22,
+      "id": 24915
+    },
+    {
+      "verse": "Y cumplidos los días de su ministerio, se fue a su casa.",
+      "number": 23,
+      "id": 24916
+    },
+    {
+      "verse": "Después de aquellos días concibió su mujer Elisabet, y se recluyó en casa por cinco meses, diciendo:",
+      "number": 24,
+      "id": 24917
+    },
+    {
+      "verse": "Así ha hecho conmigo el Señor en los días en que se dignó quitar mi afrenta entre los hombres.",
+      "number": 25,
+      "id": 24918
+    },
+    {
+      "verse": "Al sexto mes el ángel Gabriel fue enviado por Dios a una ciudad de Galilea, llamada Nazaret,",
+      "number": 26,
+      "study": "Anuncio del nacimiento de Jesús",
+      "id": 24919
+    },
+    {
+      "verse": "a una virgen desposada con un varón que se llamaba José, de la casa de David; y el nombre de la virgen era María.",
+      "number": 27,
+      "id": 24920
+    },
+    {
+      "verse": "Y entrando el ángel en donde ella estaba, dijo: ¡Salve, muy favorecida! El Señor es contigo; bendita tú entre las mujeres.",
+      "number": 28,
+      "id": 24921
+    },
+    {
+      "verse": "Mas ella, cuando le vio, se turbó por sus palabras, y pensaba qué salutación sería esta.",
+      "number": 29,
+      "id": 24922
+    },
+    {
+      "verse": "Entonces el ángel le dijo: María, no temas, porque has hallado gracia delante de Dios.",
+      "number": 30,
+      "id": 24923
+    },
+    {
+      "verse": "Y ahora, concebirás en tu vientre, y darás a luz un hijo, y llamarás su nombre JESÚS.",
+      "number": 31,
+      "id": 24924
+    },
+    {
+      "verse": "Este será grande, y será llamado Hijo del Altísimo; y el Señor Dios le dará el trono de David su padre;",
+      "number": 32,
+      "id": 24925
+    },
+    {
+      "verse": "y reinará sobre la casa de Jacob para siempre, y su reino no tendrá fin.",
+      "number": 33,
+      "id": 24926
+    },
+    {
+      "verse": "Entonces María dijo al ángel: ¿Cómo será esto? pues no conozco varón.",
+      "number": 34,
+      "id": 24927
+    },
+    {
+      "verse": "Respondiendo el ángel, le dijo: El Espíritu Santo vendrá sobre ti, y el poder del Altísimo te cubrirá con su sombra; por lo cual también el Santo Ser que nacerá, será llamado Hijo de Dios.",
+      "number": 35,
+      "id": 24928
+    },
+    {
+      "verse": "Y he aquí tu parienta Elisabet, ella también ha concebido hijo en su vejez; y este es el sexto mes para ella, la que llamaban estéril;",
+      "number": 36,
+      "id": 24929
+    },
+    {
+      "verse": "porque nada hay imposible para Dios.",
+      "number": 37,
+      "id": 24930
+    },
+    {
+      "verse": "Entonces María dijo: He aquí la sierva del Señor; hágase conmigo conforme a tu palabra. Y el ángel se fue de su presencia.",
+      "number": 38,
+      "id": 24931
+    },
+    {
+      "verse": "En aquellos días, levantándose María, fue de prisa a la montaña, a una ciudad de Judá;",
+      "number": 39,
+      "study": "María visita a Elísabet",
+      "id": 24932
+    },
+    {
+      "verse": "y entró en casa de Zacarías, y saludó a Elisabet.",
+      "number": 40,
+      "id": 24933
+    },
+    {
+      "verse": "Y aconteció que cuando oyó Elisabet la salutación de María, la criatura saltó en su vientre; y Elisabet fue llena del Espíritu Santo,",
+      "number": 41,
+      "id": 24934
+    },
+    {
+      "verse": "y exclamó a gran voz, y dijo: Bendita tú entre las mujeres, y bendito el fruto de tu vientre.",
+      "number": 42,
+      "id": 24935
+    },
+    {
+      "verse": "¿Por qué se me concede esto a mí, que la madre de mi Señor venga a mí?",
+      "number": 43,
+      "id": 24936
+    },
+    {
+      "verse": "Porque tan pronto como llegó la voz de tu salutación a mis oídos, la criatura saltó de alegría en mi vientre.",
+      "number": 44,
+      "id": 24937
+    },
+    {
+      "verse": "Y bienaventurada la que creyó, porque se cumplirá lo que le fue dicho de parte del Señor.",
+      "number": 45,
+      "id": 24938
+    },
+    {
+      "verse": "Entonces María dijo:",
+      "number": 46,
+      "id": 24939
+    },
+    {
+      "verse": "Y mi espíritu se regocija en Dios mi Salvador.",
+      "number": 47,
+      "id": 24940
+    },
+    {
+      "verse": "Porque ha mirado la bajeza de su sierva; Pues he aquí, desde ahora me dirán bienaventurada todas las generaciones.",
+      "number": 48,
+      "id": 24941
+    },
+    {
+      "verse": "Porque me ha hecho grandes cosas el Poderoso; Santo es su nombre,",
+      "number": 49,
+      "id": 24942
+    },
+    {
+      "verse": "Y su misericordia es de generación en generación A los que le temen.",
+      "number": 50,
+      "id": 24943
+    },
+    {
+      "verse": "Hizo proezas con su brazo; Esparció a los soberbios en el pensamiento de sus corazones.",
+      "number": 51,
+      "id": 24944
+    },
+    {
+      "verse": "Quitó de los tronos a los poderosos, Y exaltó a los humildes.",
+      "number": 52,
+      "id": 24945
+    },
+    {
+      "verse": "A los hambrientos colmó de bienes, Y a los ricos envió vacíos.",
+      "number": 53,
+      "id": 24946
+    },
+    {
+      "verse": "Socorrió a Israel su siervo,  Acordándose de la misericordia",
+      "number": 54,
+      "id": 24947
+    },
+    {
+      "verse": "De la cual habló a nuestros padres, Para con Abraham y su descendencia para siempre.",
+      "number": 55,
+      "id": 24948
+    },
+    {
+      "verse": "Y se quedó María con ella como tres meses; después se volvió a su casa.",
+      "number": 56,
+      "id": 24949
+    },
+    {
+      "verse": "Cuando a Elisabet se le cumplió el tiempo de su alumbramiento, dio a luz un hijo.",
+      "number": 57,
+      "study": "Nacimiento de Juan el Bautista",
+      "id": 24950
+    },
+    {
+      "verse": "Y cuando oyeron los vecinos y los parientes que Dios había engrandecido para con ella su misericordia, se regocijaron con ella.",
+      "number": 58,
+      "id": 24951
+    },
+    {
+      "verse": "Aconteció que al octavo día vinieron para circuncidar al niño; y le llamaban con el nombre de su padre, Zacarías;",
+      "number": 59,
+      "id": 24952
+    },
+    {
+      "verse": "pero respondiendo su madre, dijo: No; se llamará Juan.",
+      "number": 60,
+      "id": 24953
+    },
+    {
+      "verse": "Le dijeron: ¿Por qué? No hay nadie en tu parentela que se llame con ese nombre.",
+      "number": 61,
+      "id": 24954
+    },
+    {
+      "verse": "Entonces preguntaron por señas a su padre, cómo le quería llamar.",
+      "number": 62,
+      "id": 24955
+    },
+    {
+      "verse": "Y pidiendo una tablilla, escribió, diciendo: Juan es su nombre. Y todos se maravillaron.",
+      "number": 63,
+      "id": 24956
+    },
+    {
+      "verse": "Al momento fue abierta su boca y suelta su lengua, y habló bendiciendo a Dios.",
+      "number": 64,
+      "id": 24957
+    },
+    {
+      "verse": "Y se llenaron de temor todos sus vecinos; y en todas las montañas de Judea se divulgaron todas estas cosas.",
+      "number": 65,
+      "id": 24958
+    },
+    {
+      "verse": "Y todos los que las oían las guardaban en su corazón, diciendo: ¿Quién, pues, será este niño? Y la mano del Señor estaba con él.",
+      "number": 66,
+      "id": 24959
+    },
+    {
+      "verse": "Y Zacarías su padre fue lleno del Espíritu Santo, y profetizó, diciendo:",
+      "number": 67,
+      "study": "Profecía de Zacarías",
+      "id": 24960
+    },
+    {
+      "verse": "Bendito el Señor Dios de Israel, Que ha visitado y redimido a su pueblo,",
+      "number": 68,
+      "id": 24961
+    },
+    {
+      "verse": "Y nos levantó un poderoso Salvador En la casa de David su siervo,",
+      "number": 69,
+      "id": 24962
+    },
+    {
+      "verse": "Como habló por boca de sus santos profetas que fueron desde el principio;",
+      "number": 70,
+      "id": 24963
+    },
+    {
+      "verse": "Salvación de nuestros enemigos, y de la mano de todos los que nos aborrecieron;",
+      "number": 71,
+      "id": 24964
+    },
+    {
+      "verse": "Para hacer misericordia con nuestros padres, Y acordarse de su santo pacto;",
+      "number": 72,
+      "id": 24965
+    },
+    {
+      "verse": "Del juramento que hizo a Abraham nuestro padre, Que nos había de conceder",
+      "number": 73,
+      "id": 24966
+    },
+    {
+      "verse": "Que, librados de nuestros enemigos, Sin temor le serviríamos",
+      "number": 74,
+      "id": 24967
+    },
+    {
+      "verse": "En santidad y en justicia delante de él, todos nuestros días.",
+      "number": 75,
+      "id": 24968
+    },
+    {
+      "verse": "Y tú, niño, profeta del Altísimo serás llamado; Porque irás delante de la presencia del Señor, para preparar sus caminos;",
+      "number": 76,
+      "id": 24969
+    },
+    {
+      "verse": "Para dar conocimiento de salvación a su pueblo, Para perdón de sus pecados,",
+      "number": 77,
+      "id": 24970
+    },
+    {
+      "verse": "Por la entrañable misericordia de nuestro Dios, Con que nos visitó desde lo alto la aurora,",
+      "number": 78,
+      "id": 24971
+    },
+    {
+      "verse": "Para dar luz a los que habitan en tinieblas y en sombra de muerte; Para encaminar nuestros pies por camino de paz.",
+      "number": 79,
+      "id": 24972
+    },
+    {
+      "verse": "Y el niño crecía, y se fortalecía en espíritu; y estuvo en lugares desiertos hasta el día de su manifestación a Israel.",
+      "number": 80,
+      "id": 24973
+    }
+  ]
+}

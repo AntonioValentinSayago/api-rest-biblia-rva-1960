@@ -1,0 +1,185 @@
+{
+  "testament": "new",
+  "name": "Mateo",
+  "num_chapters": 28,
+  "chapter": 6,
+  "vers": [
+    {
+      "verse": "Guardaos de hacer vuestra justicia delante de los hombres, para ser vistos de ellos; de otra manera no tendréis recompensa de vuestro Padre que está en los cielos.",
+      "number": 1,
+      "study": "Jesús y la limosna",
+      "id": 23283
+    },
+    {
+      "verse": "Cuando, pues, des limosna, no hagas tocar trompeta delante de ti, como hacen los hipócritas en las sinagogas y en las calles, para ser alabados por los hombres; de cierto os digo que ya tienen su recompensa.",
+      "number": 2,
+      "id": 23284
+    },
+    {
+      "verse": "Mas cuando tú des limosna, no sepa tu izquierda lo que hace tu derecha,",
+      "number": 3,
+      "id": 23285
+    },
+    {
+      "verse": "para que sea tu limosna en secreto; y tu Padre que ve en lo secreto te recompensará en público.",
+      "number": 4,
+      "id": 23286
+    },
+    {
+      "verse": "Y cuando ores, no seas como los hipócritas; porque ellos aman el orar en pie en las sinagogas y en las esquinas de las calles, para ser vistos de los hombres; de cierto os digo que ya tienen su recompensa.",
+      "number": 5,
+      "study": "Jesús y la oración",
+      "id": 23287
+    },
+    {
+      "verse": "Mas tú, cuando ores, entra en tu aposento, y cerrada la puerta, ora a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará en público.",
+      "number": 6,
+      "id": 23288
+    },
+    {
+      "verse": "Y orando, no uséis vanas repeticiones, como los gentiles, que piensan que por su palabrería serán oídos.",
+      "number": 7,
+      "id": 23289
+    },
+    {
+      "verse": "No os hagáis, pues, semejantes a ellos; porque vuestro Padre sabe de qué cosas tenéis necesidad, antes que vosotros le pidáis.",
+      "number": 8,
+      "id": 23290
+    },
+    {
+      "verse": "Vosotros, pues, oraréis así: Padre nuestro que estás en los cielos, santificado sea tu nombre.",
+      "number": 9,
+      "id": 23291
+    },
+    {
+      "verse": "Venga tu reino. Hágase tu voluntad, como en el cielo, así también en la tierra.",
+      "number": 10,
+      "id": 23292
+    },
+    {
+      "verse": "El pan nuestro de cada día, dánoslo hoy.",
+      "number": 11,
+      "id": 23293
+    },
+    {
+      "verse": "Y perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores.",
+      "number": 12,
+      "id": 23294
+    },
+    {
+      "verse": "Y no nos metas en tentación, mas líbranos del mal; porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén.",
+      "number": 13,
+      "id": 23295
+    },
+    {
+      "verse": "Porque si perdonáis a los hombres sus ofensas, os perdonará también a vosotros vuestro Padre celestial;",
+      "number": 14,
+      "id": 23296
+    },
+    {
+      "verse": "mas si no perdonáis a los hombres sus ofensas, tampoco vuestro Padre os perdonará vuestras ofensas.",
+      "number": 15,
+      "id": 23297
+    },
+    {
+      "verse": "Cuando ayunéis, no seáis austeros, como los hipócritas; porque ellos demudan sus rostros para mostrar a los hombres que ayunan; de cierto os digo que ya tienen su recompensa.",
+      "number": 16,
+      "study": "Jesús y el ayuno",
+      "id": 23298
+    },
+    {
+      "verse": "Pero tú, cuando ayunes, unge tu cabeza y lava tu rostro,",
+      "number": 17,
+      "id": 23299
+    },
+    {
+      "verse": "para no mostrar a los hombres que ayunas, sino a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará en público.",
+      "number": 18,
+      "id": 23300
+    },
+    {
+      "verse": "No os hagáis tesoros en la tierra, donde la polilla y el orín corrompen, y donde ladrones minan y hurtan;",
+      "number": 19,
+      "study": "Tesoros en el cielo",
+      "id": 23301
+    },
+    {
+      "verse": "sino haceos tesoros en el cielo, donde ni la polilla ni el orín corrompen, y donde ladrones no minan ni hurtan.",
+      "number": 20,
+      "id": 23302
+    },
+    {
+      "verse": "Porque donde esté vuestro tesoro, allí estará también vuestro corazón.",
+      "number": 21,
+      "id": 23303
+    },
+    {
+      "verse": "La lámpara del cuerpo es el ojo; así que, si tu ojo es bueno, todo tu cuerpo estará lleno de luz;",
+      "number": 22,
+      "study": "La lámpara del cuerpo",
+      "id": 23304
+    },
+    {
+      "verse": "pero si tu ojo es maligno, todo tu cuerpo estaráen tinieblas. Así que, si la luz que en ti hay es tinieblas, ¿cuántas no serán las mismas tinieblas?",
+      "number": 23,
+      "id": 23305
+    },
+    {
+      "verse": "Ninguno puede servir a dos señores; porque o aborrecerá al uno y amará al otro, o estimará al uno y menospreciará al otro. No podéis servir a Dios y a las riquezas.",
+      "number": 24,
+      "study": "Dios y las riquezas",
+      "id": 23306
+    },
+    {
+      "verse": "Por tanto os digo: No os afanéis por vuestra vida, qué habéis de comer o qué habéis de beber; ni por vuestro cuerpo, qué habéis de vestir. ¿No es la vida más que el alimento, y el cuerpo más que el vestido?",
+      "number": 25,
+      "study": "El afán y la ansiedad",
+      "id": 23307
+    },
+    {
+      "verse": "Mirad las aves del cielo, que no siembran, ni siegan, ni recogen en graneros; y vuestro Padre celestial las alimenta. ¿No valéis vosotros mucho más que ellas?",
+      "number": 26,
+      "id": 23308
+    },
+    {
+      "verse": "¿Y quién de vosotros podrá, por mucho que se afane, añadir a su estatura un codo?",
+      "number": 27,
+      "id": 23309
+    },
+    {
+      "verse": "Y por el vestido, ¿por qué os afanáis? Considerad los lirios del campo, cómo crecen: no trabajan ni hilan;",
+      "number": 28,
+      "id": 23310
+    },
+    {
+      "verse": "pero os digo, que ni aun Salomón con toda su gloria se vistió así como uno de ellos.",
+      "number": 29,
+      "id": 23311
+    },
+    {
+      "verse": "Y si la hierba del campo que hoy es, y mañana se echa en el horno, Dios la viste así, ¿no hará mucho más a vosotros, hombres de poca fe?",
+      "number": 30,
+      "id": 23312
+    },
+    {
+      "verse": "No os afanéis, pues, diciendo: ¿Qué comeremos, o qué beberemos, o qué vestiremos?",
+      "number": 31,
+      "id": 23313
+    },
+    {
+      "verse": "Porque los gentiles buscan todas estas cosas; pero vuestro Padre celestial sabe que tenéis necesidad de todas estas cosas.",
+      "number": 32,
+      "id": 23314
+    },
+    {
+      "verse": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.",
+      "number": 33,
+      "id": 23315
+    },
+    {
+      "verse": "Así que, no os afanéis por el día de mañana, porque el día de mañana traerá su afán. Basta a cada día su propio mal.",
+      "number": 34,
+      "id": 23316
+    }
+  ]
+}

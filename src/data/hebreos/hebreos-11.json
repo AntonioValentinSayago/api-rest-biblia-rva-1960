@@ -1,0 +1,209 @@
+{
+  "testament": "new",
+  "name": "Hebreos",
+  "num_chapters": 13,
+  "chapter": 11,
+  "vers": [
+    {
+      "verse": "Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.",
+      "number": 1,
+      "study": "La fe",
+      "id": 30173
+    },
+    {
+      "verse": "Porque por ella alcanzaron buen testimonio los antiguos.",
+      "number": 2,
+      "id": 30174
+    },
+    {
+      "verse": "Por la fe entendemos haber sido constituido el universo por la palabra de Dios, de modo que lo que se ve fue hecho de lo que no se veía.",
+      "number": 3,
+      "id": 30175
+    },
+    {
+      "verse": "Por la fe Abel ofreció a Dios más excelente sacrificio que Caín, por lo cual alcanzó testimonio de que era justo, dando Dios testimonio de sus ofrendas; y muerto, aún habla por ella.",
+      "number": 4,
+      "id": 30176
+    },
+    {
+      "verse": "Por la fe Enoc fue traspuesto para no ver muerte, y no fue hallado, porque lo traspuso Dios; y antes que fuese traspuesto, tuvo testimonio de haber agradado a Dios.",
+      "number": 5,
+      "id": 30177
+    },
+    {
+      "verse": "Pero sin fe es imposible agradar a Dios; porque es necesario que el que se acerca a Dios crea que le hay, y que es galardonador de los que le buscan.",
+      "number": 6,
+      "id": 30178
+    },
+    {
+      "verse": "Por la fe Noé, cuando fue advertido por Dios acerca de cosas que aún no se veían, con temor preparó el arca en que su casa se salvase; y por esa fe condenó al mundo, y fue hecho heredero de la justicia que viene por la fe.",
+      "number": 7,
+      "id": 30179
+    },
+    {
+      "verse": "Por la fe Abraham, siendo llamado, obedeció para salir al lugar que había de recibir como herencia; y salió sin saber a dónde iba.",
+      "number": 8,
+      "id": 30180
+    },
+    {
+      "verse": "Por la fe habitó como extranjero en la tierra prometida como en tierra ajena, morando en tiendas con Isaac y Jacob, coherederos de la misma promesa;",
+      "number": 9,
+      "id": 30181
+    },
+    {
+      "verse": "porque esperaba la ciudad que tiene fundamentos, cuyo arquitecto y constructor es Dios.",
+      "number": 10,
+      "id": 30182
+    },
+    {
+      "verse": "Por la fe también la misma Sara, siendo estéril, recibió fuerza para concebir; y dio a luz aun fuera del tiempo de la edad, porque creyó que era fiel quien lo había prometido.",
+      "number": 11,
+      "id": 30183
+    },
+    {
+      "verse": "Por lo cual también, de uno, y ése ya casi muerto, salieron como las estrellas del cielo en multitud, y como la arena innumerable que está a la orilla del mar.",
+      "number": 12,
+      "id": 30184
+    },
+    {
+      "verse": "Conforme a la fe murieron todos éstos sin haber recibido lo prometido, sino mirándolo de lejos, y creyéndolo, y saludándolo, y confesando que eran extranjeros y peregrinos sobre la tierra.",
+      "number": 13,
+      "id": 30185
+    },
+    {
+      "verse": "Porque los que esto dicen, claramente dan a entender que buscan una patria;",
+      "number": 14,
+      "id": 30186
+    },
+    {
+      "verse": "pues si hubiesen estado pensando en aquella de donde salieron, ciertamente tenían tiempo de volver.",
+      "number": 15,
+      "id": 30187
+    },
+    {
+      "verse": "Pero anhelaban una mejor, esto es, celestial; por lo cual Dios no se avergüenza de llamarse Dios de ellos; porque les ha preparado una ciudad.",
+      "number": 16,
+      "id": 30188
+    },
+    {
+      "verse": "Por la fe Abraham, cuando fue probado, ofreció a Isaac; y el que había recibido las promesas ofrecía su unigénito,",
+      "number": 17,
+      "id": 30189
+    },
+    {
+      "verse": "habiéndosele dicho: En Isaac te será llamada descendencia;",
+      "number": 18,
+      "id": 30190
+    },
+    {
+      "verse": "pensando que Dios es poderoso para levantar aun de entre los muertos, de donde, en sentido figurado, también le volvió a recibir.",
+      "number": 19,
+      "id": 30191
+    },
+    {
+      "verse": "Por la fe bendijo Isaac a Jacob y a Esaú respecto a cosas venideras.",
+      "number": 20,
+      "id": 30192
+    },
+    {
+      "verse": "Por la fe Jacob, al morir, bendijo a cada uno de los hijos de José, y adoró apoyado sobre el extremo de su bordón.",
+      "number": 21,
+      "id": 30193
+    },
+    {
+      "verse": "Por la fe José, al morir, mencionó la salida de los hijos de Israel, y dio mandamiento acerca de sus huesos.",
+      "number": 22,
+      "id": 30194
+    },
+    {
+      "verse": "Por la fe Moisés, cuando nació, fue escondido por sus padres por tres meses, porque le vieron niño hermoso, y no temieron el decreto del rey.",
+      "number": 23,
+      "id": 30195
+    },
+    {
+      "verse": "Por la fe Moisés, hecho ya grande, rehusó llamarse hijo de la hija de Faraón,",
+      "number": 24,
+      "id": 30196
+    },
+    {
+      "verse": "escogiendo antes ser maltratado con el pueblo de Dios, que gozar de los deleites temporales del pecado,",
+      "number": 25,
+      "id": 30197
+    },
+    {
+      "verse": "teniendo por mayores riquezas el vituperio de Cristo que los tesoros de los egipcios; porque tenía puesta la mirada en el galardón.",
+      "number": 26,
+      "id": 30198
+    },
+    {
+      "verse": "Por la fe dejó a Egipto, no temiendo la ira del rey; porque se sostuvo como viendo al Invisible.",
+      "number": 27,
+      "id": 30199
+    },
+    {
+      "verse": "Por la fe celebró la pascua y la aspersión de la sangre, para que el que destruía a los primogénitos no los tocase a ellos.",
+      "number": 28,
+      "id": 30200
+    },
+    {
+      "verse": "Por la fe pasaron el Mar Rojo como por tierra seca; e intentando los egipcios hacer lo mismo, fueron ahogados.",
+      "number": 29,
+      "id": 30201
+    },
+    {
+      "verse": "Por la fe cayeron los muros de Jericó después de rodearlos siete días.",
+      "number": 30,
+      "id": 30202
+    },
+    {
+      "verse": "Por la fe Rahab la ramera no pereció juntamente con los desobedientes, habiendo recibido a los espías en paz.",
+      "number": 31,
+      "id": 30203
+    },
+    {
+      "verse": "¿Y qué más digo? Porque el tiempo me faltaría contando de Gedeón, de Barac, de Sansón, de Jefté, de David, así como de Samuel y de los profetas;",
+      "number": 32,
+      "id": 30204
+    },
+    {
+      "verse": "que por fe conquistaron reinos, hicieron justicia, alcanzaron promesas, taparon bocas de leones,",
+      "number": 33,
+      "id": 30205
+    },
+    {
+      "verse": "apagaron fuegos impetuosos, evitaron filo de espada, sacaron fuerzas de debilidad, se hicieron fuertes en batallas, pusieron en fuga ejércitos extranjeros.",
+      "number": 34,
+      "id": 30206
+    },
+    {
+      "verse": "Las mujeres recibieron sus muertos mediante resurrección; mas otros fueron atormentados, no aceptando el rescate, a fin de obtener mejor resurrección.",
+      "number": 35,
+      "id": 30207
+    },
+    {
+      "verse": "Otros experimentaron vituperios y azotes, y a más de esto prisiones y cárceles.",
+      "number": 36,
+      "id": 30208
+    },
+    {
+      "verse": "Fueron apedreados, aserrados, puestos a prueba, muertos a filo de espada; anduvieron de acá para allá cubiertos de pieles de ovejas y de cabras, pobres, angustiados, maltratados;",
+      "number": 37,
+      "id": 30209
+    },
+    {
+      "verse": "de los cuales el mundo no era digno; errando por los desiertos, por los montes, por las cuevas y por las cavernas de la tierra.",
+      "number": 38,
+      "id": 30210
+    },
+    {
+      "verse": "Y todos éstos, aunque alcanzaron buen testimonio mediante la fe, no recibieron lo prometido;",
+      "number": 39,
+      "id": 30211
+    },
+    {
+      "verse": "proveyendo Dios alguna cosa mejor para nosotros, para que no fuesen ellos perfeccionados aparte de nosotros.",
+      "number": 40,
+      "id": 30212
+    }
+  ]
+}
