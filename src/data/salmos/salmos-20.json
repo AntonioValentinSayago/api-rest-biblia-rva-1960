@@ -1,0 +1,54 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 20,
+  "vers": [
+    {
+      "verse": "Jehová te oiga en el día de conflicto; El nombre del Dios de Jacob te defienda.",
+      "number": 1,
+      "study": "Oración pidiendo la victoria",
+      "id": 14184
+    },
+    {
+      "verse": "Te envíe ayuda desde el santuario, Y desde Sion te sostenga.",
+      "number": 2,
+      "id": 14185
+    },
+    {
+      "verse": "Haga memoria de todas tus ofrendas, Y acepte tu holocausto. Selah",
+      "number": 3,
+      "id": 14186
+    },
+    {
+      "verse": "Te dé conforme al deseo de tu corazón, Y cumpla todo tu consejo.",
+      "number": 4,
+      "id": 14187
+    },
+    {
+      "verse": "Nosotros nos alegraremos en tu salvación, Y alzaremos pendón en el nombre de nuestro Dios; Conceda Jehová todas tus peticiones.",
+      "number": 5,
+      "id": 14188
+    },
+    {
+      "verse": "Ahora conozco que Jehová salva a su ungido; Lo oirá desde sus santos cielos Con la potencia salvadora de su diestra.",
+      "number": 6,
+      "id": 14189
+    },
+    {
+      "verse": "Estos confían en carros, y aquéllos en caballos; Mas nosotros del nombre de Jehová nuestro Dios tendremos memoria.",
+      "number": 7,
+      "id": 14190
+    },
+    {
+      "verse": "Ellos flaquean y caen, Mas nosotros nos levantamos, y estamos en pie.",
+      "number": 8,
+      "id": 14191
+    },
+    {
+      "verse": "Salva, Jehová; Que el Rey nos oiga en el día que lo invoquemos.",
+      "number": 9,
+      "id": 14192
+    }
+  ]
+}

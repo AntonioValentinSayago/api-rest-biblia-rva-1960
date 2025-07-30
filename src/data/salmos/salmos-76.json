@@ -1,0 +1,69 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 76,
+  "vers": [
+    {
+      "verse": "Dios es conocido en Judá; En Israel es grande su nombre.",
+      "number": 1,
+      "study": "El Dios de la victoria y del juicio",
+      "id": 15083
+    },
+    {
+      "verse": "En Salem está su tabernáculo, Y su habitación en Sion.",
+      "number": 2,
+      "id": 15084
+    },
+    {
+      "verse": "Allí quebró las saetas del arco, El escudo, la espada y las armas de guerra. Selah",
+      "number": 3,
+      "id": 15085
+    },
+    {
+      "verse": "Glorioso eres tú, poderoso más que los montes de caza.",
+      "number": 4,
+      "id": 15086
+    },
+    {
+      "verse": "Los fuertes de corazón fueron despojados, durmieron su sueño; No hizo uso de sus manos ninguno de los varones fuertes.",
+      "number": 5,
+      "id": 15087
+    },
+    {
+      "verse": "A tu reprensión, oh Dios de Jacob, El carro y el caballo fueron entorpecidos.",
+      "number": 6,
+      "id": 15088
+    },
+    {
+      "verse": "Tú, temible eres tú; ¿Y quién podrá estar en pie delante de ti cuando se encienda tu ira?",
+      "number": 7,
+      "id": 15089
+    },
+    {
+      "verse": "Desde los cielos hiciste oír juicio; La tierra tuvo temor y quedó suspensa",
+      "number": 8,
+      "id": 15090
+    },
+    {
+      "verse": "Cuando te levantaste, oh Dios, para juzgar, Para salvar a todos los mansos de la tierra. Selah",
+      "number": 9,
+      "id": 15091
+    },
+    {
+      "verse": "Ciertamente la ira del hombre te alabará; Tú reprimirás el resto de las iras.",
+      "number": 10,
+      "id": 15092
+    },
+    {
+      "verse": "Prometed, y pagad a Jehová vuestro Dios; Todos los que están alrededor de él, traigan ofrendas al Temible.",
+      "number": 11,
+      "id": 15093
+    },
+    {
+      "verse": "Cortará él el espíritu de los príncipes; Temible es a los reyes de la tierra.",
+      "number": 12,
+      "id": 15094
+    }
+  ]
+}

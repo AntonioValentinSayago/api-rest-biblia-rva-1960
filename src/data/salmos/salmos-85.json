@@ -1,0 +1,74 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 85,
+  "vers": [
+    {
+      "verse": "Fuiste propicio a tu tierra, oh Jehová; Volviste la cautividad de Jacob.",
+      "number": 1,
+      "study": "Súplica por l misericordia de Dios sobre Israel",
+      "id": 15273
+    },
+    {
+      "verse": "Perdonaste la iniquidad de tu pueblo; Todos los pecados de ellos cubriste. Selah",
+      "number": 2,
+      "id": 15274
+    },
+    {
+      "verse": "Reprimiste todo tu enojo; Te apartaste del ardor de tu ira.",
+      "number": 3,
+      "id": 15275
+    },
+    {
+      "verse": "Restáuranos, oh Dios de nuestra salvación, Y haz cesar tu ira de sobre nosotros.",
+      "number": 4,
+      "id": 15276
+    },
+    {
+      "verse": "¿Estarás enojado contra nosotros para siempre? ¿Extenderás tu ira de generación en generación?",
+      "number": 5,
+      "id": 15277
+    },
+    {
+      "verse": "¿No volverás a darnos vida, Para que tu pueblo se regocije en ti?",
+      "number": 6,
+      "id": 15278
+    },
+    {
+      "verse": "Muéstranos, oh Jehová, tu misericordia, Y danos tu salvación.",
+      "number": 7,
+      "id": 15279
+    },
+    {
+      "verse": "Escucharé lo que hablará Jehová Dios; Porque hablará paz a su pueblo y a sus santos, Para que no se vuelvan a la locura.",
+      "number": 8,
+      "id": 15280
+    },
+    {
+      "verse": "Ciertamente cercana está su salvación a los que le temen, Para que habite la gloria en nuestra tierra.",
+      "number": 9,
+      "id": 15281
+    },
+    {
+      "verse": "La misericordia y la verdad se encontraron; La justicia y la paz se besaron.",
+      "number": 10,
+      "id": 15282
+    },
+    {
+      "verse": "La verdad brotará de la tierra, Y la justicia mirará desde los cielos.",
+      "number": 11,
+      "id": 15283
+    },
+    {
+      "verse": "Jehová dará también el bien, Y nuestra tierra dará su fruto.",
+      "number": 12,
+      "id": 15284
+    },
+    {
+      "verse": "La justicia irá delante de él, Y sus pasos nos pondrá por camino.",
+      "number": 13,
+      "id": 15285
+    }
+  ]
+}

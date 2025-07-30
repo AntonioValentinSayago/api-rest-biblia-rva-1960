@@ -1,0 +1,69 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 5,
+  "vers": [
+    {
+      "verse": "Escucha, oh Jehová, mis palabras; Considera mi gemir.",
+      "number": 1,
+      "study": "Plegaria pidiendo protección",
+      "id": 13975
+    },
+    {
+      "verse": "Está atento a la voz de mi clamor, Rey mío y Dios mío, Porque a ti oraré.",
+      "number": 2,
+      "id": 13976
+    },
+    {
+      "verse": "Oh Jehová, de mañana oirás mi voz; De mañana me presentaré delante de ti, y esperaré.",
+      "number": 3,
+      "id": 13977
+    },
+    {
+      "verse": "Porque tú no eres un Dios que se complace en la maldad; El malo no habitará junto a ti.",
+      "number": 4,
+      "id": 13978
+    },
+    {
+      "verse": "Los insensatos no estarán delante de tus ojos; Aborreces a todos los que hacen iniquidad.",
+      "number": 5,
+      "id": 13979
+    },
+    {
+      "verse": "Destruirás a los que hablan mentira; Al hombre sanguinario y engañador abominará Jehová.",
+      "number": 6,
+      "id": 13980
+    },
+    {
+      "verse": "Mas yo por la abundancia de tu misericordia entraré en tu casa; Adoraré hacia tu santo templo en tu temor.",
+      "number": 7,
+      "id": 13981
+    },
+    {
+      "verse": "Guíame, Jehová, en tu justicia, a causa de mis enemigos; Endereza delante de mí tu camino.",
+      "number": 8,
+      "id": 13982
+    },
+    {
+      "verse": "Porque en la boca de ellos no hay sinceridad; Sus entrañas son maldad, Sepulcro abierto es su garganta, Con su lengua hablan lisonjas.",
+      "number": 9,
+      "id": 13983
+    },
+    {
+      "verse": "Castígalos, oh Dios; Caigan por sus mismos consejos; Por la multitud de sus transgresiones échalos fuera, Porque se rebelaron contra ti.",
+      "number": 10,
+      "id": 13984
+    },
+    {
+      "verse": "Pero alégrense todos los que en ti confían; Den voces de júbilo para siempre, porque tú los defiendes; En ti se regocijen los que aman tu nombre.",
+      "number": 11,
+      "id": 13985
+    },
+    {
+      "verse": "Porque tú, oh Jehová, bendecirás al justo; Como con un escudo lo rodearás de tu favor.",
+      "number": 12,
+      "id": 13986
+    }
+  ]
+}

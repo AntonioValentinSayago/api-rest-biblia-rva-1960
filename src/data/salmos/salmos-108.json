@@ -1,0 +1,74 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 108,
+  "vers": [
+    {
+      "verse": "Mi corazón está dispuesto, oh Dios; Cantaré y entonaré salmos; esta es mi gloria.",
+      "number": 1,
+      "study": "Petición de ayuda contra el enemigo",
+      "id": 15744
+    },
+    {
+      "verse": "Despiértate, salterio y arpa; Despertaré al alba.",
+      "number": 2,
+      "id": 15745
+    },
+    {
+      "verse": "Te alabaré, oh Jehová, entre los pueblos; A ti cantaré salmos entre las naciones.",
+      "number": 3,
+      "id": 15746
+    },
+    {
+      "verse": "Porque más grande que los cielos es tu misericordia, Y hasta los cielos tu verdad.",
+      "number": 4,
+      "id": 15747
+    },
+    {
+      "verse": "Exaltado seas sobre los cielos, oh Dios, Y sobre toda la tierra sea enaltecida tu gloria.",
+      "number": 5,
+      "id": 15748
+    },
+    {
+      "verse": "Para que sean librados tus amados, Salva con tu diestra y respóndeme.",
+      "number": 6,
+      "id": 15749
+    },
+    {
+      "verse": "Dios ha dicho en su santuario: Yo me alegraré; Repartiré a Siquem, y mediré el valle de Sucot.",
+      "number": 7,
+      "id": 15750
+    },
+    {
+      "verse": "Mío es Galaad, mío es Manasés, Y Efraín es la fortaleza de mi cabeza; Judá es mi legislador.",
+      "number": 8,
+      "id": 15751
+    },
+    {
+      "verse": "Moab, la vasija para lavarme; Sobre Edom echaré mi calzado; Me regocijaré sobre Filistea.",
+      "number": 9,
+      "id": 15752
+    },
+    {
+      "verse": "¿Quién me guiará a la ciudad fortificada? ¿Quién me guiará hasta Edom?",
+      "number": 10,
+      "id": 15753
+    },
+    {
+      "verse": "¿No serás tú, oh Dios, que nos habías desechado, Y no salías, oh Dios, con nuestros ejércitos?",
+      "number": 11,
+      "id": 15754
+    },
+    {
+      "verse": "Danos socorro contra el adversario, Porque vana es la ayuda del hombre.",
+      "number": 12,
+      "id": 15755
+    },
+    {
+      "verse": "En Dios haremos proezas, Y él hollará a nuestros enemigos.",
+      "number": 13,
+      "id": 15756
+    }
+  ]
+}

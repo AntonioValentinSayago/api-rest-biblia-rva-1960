@@ -1,0 +1,59 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 6,
+  "vers": [
+    {
+      "verse": "Jehová, no me reprendas en tu enojo, Ni me castigues con tu ira.",
+      "number": 1,
+      "study": "Oración pidiendo misericordia en tiempo de prueba",
+      "id": 13987
+    },
+    {
+      "verse": "Ten misericordia de mí, oh Jehová, porque estoy enfermo; Sáname, oh Jehová, porque mis huesos se estremecen.",
+      "number": 2,
+      "id": 13988
+    },
+    {
+      "verse": "Mi alma también está muy turbada; Y tú, Jehová, ¿hasta cuándo?",
+      "number": 3,
+      "id": 13989
+    },
+    {
+      "verse": "Vuélvete, oh Jehová, libra mi alma; Sálvame por tu misericordia.",
+      "number": 4,
+      "id": 13990
+    },
+    {
+      "verse": "Porque en la muerte no hay memoria de ti; En el Seol, ¿quién te alabará?",
+      "number": 5,
+      "id": 13991
+    },
+    {
+      "verse": "Me he consumido a fuerza de gemir; Todas las noches inundo de llanto mi lecho, Riego mi cama con mis lágrimas.",
+      "number": 6,
+      "id": 13992
+    },
+    {
+      "verse": "Mis ojos están gastados de sufrir; Se han envejecido a causa de todos mis angustiadores.",
+      "number": 7,
+      "id": 13993
+    },
+    {
+      "verse": "Apartaos de mí, todos los hacedores de iniquidad; Porque Jehová ha oído la voz de mi lloro.",
+      "number": 8,
+      "id": 13994
+    },
+    {
+      "verse": "Jehová ha oído mi ruego; Ha recibido Jehová mi oración.",
+      "number": 9,
+      "id": 13995
+    },
+    {
+      "verse": "Se avergonzarán y se turbarán mucho todos mis enemigos; Se volverán y serán avergonzados de repente.",
+      "number": 10,
+      "id": 13996
+    }
+  ]
+}

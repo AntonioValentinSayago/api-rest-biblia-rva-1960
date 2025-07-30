@@ -1,0 +1,24 @@
+{
+  "testamento": "antiguo",
+  "nombre": "Salmos",
+  "num_capítulos": 150,
+  "capítulo": 134,
+  "vers": [
+    {
+      "verse": "Mirad, bendecid a Jehová, Vosotros todos los siervos de Jehová, Los que en la casa de Jehová estánis por las noches.",
+      "número": 1,
+      "study": "Exhoratación a los guardas del templo",
+      "id": 16174
+    },
+    {
+      "verse": "Alzad vuestras manos al santuario, Y bendecid a Jehová.",
+      "número": 2,
+      "id": 16175
+    },
+    {
+      "verse": "Desde Sion te bendiga Jehová, El cual ha hecho los cielos y la tierra.",
+      "número": 3,
+      "id": 16176
+    }
+  ]
+}

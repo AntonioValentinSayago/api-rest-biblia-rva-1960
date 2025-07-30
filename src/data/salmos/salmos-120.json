@@ -1,0 +1,44 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 120,
+  "vers": [
+    {
+      "verse": "A Jehová clamé estando en angustia, Y él me respondió.",
+      "number": 1,
+      "study": "Plegaria ante el peligro de la lengua engañosa",
+      "id": 16076
+    },
+    {
+      "verse": "Libra mi alma, oh Jehová, del labio mentiroso, Y de la lengua fraudulenta.",
+      "number": 2,
+      "id": 16077
+    },
+    {
+      "verse": "¿Qué te dará, o qué te aprovechará, Oh lengua engañosa?",
+      "number": 3,
+      "id": 16078
+    },
+    {
+      "verse": "Agudas saetas de valiente, Con brasas de enebro.",
+      "number": 4,
+      "id": 16079
+    },
+    {
+      "verse": "¡Ay de mí, que moro en Mesec, Y habito entre las tiendas de Cedar!",
+      "number": 5,
+      "id": 16080
+    },
+    {
+      "verse": "Mucho tiempo ha morado mi alma Con los que aborrecen la paz.",
+      "number": 6,
+      "id": 16081
+    },
+    {
+      "verse": "Yo soy pacífico; Mas ellos, así que hablo, me hacen guerra.",
+      "number": 7,
+      "id": 16082
+    }
+  ]
+}

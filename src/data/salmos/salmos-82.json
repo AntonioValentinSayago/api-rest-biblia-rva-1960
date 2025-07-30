@@ -1,0 +1,49 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 82,
+  "vers": [
+    {
+      "verse": "Dios está en la reunión de los dioses; En medio de los dioses juzga.",
+      "number": 1,
+      "study": "Amonestación contra los juicios injustos",
+      "id": 15235
+    },
+    {
+      "verse": "¿Hasta cuándo juzgaréis injustamente, Y aceptaréis las personas de los impíos? Selah",
+      "number": 2,
+      "id": 15236
+    },
+    {
+      "verse": "Defended al débil y al huérfano; Haced justicia al afligido y al menesteroso.",
+      "number": 3,
+      "id": 15237
+    },
+    {
+      "verse": "Librad al afligido y al necesitado; Libradlo de mano de los impíos.",
+      "number": 4,
+      "id": 15238
+    },
+    {
+      "verse": "No saben, no entienden, Andan en tinieblas; Tiemblan todos los cimientos de la tierra.",
+      "number": 5,
+      "id": 15239
+    },
+    {
+      "verse": "Yo dije: Vosotros sois dioses, Y todos vosotros hijos del Altísimo;",
+      "number": 6,
+      "id": 15240
+    },
+    {
+      "verse": "Pero como hombres moriréis, Y como cualquiera de los príncipes caeréis.",
+      "number": 7,
+      "id": 15241
+    },
+    {
+      "verse": "Levántate, oh Dios, juzga la tierra; Porque tú heredarás todas las naciones.",
+      "number": 8,
+      "id": 15242
+    }
+  ]
+}

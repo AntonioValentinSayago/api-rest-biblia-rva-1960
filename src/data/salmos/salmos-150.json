@@ -1,0 +1,39 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 150,
+  "vers": [
+    {
+      "verse": "Alabad a Dios en su santuario; Alabadle en la magnificencia de su firmamento.",
+      "number": 1,
+      "study": "Exhoratación a alabar a Dios con instrumentos de música",
+      "id": 16396
+    },
+    {
+      "verse": "Alabadle por sus proezas; Alabadle conforme a la muchedumbre de su grandeza.",
+      "number": 2,
+      "id": 16397
+    },
+    {
+      "verse": "Alabadle a son de bocina; Alabadle con salterio y arpa.",
+      "number": 3,
+      "id": 16398
+    },
+    {
+      "verse": "Alabadle con pandero y danza; Alabadle con cuerdas y flautas.",
+      "number": 4,
+      "id": 16399
+    },
+    {
+      "verse": "Alabadle con címbalos resonantes; Alabadle con címbalos de júbilo.",
+      "number": 5,
+      "id": 16400
+    },
+    {
+      "verse": "Todo lo que respira alabe a JAH. Aleluya",
+      "number": 6,
+      "id": 16401
+    }
+  ]
+}

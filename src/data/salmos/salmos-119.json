@@ -1,0 +1,889 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 119,
+  "vers": [
+    {
+      "verse": "Bienaventurados los perfectos de camino, Los que andan en la ley de Jehová.",
+      "number": 1,
+      "study": "Excelencias de la ley de Dios",
+      "id": 15900
+    },
+    {
+      "verse": "Bienaventurados los que guardan sus testimonios, Y con todo el corazón le buscan;",
+      "number": 2,
+      "id": 15901
+    },
+    {
+      "verse": "Pues no hacen iniquidad Los que andan en sus caminos.",
+      "number": 3,
+      "id": 15902
+    },
+    {
+      "verse": "Tú encargaste Que sean muy guardados tus mandamientos.",
+      "number": 4,
+      "id": 15903
+    },
+    {
+      "verse": "¡Ojalá fuesen ordenados mis caminos Para guardar tus estatutos!",
+      "number": 5,
+      "id": 15904
+    },
+    {
+      "verse": "Entonces no sería yo avergonzado, Cuando atendiese a todos tus mandamientos.",
+      "number": 6,
+      "id": 15905
+    },
+    {
+      "verse": "Te alabaré con rectitud de corazón Cuando aprendiere tus justos juicios.",
+      "number": 7,
+      "id": 15906
+    },
+    {
+      "verse": "Tus estatutos guardaré; No me dejes enteramente. Bet",
+      "number": 8,
+      "id": 15907
+    },
+    {
+      "verse": "¿Con qué limpiará el joven su camino? Con guardar tu palabra.",
+      "number": 9,
+      "id": 15908
+    },
+    {
+      "verse": "Con todo mi corazón te he buscado; No me dejes desviarme de tus mandamientos.",
+      "number": 10,
+      "id": 15909
+    },
+    {
+      "verse": "En mi corazón he guardado tus dichos, Para no pecar contra ti.",
+      "number": 11,
+      "id": 15910
+    },
+    {
+      "verse": "Bendito tú, oh Jehová; Enséñame tus estatutos.",
+      "number": 12,
+      "id": 15911
+    },
+    {
+      "verse": "Con mis labios he contado Todos los juicios de tu boca.",
+      "number": 13,
+      "id": 15912
+    },
+    {
+      "verse": "Me he gozado en el camino de tus testimonios Más que de toda riqueza.",
+      "number": 14,
+      "id": 15913
+    },
+    {
+      "verse": "En tus mandamientos meditaré; Consideraré tus caminos.",
+      "number": 15,
+      "id": 15914
+    },
+    {
+      "verse": "Me regocijaré en tus estatutos; No me olvidaré de tus palabras. Guímel",
+      "number": 16,
+      "id": 15915
+    },
+    {
+      "verse": "Haz bien a tu siervo; que viva, Y guarde tu palabra.",
+      "number": 17,
+      "id": 15916
+    },
+    {
+      "verse": "Abre mis ojos, y miraré Las maravillas de tu ley.",
+      "number": 18,
+      "id": 15917
+    },
+    {
+      "verse": "Forastero soy yo en la tierra; No encubras de mí tus mandamientos.",
+      "number": 19,
+      "id": 15918
+    },
+    {
+      "verse": "Quebrantada está mi alma de desear Tus juicios en todo tiempo.",
+      "number": 20,
+      "id": 15919
+    },
+    {
+      "verse": "Reprendiste a los soberbios, los malditos, Que se desvían de tus mandamientos.",
+      "number": 21,
+      "id": 15920
+    },
+    {
+      "verse": "Aparta de mí el oprobio y el menosprecio, Porque tus testimonios he guardado.",
+      "number": 22,
+      "id": 15921
+    },
+    {
+      "verse": "Príncipes también se sentaron y hablaron contra mí; Mas tu siervo meditaba en tus estatutos,",
+      "number": 23,
+      "id": 15922
+    },
+    {
+      "verse": "Pues tus testimonios son mis delicias Y mis consejeros. Dálet",
+      "number": 24,
+      "id": 15923
+    },
+    {
+      "verse": "Abatida hasta el polvo está mi alma; Vivifícame según tu palabra.",
+      "number": 25,
+      "id": 15924
+    },
+    {
+      "verse": "Te he manifestado mis caminos, y me has respondido; Enséñame tus estatutos.",
+      "number": 26,
+      "id": 15925
+    },
+    {
+      "verse": "Hazme entender el camino de tus mandamientos, Para que medite en tus maravillas.",
+      "number": 27,
+      "id": 15926
+    },
+    {
+      "verse": "Se deshace mi alma de ansiedad; Susténtame según tu palabra.",
+      "number": 28,
+      "id": 15927
+    },
+    {
+      "verse": "Aparta de mí el camino de la mentira, Y en tu misericordia concédeme tu ley.",
+      "number": 29,
+      "id": 15928
+    },
+    {
+      "verse": "Escogí el camino de la verdad; He puesto tus juicios delante de mí.",
+      "number": 30,
+      "id": 15929
+    },
+    {
+      "verse": "Me he apegado a tus testimonios; Oh Jehová, no me avergüences.",
+      "number": 31,
+      "id": 15930
+    },
+    {
+      "verse": "Por el camino de tus mandamientos correré, Cuando ensanches mi corazón. He",
+      "number": 32,
+      "id": 15931
+    },
+    {
+      "verse": "Enséñame, oh Jehová, el camino de tus estatutos, Y lo guardaré hasta el fin.",
+      "number": 33,
+      "id": 15932
+    },
+    {
+      "verse": "Dame entendimiento, y guardaré tu ley, Y la cumpliré de todo corazón.",
+      "number": 34,
+      "id": 15933
+    },
+    {
+      "verse": "Guíame por la senda de tus mandamientos, Porque en ella tengo mi voluntad.",
+      "number": 35,
+      "id": 15934
+    },
+    {
+      "verse": "Inclina mi corazón a tus testimonios, Y no a la avaricia.",
+      "number": 36,
+      "id": 15935
+    },
+    {
+      "verse": "Aparta mis ojos, que no vean la vanidad; Avívame en tu camino.",
+      "number": 37,
+      "id": 15936
+    },
+    {
+      "verse": "Confirma tu palabra a tu siervo, Que te teme.",
+      "number": 38,
+      "id": 15937
+    },
+    {
+      "verse": "Quita de mí el oprobio que he temido, Porque buenos son tus juicios.",
+      "number": 39,
+      "id": 15938
+    },
+    {
+      "verse": "He aquí yo he anhelado tus mandamientos; Vivifícame en tu justicia. Vau",
+      "number": 40,
+      "id": 15939
+    },
+    {
+      "verse": "Venga a mí tu misericordia, oh Jehová; Tu salvación, conforme a tu dicho.",
+      "number": 41,
+      "id": 15940
+    },
+    {
+      "verse": "Y daré por respuesta a mi avergonzador, Que en tu palabra he confiado.",
+      "number": 42,
+      "id": 15941
+    },
+    {
+      "verse": "No quites de mi boca en ningún tiempo la palabra de verdad, Porque en tus juicios espero.",
+      "number": 43,
+      "id": 15942
+    },
+    {
+      "verse": "Guardaré tu ley siempre, Para siempre y eternamente.",
+      "number": 44,
+      "id": 15943
+    },
+    {
+      "verse": "Y andaré en libertad, Porque busqué tus mandamientos.",
+      "number": 45,
+      "id": 15944
+    },
+    {
+      "verse": "Hablaré de tus testimonios delante de los reyes, Y no me avergonzaré;",
+      "number": 46,
+      "id": 15945
+    },
+    {
+      "verse": "Y me regocijaré en tus mandamientos, Los cuales he amado.",
+      "number": 47,
+      "id": 15946
+    },
+    {
+      "verse": "Alzaré asimismo mis manos a tus mandamientos que amé, Y meditaré en tus estatutos. Zain",
+      "number": 48,
+      "id": 15947
+    },
+    {
+      "verse": "Acuérdate de la palabra dada a tu siervo, En la cual me has hecho esperar.",
+      "number": 49,
+      "id": 15948
+    },
+    {
+      "verse": "Ella es mi consuelo en mi aflicción, Porque tu dicho me ha vivificado.",
+      "number": 50,
+      "id": 15949
+    },
+    {
+      "verse": "Los soberbios se burlaron mucho de mí, Mas no me he apartado de tu ley.",
+      "number": 51,
+      "id": 15950
+    },
+    {
+      "verse": "Me acordé, oh Jehová, de tus juicios antiguos, Y me consolé.",
+      "number": 52,
+      "id": 15951
+    },
+    {
+      "verse": "Horror se apoderó de mí a causa de los inicuos Que dejan tu ley.",
+      "number": 53,
+      "id": 15952
+    },
+    {
+      "verse": "Cánticos fueron para mí tus estatutos En la casa en donde fui extranjero.",
+      "number": 54,
+      "id": 15953
+    },
+    {
+      "verse": "Me acordé en la noche de tu nombre, oh Jehová, Y guardé tu ley.",
+      "number": 55,
+      "id": 15954
+    },
+    {
+      "verse": "Estas bendiciones tuve Porque guardé tus mandamientos. Chet",
+      "number": 56,
+      "id": 15955
+    },
+    {
+      "verse": "Mi porción es Jehová; He dicho que guardaré tus palabras.",
+      "number": 57,
+      "id": 15956
+    },
+    {
+      "verse": "Tu presencia supliqué de todo corazón; Ten misericordia de mí según tu palabra.",
+      "number": 58,
+      "id": 15957
+    },
+    {
+      "verse": "Consideré mis caminos, Y volví mis pies a tus testimonios.",
+      "number": 59,
+      "id": 15958
+    },
+    {
+      "verse": "Me apresuré y no me retardé En guardar tus mandamientos.",
+      "number": 60,
+      "id": 15959
+    },
+    {
+      "verse": "Compañías de impíos me han rodeado, Mas no me he olvidado de tu ley.",
+      "number": 61,
+      "id": 15960
+    },
+    {
+      "verse": "A medianoche me levanto para alabarte Por tus justos juicios.",
+      "number": 62,
+      "id": 15961
+    },
+    {
+      "verse": "Compañero soy yo de todos los que te temen Y guardan tus mandamientos.",
+      "number": 63,
+      "id": 15962
+    },
+    {
+      "verse": "De tu misericordia, oh Jehová, está llena la tierra; Enséñame tus estatutos. Tet",
+      "number": 64,
+      "id": 15963
+    },
+    {
+      "verse": "Bien has hecho con tu siervo, Oh Jehová, conforme a tu palabra.",
+      "number": 65,
+      "id": 15964
+    },
+    {
+      "verse": "Enséñame buen sentido y sabiduría, Porque tus mandamientos he creído.",
+      "number": 66,
+      "id": 15965
+    },
+    {
+      "verse": "Antes que fuera yo humillado, descarriado andaba; Mas ahora guardo tu palabra.",
+      "number": 67,
+      "id": 15966
+    },
+    {
+      "verse": "Bueno eres tú, y bienhechor; Enséñame tus estatutos.",
+      "number": 68,
+      "id": 15967
+    },
+    {
+      "verse": "Contra mí forjaron mentira los soberbios, Mas yo guardaré de todo corazón tus mandamientos.",
+      "number": 69,
+      "id": 15968
+    },
+    {
+      "verse": "Se engrosó el corazón de ellos como sebo, Mas yo en tu ley me he regocijado.",
+      "number": 70,
+      "id": 15969
+    },
+    {
+      "verse": "Bueno me es haber sido humillado, Para que aprenda tus estatutos.",
+      "number": 71,
+      "id": 15970
+    },
+    {
+      "verse": "Mejor me es la ley de tu boca Que millares de oro y plata. Yod",
+      "number": 72,
+      "id": 15971
+    },
+    {
+      "verse": "Tus manos me hicieron y me formaron; Hazme entender, y aprenderé tus mandamientos.",
+      "number": 73,
+      "id": 15972
+    },
+    {
+      "verse": "Los que te temen me verán, y se alegrarán, Porque en tu palabra he esperado.",
+      "number": 74,
+      "id": 15973
+    },
+    {
+      "verse": "Conozco, oh Jehová, que tus juicios son justos, Y que conforme a tu fidelidad me afligiste.",
+      "number": 75,
+      "id": 15974
+    },
+    {
+      "verse": "Sea ahora tu misericordia para consolarme, Conforme a lo que has dicho a tu siervo.",
+      "number": 76,
+      "id": 15975
+    },
+    {
+      "verse": "Vengan a mí tus misericordias, para que viva, Porque tu ley es mi delicia.",
+      "number": 77,
+      "id": 15976
+    },
+    {
+      "verse": "Sean avergonzados los soberbios, porque sin causa me han calumniado; Pero yo meditaré en tus mandamientos.",
+      "number": 78,
+      "id": 15977
+    },
+    {
+      "verse": "Vuélvanse a mí los que te temen Y conocen tus testimonios.",
+      "number": 79,
+      "id": 15978
+    },
+    {
+      "verse": "Sea mi corazón íntegro en tus estatutos, Para que no sea yo avergonzado. Caf",
+      "number": 80,
+      "id": 15979
+    },
+    {
+      "verse": "Desfallece mi alma por tu salvación, Mas espero en tu palabra.",
+      "number": 81,
+      "id": 15980
+    },
+    {
+      "verse": "Desfallecieron mis ojos por tu palabra, Diciendo: ¿Cuándo me consolarás?",
+      "number": 82,
+      "id": 15981
+    },
+    {
+      "verse": "Porque estoy como el odre al humo; Pero no he olvidado tus estatutos.",
+      "number": 83,
+      "id": 15982
+    },
+    {
+      "verse": "¿Cuántos son los días de tu siervo? ¿Cuándo harás juicio contra los que me persiguen?",
+      "number": 84,
+      "id": 15983
+    },
+    {
+      "verse": "Los soberbios me han cavado hoyos; Mas no proceden según tu ley.",
+      "number": 85,
+      "id": 15984
+    },
+    {
+      "verse": "Todos tus mandamientos son verdad; Sin causa me persiguen; ayúdame.",
+      "number": 86,
+      "id": 15985
+    },
+    {
+      "verse": "Casi me han echado por tierra, Pero no he dejado tus mandamientos.",
+      "number": 87,
+      "id": 15986
+    },
+    {
+      "verse": "Vivifícame conforme a tu misericordia, Y guardaré los testimonios de tu boca. Lámed",
+      "number": 88,
+      "id": 15987
+    },
+    {
+      "verse": "Para siempre, oh Jehová, Permanece tu palabra en los cielos.",
+      "number": 89,
+      "id": 15988
+    },
+    {
+      "verse": "De generación en generación es tu fidelidad; Tú afirmaste la tierra, y subsiste.",
+      "number": 90,
+      "id": 15989
+    },
+    {
+      "verse": "Por tu ordenación subsisten todas las cosas hasta hoy, Pues todas ellas te sirven.",
+      "number": 91,
+      "id": 15990
+    },
+    {
+      "verse": "Si tu ley no hubiese sido mi delicia, Ya en mi aflicción hubiera perecido.",
+      "number": 92,
+      "id": 15991
+    },
+    {
+      "verse": "Nunca jamás me olvidaré de tus mandamientos, Porque con ellos me has vivificado.",
+      "number": 93,
+      "id": 15992
+    },
+    {
+      "verse": "Tuyo soy yo, sálvame, Porque he buscado tus mandamientos.",
+      "number": 94,
+      "id": 15993
+    },
+    {
+      "verse": "Los impíos me han aguardado para destruirme; Mas yo consideraré tus testimonios.",
+      "number": 95,
+      "id": 15994
+    },
+    {
+      "verse": "A toda perfección he visto fin; Amplio sobremanera es tu mandamiento. Mem",
+      "number": 96,
+      "id": 15995
+    },
+    {
+      "verse": "¡Oh, cuánto amo yo tu ley! Todo el día es ella mi meditación.",
+      "number": 97,
+      "id": 15996
+    },
+    {
+      "verse": "Me has hecho más sabio que mis enemigos con tus mandamientos, Porque siempre están conmigo.",
+      "number": 98,
+      "id": 15997
+    },
+    {
+      "verse": "Más que todos mis enseñadores he entendido, Porque tus testimonios son mi meditación.",
+      "number": 99,
+      "id": 15998
+    },
+    {
+      "verse": "Más que los viejos he entendido, Porque he guardado tus mandamientos;",
+      "number": 100,
+      "id": 15999
+    },
+    {
+      "verse": "De todo mal camino contuve mis pies, Para guardar tu palabra.",
+      "number": 101,
+      "id": 16000
+    },
+    {
+      "verse": "No me aparté de tus juicios, Porque tú me enseñaste.",
+      "number": 102,
+      "id": 16001
+    },
+    {
+      "verse": "¡Cuán dulces son a mi paladar tus palabras! Más que la miel a mi boca.",
+      "number": 103,
+      "id": 16002
+    },
+    {
+      "verse": "De tus mandamientos he adquirido inteligencia; Por tanto, he aborrecido todo camino de mentira. Nun",
+      "number": 104,
+      "id": 16003
+    },
+    {
+      "verse": "Lámpara es a mis pies tu palabra, Y lumbrera a mi camino.",
+      "number": 105,
+      "id": 16004
+    },
+    {
+      "verse": "Juré y ratifiqué Que guardaré tus justos juicios.",
+      "number": 106,
+      "id": 16005
+    },
+    {
+      "verse": "Afligido estoy en gran manera; Vivifícame, oh Jehová, conforme a tu palabra.",
+      "number": 107,
+      "id": 16006
+    },
+    {
+      "verse": "Te ruego, oh Jehová, que te sean agradables los sacrificios voluntarios de mi boca, Y me enseñes tus juicios.",
+      "number": 108,
+      "id": 16007
+    },
+    {
+      "verse": "Mi vida está de continuo en peligro, Mas no me he olvidado de tu ley.",
+      "number": 109,
+      "id": 16008
+    },
+    {
+      "verse": "Me pusieron lazo los impíos, Pero yo no me desvié de tus mandamientos.",
+      "number": 110,
+      "id": 16009
+    },
+    {
+      "verse": "Por heredad he tomado tus testimonios para siempre, Porque son el gozo de mi corazón.",
+      "number": 111,
+      "id": 16010
+    },
+    {
+      "verse": "Mi corazón incliné a cumplir tus estatutos De continuo, hasta el fin. Sámec",
+      "number": 112,
+      "id": 16011
+    },
+    {
+      "verse": "Aborrezco a los hombres hipócritas; Mas amo tu ley.",
+      "number": 113,
+      "id": 16012
+    },
+    {
+      "verse": "Mi escondedero y mi escudo eres tú; En tu palabra he esperado.",
+      "number": 114,
+      "id": 16013
+    },
+    {
+      "verse": "Apartaos de mí, malignos, Pues yo guardaré los mandamientos de mi Dios.",
+      "number": 115,
+      "id": 16014
+    },
+    {
+      "verse": "Susténtame conforme a tu palabra, y viviré; Y no quede yo avergonzado de mi esperanza.",
+      "number": 116,
+      "id": 16015
+    },
+    {
+      "verse": "Sosténme, y seré salvo, Y me regocijaré siempre en tus estatutos.",
+      "number": 117,
+      "id": 16016
+    },
+    {
+      "verse": "Hollaste a todos los que se desvían de tus estatutos, Porque su astucia es falsedad.",
+      "number": 118,
+      "id": 16017
+    },
+    {
+      "verse": "Como escorias hiciste consumir a todos los impíos de la tierra; Por tanto, yo he amado tus testimonios.",
+      "number": 119,
+      "id": 16018
+    },
+    {
+      "verse": "Mi carne se ha estremecido por temor de ti, Y de tus juicios tengo miedo. Ayin",
+      "number": 120,
+      "id": 16019
+    },
+    {
+      "verse": "Juicio y justicia he hecho; No me abandones a mis opresores.",
+      "number": 121,
+      "id": 16020
+    },
+    {
+      "verse": "Afianza a tu siervo para bien; No permitas que los soberbios me opriman.",
+      "number": 122,
+      "id": 16021
+    },
+    {
+      "verse": "Mis ojos desfallecieron por tu salvación, Y por la palabra de tu justicia.",
+      "number": 123,
+      "id": 16022
+    },
+    {
+      "verse": "Haz con tu siervo según tu misericordia, Y enséñame tus estatutos.",
+      "number": 124,
+      "id": 16023
+    },
+    {
+      "verse": "Tu siervo soy yo, dame entendimiento Para conocer tus testimonios.",
+      "number": 125,
+      "id": 16024
+    },
+    {
+      "verse": "Tiempo es de actuar, oh Jehová, Porque han invalidado tu ley.",
+      "number": 126,
+      "id": 16025
+    },
+    {
+      "verse": "Por eso he amado tus mandamientos Más que el oro, y más que oro muy puro.",
+      "number": 127,
+      "id": 16026
+    },
+    {
+      "verse": "Por eso estimé rectos todos tus mandamientos sobre todas las cosas, Y aborrecí todo camino de mentira. Pe",
+      "number": 128,
+      "id": 16027
+    },
+    {
+      "verse": "Maravillosos son tus testimonios; Por tanto, los ha guardado mi alma.",
+      "number": 129,
+      "id": 16028
+    },
+    {
+      "verse": "La exposición de tus palabras alumbra; Hace entender a los simples.",
+      "number": 130,
+      "id": 16029
+    },
+    {
+      "verse": "Mi boca abrí y suspiré, Porque deseaba tus mandamientos.",
+      "number": 131,
+      "id": 16030
+    },
+    {
+      "verse": "Mírame, y ten misericordia de mí, Como acostumbras con los que aman tu nombre.",
+      "number": 132,
+      "id": 16031
+    },
+    {
+      "verse": "Ordena mis pasos con tu palabra, Y ninguna iniquidad se enseñoree de mí.",
+      "number": 133,
+      "id": 16032
+    },
+    {
+      "verse": "Líbrame de la violencia de los hombres, Y guardaré tus mandamientos.",
+      "number": 134,
+      "id": 16033
+    },
+    {
+      "verse": "Haz que tu rostro resplandezca sobre tu siervo, Y enséñame tus estatutos.",
+      "number": 135,
+      "id": 16034
+    },
+    {
+      "verse": "Ríos de agua descendieron de mis ojos, Porque no guardaban tu ley. Tsade",
+      "number": 136,
+      "id": 16035
+    },
+    {
+      "verse": "Justo eres tú, oh Jehová, Y rectos tus juicios.",
+      "number": 137,
+      "id": 16036
+    },
+    {
+      "verse": "Tus testimonios, que has recomendado, Son rectos y muy fieles.",
+      "number": 138,
+      "id": 16037
+    },
+    {
+      "verse": "Mi celo me ha consumido, Porque mis enemigos se olvidaron de tus palabras.",
+      "number": 139,
+      "id": 16038
+    },
+    {
+      "verse": "Sumamente pura es tu palabra, Y la ama tu siervo.",
+      "number": 140,
+      "id": 16039
+    },
+    {
+      "verse": "Pequeño soy yo, y desechado, Mas no me he olvidado de tus mandamientos.",
+      "number": 141,
+      "id": 16040
+    },
+    {
+      "verse": "Tu justicia es justicia eterna, Y tu ley la verdad.",
+      "number": 142,
+      "id": 16041
+    },
+    {
+      "verse": "Aflicción y angustia se han apoderado de mí, Mas tus mandamientos fueron mi delicia.",
+      "number": 143,
+      "id": 16042
+    },
+    {
+      "verse": "Justicia eterna son tus testimonios; Dame entendimiento, y viviré. Cof",
+      "number": 144,
+      "id": 16043
+    },
+    {
+      "verse": "Clamé con todo mi corazón; respóndeme, Jehová, Y guardaré tus estatutos.",
+      "number": 145,
+      "id": 16044
+    },
+    {
+      "verse": "A ti clamé; sálvame, Y guardaré tus testimonios.",
+      "number": 146,
+      "id": 16045
+    },
+    {
+      "verse": "Me anticipé al alba, y clamé; Esperé en tu palabra.",
+      "number": 147,
+      "id": 16046
+    },
+    {
+      "verse": "Se anticiparon mis ojos a las vigilias de la noche, Para meditar en tus mandatos.",
+      "number": 148,
+      "id": 16047
+    },
+    {
+      "verse": "Oye mi voz conforme a tu misericordia; Oh Jehová, vivifícame conforme a tu juicio.",
+      "number": 149,
+      "id": 16048
+    },
+    {
+      "verse": "Se acercaron a la maldad los que me persiguen; Se alejaron de tu ley.",
+      "number": 150,
+      "id": 16049
+    },
+    {
+      "verse": "Cercano estás tú, oh Jehová, Y todos tus mandamientos son verdad.",
+      "number": 151,
+      "id": 16050
+    },
+    {
+      "verse": "Hace ya mucho que he entendido tus testimonios, Que para siempre los has establecido. Resh",
+      "number": 152,
+      "id": 16051
+    },
+    {
+      "verse": "Mira mi aflicción, y líbrame, Porque de tu ley no me he olvidado.",
+      "number": 153,
+      "id": 16052
+    },
+    {
+      "verse": "Defiende mi causa, y redímeme; Vivifícame con tu palabra.",
+      "number": 154,
+      "id": 16053
+    },
+    {
+      "verse": "Lejos está de los impíos la salvación, Porque no buscan tus estatutos.",
+      "number": 155,
+      "id": 16054
+    },
+    {
+      "verse": "Muchas son tus misericordias, oh Jehová; Vivifícame conforme a tus juicios.",
+      "number": 156,
+      "id": 16055
+    },
+    {
+      "verse": "Muchos son mis perseguidores y mis enemigos, Mas de tus testimonios no me he apartado.",
+      "number": 157,
+      "id": 16056
+    },
+    {
+      "verse": "Veía a los prevaricadores, y me disgustaba, Porque no guardaban tus palabras.",
+      "number": 158,
+      "id": 16057
+    },
+    {
+      "verse": "Mira, oh Jehová, que amo tus mandamientos; Vivifícame conforme a tu misericordia.",
+      "number": 159,
+      "id": 16058
+    },
+    {
+      "verse": "La suma de tu palabra es verdad, Y eterno es todo juicio de tu justicia. Sin",
+      "number": 160,
+      "id": 16059
+    },
+    {
+      "verse": "Príncipes me han perseguido sin causa, Pero mi corazón tuvo temor de tus palabras.",
+      "number": 161,
+      "id": 16060
+    },
+    {
+      "verse": "Me regocijo en tu palabra Como el que halla muchos despojos.",
+      "number": 162,
+      "id": 16061
+    },
+    {
+      "verse": "La mentira aborrezco y abomino; Tu ley amo.",
+      "number": 163,
+      "id": 16062
+    },
+    {
+      "verse": "Siete veces al día te alabo A causa de tus justos juicios.",
+      "number": 164,
+      "id": 16063
+    },
+    {
+      "verse": "Mucha paz tienen los que aman tu ley, Y no hay para ellos tropiezo.",
+      "number": 165,
+      "id": 16064
+    },
+    {
+      "verse": "Tu salvación he esperado, oh Jehová, Y tus mandamientos he puesto por obra.",
+      "number": 166,
+      "id": 16065
+    },
+    {
+      "verse": "Mi alma ha guardado tus testimonios, Y los he amado en gran manera.",
+      "number": 167,
+      "id": 16066
+    },
+    {
+      "verse": "He guardado tus mandamientos y tus testimonios, Porque todos mis caminos están delante de ti. Tau",
+      "number": 168,
+      "id": 16067
+    },
+    {
+      "verse": "Llegue mi clamor delante de ti, oh Jehová; Dame entendimiento conforme a tu palabra.",
+      "number": 169,
+      "id": 16068
+    },
+    {
+      "verse": "LLegue mi oración delante de ti; Líbrame conforme a tu dicho.",
+      "number": 170,
+      "id": 16069
+    },
+    {
+      "verse": "Mis labios rebosarán alabanza Cuando me enseñes tus estatutos.",
+      "number": 171,
+      "id": 16070
+    },
+    {
+      "verse": "Hablará mi lengua tus dichos, Porque todos tus mandamientos son justicia.",
+      "number": 172,
+      "id": 16071
+    },
+    {
+      "verse": "Esté tu mano pronta para socorrerme, Porque tus mandamientos he escogido.",
+      "number": 173,
+      "id": 16072
+    },
+    {
+      "verse": "He deseado tu salvación, oh Jehová, Y tu ley es mi delicia.",
+      "number": 174,
+      "id": 16073
+    },
+    {
+      "verse": "Viva mi alma y te alabe, Y tus juicios me ayuden.",
+      "number": 175,
+      "id": 16074
+    },
+    {
+      "verse": "Yo anduve errante como oveja extraviada; busca a tu siervo, Porque no me he olvidado de tus mandamientos.",
+      "number": 176,
+      "id": 16075
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 128,
+  "vers": [
+    {
+      "verse": "Bienaventurado todo aquel que teme a Jehová, Que anda en sus caminos.",
+      "number": 1,
+      "study": "La bienaventuranza del que teme a Jehová",
+      "id": 16128
+    },
+    {
+      "verse": "Cuando comieres el trabajo de tus manos, Bienaventurado serás, y te irá bien.",
+      "number": 2,
+      "id": 16129
+    },
+    {
+      "verse": "Tu mujer será como vid que lleva fruto a los lados de tu casa; Tus hijos como plantas de olivo alrededor de tu mesa.",
+      "number": 3,
+      "id": 16130
+    },
+    {
+      "verse": "He aquí que así será bendecido el hombre Que teme a Jehová.",
+      "number": 4,
+      "id": 16131
+    },
+    {
+      "verse": "Bendígate Jehová desde Sion, Y veas el bien de Jerusalén todos los días de tu vida,",
+      "number": 5,
+      "id": 16132
+    },
+    {
+      "verse": "Y veas a los hijos de tus hijos. Paz sea sobre Israel.",
+      "number": 6,
+      "id": 16133
+    }
+  ]
+}

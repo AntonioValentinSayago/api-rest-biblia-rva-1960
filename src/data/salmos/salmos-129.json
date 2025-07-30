@@ -1,0 +1,49 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 129,
+  "vers": [
+    {
+      "verse": "Mucho me han angustiado desde mi juventud, Puede decir ahora Israel;",
+      "number": 1,
+      "study": "Plegaria pidiendo la destrucción de los enemigos de Sion",
+      "id": 16134
+    },
+    {
+      "verse": "Mucho me han angustiado desde mi juventud; Mas no prevalecieron contra mí.",
+      "number": 2,
+      "id": 16135
+    },
+    {
+      "verse": "Sobre mis espaldas araron los aradores; Hicieron largos surcos.",
+      "number": 3,
+      "id": 16136
+    },
+    {
+      "verse": "Jehová es justo; Cortó las coyundas de los impíos.",
+      "number": 4,
+      "id": 16137
+    },
+    {
+      "verse": "Serán avergonzados y vueltos atrás Todos los que aborrecen a Sion.",
+      "number": 5,
+      "id": 16138
+    },
+    {
+      "verse": "Serán como la hierba de los tejados, Que se seca antes que crezca;",
+      "number": 6,
+      "id": 16139
+    },
+    {
+      "verse": "De la cual no llenó el segador su mano, Ni sus brazos el que hace gavillas.",
+      "number": 7,
+      "id": 16140
+    },
+    {
+      "verse": "Ni dijeron los que pasaban: Bendición de Jehová sea sobre vosotros; Os bendecimos en el nombre de Jehová.",
+      "number": 8,
+      "id": 16141
+    }
+  ]
+}

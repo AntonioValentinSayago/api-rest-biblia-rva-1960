@@ -1,0 +1,34 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 93,
+  "vers": [
+    {
+      "verse": "Jehová reina; se vistió de magnificencia; Jehová se vistió, se ciñó de poder. Afirmó también el mundo, y no se moverá.",
+      "number": 1,
+      "study": "La majestad de Jehová",
+      "id": 15428
+    },
+    {
+      "verse": "Firme es tu trono desde entonces; Tú eres eternamente.",
+      "number": 2,
+      "id": 15429
+    },
+    {
+      "verse": "Alzaron los ríos, oh Jehová, Los ríos alzaron su sonido; Alzaron los ríos sus ondas.",
+      "number": 3,
+      "id": 15430
+    },
+    {
+      "verse": "Jehová en las alturas es más poderoso Que el estruendo de las muchas aguas, Más que las recias ondas del mar.",
+      "number": 4,
+      "id": 15431
+    },
+    {
+      "verse": "Tus testimonios son muy firmes; La santidad conviene a tu casa, Oh Jehová, por los siglos y para siempre.",
+      "number": 5,
+      "id": 15432
+    }
+  ]
+}

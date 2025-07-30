@@ -1,0 +1,49 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 114,
+  "vers": [
+    {
+      "verse": "Cuando salió Israel de Egipto, La casa de Jacob del pueblo extranjero,",
+      "number": 1,
+      "study": "Las maravillas del Exodo",
+      "id": 15824
+    },
+    {
+      "verse": "Judá vino a ser su santuario, E Israel su señorío.",
+      "number": 2,
+      "id": 15825
+    },
+    {
+      "verse": "El mar lo vio, y huyó; El Jordán se volvió atrás.",
+      "number": 3,
+      "id": 15826
+    },
+    {
+      "verse": "Los montes saltaron como carneros, Los collados como corderitos.",
+      "number": 4,
+      "id": 15827
+    },
+    {
+      "verse": "¿Qué tuviste, oh mar, que huiste? ¿Y tú, oh Jordán, que te volviste atrás?",
+      "number": 5,
+      "id": 15828
+    },
+    {
+      "verse": "Oh montes, ¿por qué saltasteis como carneros, Y vosotros, collados, como corderitos?",
+      "number": 6,
+      "id": 15829
+    },
+    {
+      "verse": "A la presencia de Jehová tiembla la tierra, A la presencia del Dios de Jacob,",
+      "number": 7,
+      "id": 15830
+    },
+    {
+      "verse": "El cual cambió la peña en estanque de aguas, Y en fuente de aguas la roca.",
+      "number": 8,
+      "id": 15831
+    }
+  ]
+}

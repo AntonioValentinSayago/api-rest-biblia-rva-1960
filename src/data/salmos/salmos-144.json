@@ -1,0 +1,84 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 144,
+  "vers": [
+    {
+      "verse": "Bendito sea Jehová, mi roca, Quien adiestra mis manos para la batalla, Y mis dedos para la guerra;",
+      "number": 1,
+      "study": "Oración pidiendo socorro y prosperidad",
+      "id": 16307
+    },
+    {
+      "verse": "Misericordia mía y mi castillo, Fortaleza mía y mi libertador, Escudo mío, en quien he confiado; El que sujeta a mi pueblo debajo de mí.",
+      "number": 2,
+      "id": 16308
+    },
+    {
+      "verse": "Oh Jehová, ¿qué es el hombre, para que en él pienses, O el hijo de hombre, para que lo estimes?",
+      "number": 3,
+      "id": 16309
+    },
+    {
+      "verse": "El hombre es semejante a la vanidad; Sus días son como la sombra que pasa.",
+      "number": 4,
+      "id": 16310
+    },
+    {
+      "verse": "Oh Jehová, inclina tus cielos y desciende; Toca los montes, y humeen.",
+      "number": 5,
+      "id": 16311
+    },
+    {
+      "verse": "Despide relámpagos y disípalos, Envía tus saetas y túrbalos.",
+      "number": 6,
+      "id": 16312
+    },
+    {
+      "verse": "Envía tu mano desde lo alto; Redímeme, y sácame de las muchas aguas, De la mano de los hombres extraños,",
+      "number": 7,
+      "id": 16313
+    },
+    {
+      "verse": "Cuya boca habla vanidad, Y cuya diestra es diestra de mentira.",
+      "number": 8,
+      "id": 16314
+    },
+    {
+      "verse": "Oh Dios, a ti cantaré cántico nuevo; Con salterio, con decacordio cantaré a ti.",
+      "number": 9,
+      "id": 16315
+    },
+    {
+      "verse": "Tú, el que da victoria a los reyes, El que rescata de maligna espada a David su siervo.",
+      "number": 10,
+      "id": 16316
+    },
+    {
+      "verse": "Rescátame, y líbrame de la mano de los hombres extraños, Cuya boca habla vanidad, Y cuya diestra es diestra de mentira.",
+      "number": 11,
+      "id": 16317
+    },
+    {
+      "verse": "Sean nuestros hijos como plantas crecidas en su juventud, Nuestras hijas como esquinas labradas como las de un palacio;",
+      "number": 12,
+      "id": 16318
+    },
+    {
+      "verse": "Nuestros graneros llenos, provistos de toda suerte de grano; Nuestros ganados, que se multipliquen a millares y decenas de millares en nuestros campos;",
+      "number": 13,
+      "id": 16319
+    },
+    {
+      "verse": "Nuestros bueyes estén fuertes para el trabajo; No tengamos asalto, ni que hacer salida, Ni grito de alarma en nuestras plazas.",
+      "number": 14,
+      "id": 16320
+    },
+    {
+      "verse": "Bienaventurado el pueblo que tiene esto; Bienaventurado el pueblo cuyo Dios es Jehová.",
+      "number": 15,
+      "id": 16321
+    }
+  ]
+}

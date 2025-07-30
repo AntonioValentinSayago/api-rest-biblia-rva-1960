@@ -1,0 +1,39 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 126,
+  "vers": [
+    {
+      "verse": "Cuando Jehová hiciere volver la cautividad de Sion, Seremos como los que sueñan.",
+      "number": 1,
+      "study": "Oración por la restauración",
+      "id": 16117
+    },
+    {
+      "verse": "Entonces nuestra boca se llenará de risa, Y nuestra lengua de alabanza; Entonces dirán entre las naciones: Grandes cosas ha hecho Jehová con éstos.",
+      "number": 2,
+      "id": 16118
+    },
+    {
+      "verse": "Grandes cosas ha hecho Jehová con nosotros; Estaremos alegres.",
+      "number": 3,
+      "id": 16119
+    },
+    {
+      "verse": "Haz volver nuestra cautividad, oh Jehová, Como los arroyos del Neguev.",
+      "number": 4,
+      "id": 16120
+    },
+    {
+      "verse": "Los que sembraron con lágrimas, con regocijo segarán.",
+      "number": 5,
+      "id": 16121
+    },
+    {
+      "verse": "Irá andando y llorando el que lleva la preciosa semilla; Mas volverá a venir con regocijo, trayendo sus gavillas.",
+      "number": 6,
+      "id": 16122
+    }
+  ]
+}

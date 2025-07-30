@@ -1,0 +1,34 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 15,
+  "vers": [
+    {
+      "verse": "Jehová, ¿quién habitará en tu tabernáculo? ¿Quién morará en tu monte santo?",
+      "number": 1,
+      "study": "Los que habitarán en el monte santo de Dios",
+      "id": 14089
+    },
+    {
+      "verse": "El que anda en integridad y hace justicia, Y habla verdad en su corazón.",
+      "number": 2,
+      "id": 14090
+    },
+    {
+      "verse": "El que no calumnia con su lengua, Ni hace mal a su prójimo, Ni admite reproche alguno contra su vecino.",
+      "number": 3,
+      "id": 14091
+    },
+    {
+      "verse": "Aquel a cuyos ojos el vil es menospreciado, Pero honra a los que temen a Jehová. El que aun jurando en daño suyo, no por eso cambia;",
+      "number": 4,
+      "id": 14092
+    },
+    {
+      "verse": "Quien su dinero no dio a usura, Ni contra el inocente admitió cohecho. El que hace estas cosas, no resbalará jamás.",
+      "number": 5,
+      "id": 14093
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 47,
+  "vers": [
+    {
+      "verse": "Pueblos todos, batid las manos; Aclamad a Dios con voz de júbilo.",
+      "number": 1,
+      "study": "Dios, el Rey de toda la tierra",
+      "id": 14627
+    },
+    {
+      "verse": "Porque Jehová el Altísimo es temible; Rey grande sobre toda la tierra.",
+      "number": 2,
+      "id": 14628
+    },
+    {
+      "verse": "El someterá a los pueblos debajo de nosotros, Y a las naciones debajo de nuestros pies.",
+      "number": 3,
+      "id": 14629
+    },
+    {
+      "verse": "El nos elegirá nuestras heredades; La hermosura de Jacob, al cual amó. Selah",
+      "number": 4,
+      "id": 14630
+    },
+    {
+      "verse": "Subió Dios con júbilo, Jehová con sonido de trompeta.",
+      "number": 5,
+      "id": 14631
+    },
+    {
+      "verse": "Cantad a Dios, cantad; Cantad a nuestro Rey, cantad;",
+      "number": 6,
+      "id": 14632
+    },
+    {
+      "verse": "Porque Dios es el Rey de toda la tierra; Cantad con inteligencia.",
+      "number": 7,
+      "id": 14633
+    },
+    {
+      "verse": "Reinó Dios sobre las naciones; Se sentó Dios sobre su santo trono.",
+      "number": 8,
+      "id": 14634
+    },
+    {
+      "verse": "Los príncipes de los pueblos se reunieron Como pueblo del Dios de Abraham;",
+      "number": 9,
+      "id": 14635
+    },
+    {
+      "verse": "Porque de Dios son los escudos de la tierra; El es muy exaltado.",
+      "number": 10,
+      "id": 14636
+    }
+  ]
+}

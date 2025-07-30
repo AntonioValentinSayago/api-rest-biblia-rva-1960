@@ -1,0 +1,59 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 141,
+  "vers": [
+    {
+      "verse": "Jehová, a ti he clamado; apresúrate a mí; Escucha mi voz cuando te invocare.",
+      "number": 1,
+      "study": "Oración a fin de ser guardado del mal",
+      "id": 16278
+    },
+    {
+      "verse": "Suba mi oración delante de ti como el incienso, El don de mis manos como la ofrenda de la tarde.",
+      "number": 2,
+      "id": 16279
+    },
+    {
+      "verse": "Pon guarda a mi boca, oh Jehová; Guarda la puerta de mis labios.",
+      "number": 3,
+      "id": 16280
+    },
+    {
+      "verse": "No dejes que se incline mi corazón a cosa mala, A hacer obras impías Con los que hacen iniquidad; Y no coma yo de sus deleites.",
+      "number": 4,
+      "id": 16281
+    },
+    {
+      "verse": "Que el justo me castigue, será un favor, Y que me reprenda será un excelente bálsamo Que no me herirá la cabeza; Pero mi oración será continuamente contra las maldades de aquéllos.",
+      "number": 5,
+      "id": 16282
+    },
+    {
+      "verse": "Serán despeñados sus jueces, Y oirán mis palabras, que son verdaderas.",
+      "number": 6,
+      "id": 16283
+    },
+    {
+      "verse": "Como quien hiende y rompe la tierra, Son esparcidos nuestros huesos a la boca del Seol.",
+      "number": 7,
+      "id": 16284
+    },
+    {
+      "verse": "Por tanto, a ti, oh Jehová, Señor, miran mis ojos; En ti he confiado; no desampares mi alma.",
+      "number": 8,
+      "id": 16285
+    },
+    {
+      "verse": "Guárdame de los lazos que me han tendido, Y de las trampas de los que hacen iniquidad.",
+      "number": 9,
+      "id": 16286
+    },
+    {
+      "verse": "Caigan los impíos a una en sus redes, Mientras yo pasaré adelante.",
+      "number": 10,
+      "id": 16287
+    }
+  ]
+}

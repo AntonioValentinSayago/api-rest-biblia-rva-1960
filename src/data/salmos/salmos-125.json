@@ -1,0 +1,34 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 125,
+  "vers": [
+    {
+      "verse": "Los que confían en Jehová son como el monte de Sion, Que no se mueve, sino que permanece para siempre.",
+      "number": 1,
+      "study": "Dios protege a su pueblo",
+      "id": 16112
+    },
+    {
+      "verse": "Como Jerusalén tiene montes alrededor de ella, Así Jehová está alrededor de su pueblo Desde ahora y para siempre.",
+      "number": 2,
+      "id": 16113
+    },
+    {
+      "verse": "Porque no reposará la vara de la impiedad sobre la heredad de los justos; No sea que extiendan los justos sus manos a la iniquidad.",
+      "number": 3,
+      "id": 16114
+    },
+    {
+      "verse": "Haz bien, oh Jehová, a los buenos, Y a los que son rectos en su corazón.",
+      "number": 4,
+      "id": 16115
+    },
+    {
+      "verse": "Mas a los que se apartan tras sus perversidades, Jehová los llevará con los que hacen iniquidad; Paz sea sobre Israel.",
+      "number": 5,
+      "id": 16116
+    }
+  ]
+}

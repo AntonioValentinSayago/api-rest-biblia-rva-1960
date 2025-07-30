@@ -1,0 +1,44 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 110,
+  "vers": [
+    {
+      "verse": "Jehová dijo a mi Señor: Siéntate a mi diestra, Hasta que ponga a tus enemigos por estrado de tus pies.",
+      "number": 1,
+      "study": "Jehová da dominio al rey",
+      "id": 15788
+    },
+    {
+      "verse": "Jehová enviará desde Sion la vara de tu poder; Domina en medio de tus enemigos.",
+      "number": 2,
+      "id": 15789
+    },
+    {
+      "verse": "Tu pueblo se te ofrecerá voluntariamente en el día de tu poder, En la hermosura de la santidad. Desde el seno de la aurora Tienes tú el rocío de tu juventud.",
+      "number": 3,
+      "id": 15790
+    },
+    {
+      "verse": "Juró Jehová, y no se arrepentirá: Tú eres sacerdote para siempre Según el orden de Melquisedec.",
+      "number": 4,
+      "id": 15791
+    },
+    {
+      "verse": "El Señor está a tu diestra; Quebrantará a los reyes en el día de su ira.",
+      "number": 5,
+      "id": 15792
+    },
+    {
+      "verse": "Juzgará entre las naciones, Las llenará de cadáveres; Quebrantará las cabezas en muchas tierras.",
+      "number": 6,
+      "id": 15793
+    },
+    {
+      "verse": "Del arroyo beberá en el camino, Por lo cual levantará la cabeza.",
+      "number": 7,
+      "id": 15794
+    }
+  ]
+}

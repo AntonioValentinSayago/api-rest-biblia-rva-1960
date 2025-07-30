@@ -1,0 +1,249 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 106,
+  "vers": [
+    {
+      "verse": "Aleluya. Alabad a Jehová, porque él es bueno; Porque para siempre es su misericordia.",
+      "number": 1,
+      "study": "La rebeldía de Israel",
+      "id": 15653
+    },
+    {
+      "verse": "¿Quién expresará las poderosas obras de Jehová? ¿Quién contará sus alabanzas?",
+      "number": 2,
+      "id": 15654
+    },
+    {
+      "verse": "Dichosos los que guardan juicio, Los que hacen justicia en todo tiempo.",
+      "number": 3,
+      "id": 15655
+    },
+    {
+      "verse": "Acuérdate de mí, oh Jehová, según tu benevolencia para con tu pueblo; Visítame con tu salvación,",
+      "number": 4,
+      "id": 15656
+    },
+    {
+      "verse": "Para que yo vea el bien de tus escogidos, Para que me goce en la alegría de tu nación, Y me gloríe con tu heredad.",
+      "number": 5,
+      "id": 15657
+    },
+    {
+      "verse": "Pecamos nosotros, como nuestros padres; Hicimos iniquidad, hicimos impiedad.",
+      "number": 6,
+      "id": 15658
+    },
+    {
+      "verse": "Nuestros padres en Egipto no entendieron tus maravillas; No se acordaron de la muchedumbre de tus misericordias, Sino que se rebelaron junto al mar, el Mar Rojo.",
+      "number": 7,
+      "id": 15659
+    },
+    {
+      "verse": "Pero él los salvó por amor de su nombre, Para hacer notorio su poder.",
+      "number": 8,
+      "id": 15660
+    },
+    {
+      "verse": "Reprendió al Mar Rojo y lo secó, Y les hizo ir por el abismo como por un desierto.",
+      "number": 9,
+      "id": 15661
+    },
+    {
+      "verse": "Los salvó de mano del enemigo, Y los rescató de mano del adversario.",
+      "number": 10,
+      "id": 15662
+    },
+    {
+      "verse": "Cubrieron las aguas a sus enemigos; No quedó ni uno de ellos.",
+      "number": 11,
+      "id": 15663
+    },
+    {
+      "verse": "Entonces creyeron a sus palabras Y cantaron su alabanza.",
+      "number": 12,
+      "id": 15664
+    },
+    {
+      "verse": "Bien pronto olvidaron sus obras; No esperaron su consejo.",
+      "number": 13,
+      "id": 15665
+    },
+    {
+      "verse": "Se entregaron a un deseo desordenado en el desierto; Y tentaron a Dios en la soledad.",
+      "number": 14,
+      "id": 15666
+    },
+    {
+      "verse": "Y él les dio lo que pidieron; Mas envió mortandad sobre ellos.",
+      "number": 15,
+      "id": 15667
+    },
+    {
+      "verse": "Tuvieron envidia de Moisés en el campamento, Y contra Aarón, el santo de Jehová.",
+      "number": 16,
+      "id": 15668
+    },
+    {
+      "verse": "Entonces se abrió la tierra y tragó a Datán, Y cubrió la compañía de Abiram.",
+      "number": 17,
+      "id": 15669
+    },
+    {
+      "verse": "Y se encendió fuego en su junta; La llama quemó a los impíos.",
+      "number": 18,
+      "id": 15670
+    },
+    {
+      "verse": "Hicieron becerro en Horeb, Se postraron ante una imagen de fundición.",
+      "number": 19,
+      "id": 15671
+    },
+    {
+      "verse": "Así cambiaron su gloria Por la imagen de un buey que come hierba.",
+      "number": 20,
+      "id": 15672
+    },
+    {
+      "verse": "Olvidaron al Dios de su salvación, Que había hecho grandezas en Egipto,",
+      "number": 21,
+      "id": 15673
+    },
+    {
+      "verse": "Maravillas en la tierra de Cam, Cosas formidables sobre el Mar Rojo.",
+      "number": 22,
+      "id": 15674
+    },
+    {
+      "verse": "Y trató de destruirlos, De no haberse interpuesto Moisés su escogido delante de él, A fin de apartar su indignación para que no los destruyese.",
+      "number": 23,
+      "id": 15675
+    },
+    {
+      "verse": "Pero aborrecieron la tierra deseable; No creyeron a su palabra,",
+      "number": 24,
+      "id": 15676
+    },
+    {
+      "verse": "Antes murmuraron en sus tiendas, Y no oyeron la voz de Jehová.",
+      "number": 25,
+      "id": 15677
+    },
+    {
+      "verse": "Por tanto, alzó su mano contra ellos Para abatirlos en el desierto,",
+      "number": 26,
+      "id": 15678
+    },
+    {
+      "verse": "Y humillar su pueblo entre las naciones, Y esparcirlos por las tierras.",
+      "number": 27,
+      "id": 15679
+    },
+    {
+      "verse": "Se unieron asimismo a Baal-peor, Y comieron los sacrificios de los muertos.",
+      "number": 28,
+      "id": 15680
+    },
+    {
+      "verse": "Provocaron la ira de Dios con sus obras, Y se desarrolló la mortandad entre ellos.",
+      "number": 29,
+      "id": 15681
+    },
+    {
+      "verse": "Entonces se levantó Finees e hizo juicio, Y se detuvo la plaga;",
+      "number": 30,
+      "id": 15682
+    },
+    {
+      "verse": "Y le fue contado por justicia De generación en generación para siempre.",
+      "number": 31,
+      "id": 15683
+    },
+    {
+      "verse": "También le irritaron en las aguas de Meriba; Y le fue mal a Moisés por causa de ellos,",
+      "number": 32,
+      "id": 15684
+    },
+    {
+      "verse": "Porque hicieron rebelar a su espíritu, Y habló precipitadamente con sus labios.",
+      "number": 33,
+      "id": 15685
+    },
+    {
+      "verse": "No destruyeron a los pueblos Que Jehová les dijo;",
+      "number": 34,
+      "id": 15686
+    },
+    {
+      "verse": "Antes se mezclaron con las naciones, Y aprendieron sus obras,",
+      "number": 35,
+      "id": 15687
+    },
+    {
+      "verse": "Y sirvieron a sus ídolos, Los cuales fueron causa de su ruina.",
+      "number": 36,
+      "id": 15688
+    },
+    {
+      "verse": "Sacrificaron sus hijos y sus hijas a los demonios,",
+      "number": 37,
+      "id": 15689
+    },
+    {
+      "verse": "Y derramaron la sangre inocente, la sangre de sus hijos y de sus hijas, Que ofrecieron en sacrificio a los ídolos de Canaán, Y la tierra fue contaminada con sangre.",
+      "number": 38,
+      "id": 15690
+    },
+    {
+      "verse": "Se contaminaron así con sus obras, Y se prostituyeron con sus hechos.",
+      "number": 39,
+      "id": 15691
+    },
+    {
+      "verse": "Se encendió, por tanto, el furor de Jehová sobre su pueblo, Y abominó su heredad;",
+      "number": 40,
+      "id": 15692
+    },
+    {
+      "verse": "Los entregó en poder de las naciones, Y se enseñorearon de ellos los que les aborrecían.",
+      "number": 41,
+      "id": 15693
+    },
+    {
+      "verse": "Sus enemigos los oprimieron, Y fueron quebrantados debajo de su mano.",
+      "number": 42,
+      "id": 15694
+    },
+    {
+      "verse": "Muchas veces los libró; Mas ellos se rebelaron contra su consejo, Y fueron humillados por su maldad.",
+      "number": 43,
+      "id": 15695
+    },
+    {
+      "verse": "Con todo, él miraba cuando estaban en angustia, Y oía su clamor;",
+      "number": 44,
+      "id": 15696
+    },
+    {
+      "verse": "Y se acordaba de su pacto con ellos, Y se arrepentía conforme a la muchedumbre de sus misericordias.",
+      "number": 45,
+      "id": 15697
+    },
+    {
+      "verse": "Hizo asimismo que tuviesen de ellos misericordia todos los que los tenían cautivos.",
+      "number": 46,
+      "id": 15698
+    },
+    {
+      "verse": "Sálvanos, Jehová Dios nuestro, Y recógenos de entre las naciones, Para que alabemos tu santo nombre, Para que nos gloriemos en tus alabanzas.",
+      "number": 47,
+      "id": 15699
+    },
+    {
+      "verse": "Bendito Jehová Dios de Israel, Desde la eternidad y hasta la eternidad; Y diga todo el pueblo, Amén. Aleluya.",
+      "number": 48,
+      "id": 15700
+    }
+  ]
+}

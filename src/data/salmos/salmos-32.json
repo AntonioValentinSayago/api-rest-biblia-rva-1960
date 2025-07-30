@@ -1,0 +1,64 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 32,
+  "vers": [
+    {
+      "verse": "Bienaventurado aquel cuya transgresión ha sido perdonada, y cubierto su pecado.",
+      "number": 1,
+      "study": "La dicha del perdón",
+      "id": 14357
+    },
+    {
+      "verse": "Bienaventurado el hombre a quien Jehová no culpa de iniquidad, Y en cuyo espíritu no hay engaño.",
+      "number": 2,
+      "id": 14358
+    },
+    {
+      "verse": "Mientras callé, se envejecieron mis huesos En mi gemir todo el día.",
+      "number": 3,
+      "id": 14359
+    },
+    {
+      "verse": "Porque de día y de noche se agravó sobre mí tu mano; Se volvió mi verdor en sequedades de verano. Selah",
+      "number": 4,
+      "id": 14360
+    },
+    {
+      "verse": "Mi pecado te declaré, y no encubrí mi iniquidad. Dije: Confesaré mis transgresiones a Jehová; Y tú perdonaste la maldad de mi pecado.  Selah",
+      "number": 5,
+      "id": 14361
+    },
+    {
+      "verse": "Por esto orará a ti todo santo en el tiempo en que puedas ser hallado; Ciertamente en la inundación de muchas aguas no llegarán éstas a él.",
+      "number": 6,
+      "id": 14362
+    },
+    {
+      "verse": "Tú eres mi refugio; me guardarás de la angustia; Con cánticos de liberación me rodearás. Selah",
+      "number": 7,
+      "id": 14363
+    },
+    {
+      "verse": "Te haré entender, y te enseñaré el camino en que debes andar; Sobre ti fijaré mis ojos.",
+      "number": 8,
+      "id": 14364
+    },
+    {
+      "verse": "No seáis como el caballo, o como el mulo, sin entendimiento, Que han de ser sujetados con cabestro y con freno, Porque si no, no se acercan a ti.",
+      "number": 9,
+      "id": 14365
+    },
+    {
+      "verse": "Muchos dolores habrá para el impío; Mas al que espera en Jehová, le rodea la misericordia.",
+      "number": 10,
+      "id": 14366
+    },
+    {
+      "verse": "Alegraos en Jehová y gozaos, justos; Y cantad con júbilo todos vosotros los rectos de corazón.",
+      "number": 11,
+      "id": 14367
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 23,
+  "vers": [
+    {
+      "verse": "Jehová es mi pastor; nada me faltará.",
+      "number": 1,
+      "study": "Jehová es mi pastor",
+      "id": 14237
+    },
+    {
+      "verse": "En lugares de delicados pastos me hará descansar; Junto a aguas de reposo me pastoreará.",
+      "number": 2,
+      "id": 14238
+    },
+    {
+      "verse": "Confortará mi alma; Me guiará por sendas de justicia por amor de su nombre.",
+      "number": 3,
+      "id": 14239
+    },
+    {
+      "verse": "Aunque ande en valle de sombra de muerte, No temeré mal alguno, porque tú estarás conmigo; Tu vara y tu cayado me infundirán aliento.",
+      "number": 4,
+      "id": 14240
+    },
+    {
+      "verse": "Aderezas mesa delante de mí en presencia de mis angustiadores; Unges mi cabeza con aceite; mi copa está rebosando.",
+      "number": 5,
+      "id": 14241
+    },
+    {
+      "verse": "Ciertamente el bien y la misericordia me seguirán todos los días de mi vida, Y en la casa de Jehová moraré por largos días.",
+      "number": 6,
+      "id": 14242
+    }
+  ]
+}

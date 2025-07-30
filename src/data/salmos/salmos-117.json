@@ -1,0 +1,19 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 117,
+  "vers": [
+    {
+      "verse": "Alabad a Jehová, naciones todas; Pueblos todos, alabadle.",
+      "number": 1,
+      "study": "Alabanza por la misericordia de Jehová",
+      "id": 15869
+    },
+    {
+      "verse": "Porque ha engrandecido sobre nosotros su misericordia, Y la fidelidadde Jehová es para siempre. Aleluya.",
+      "number": 2,
+      "id": 15870
+    }
+  ]
+}

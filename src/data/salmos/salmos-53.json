@@ -1,0 +1,39 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 53,
+  "vers": [
+    {
+      "verse": "Dice el necio en su corazón: No hay Dios. Se han corrompido, e hicieron abominable maldad; No hay quien haga bien.",
+      "number": 1,
+      "study": "Insensatez y maldad de los hombres",
+      "id": 14722
+    },
+    {
+      "verse": "Dios desde los cielos miró sobre los hijos de los hombres, Para ver si había algún entendido Que buscara a Dios.",
+      "number": 2,
+      "id": 14723
+    },
+    {
+      "verse": "Cada uno se había vuelto atrás; todos se habían corrompido; No hay quien haga lo bueno, no hay ni aun uno.",
+      "number": 3,
+      "id": 14724
+    },
+    {
+      "verse": "¿No tienen conocimiento todos los que hacen iniquidad, Que devoran a mi pueblo como si comiesen pan, Y a Dios no invocan?",
+      "number": 4,
+      "id": 14725
+    },
+    {
+      "verse": "Allí se sobresaltaron de pavor donde no había miedo, Porque Dios ha esparcido los huesos del que puso asedio contra ti; Los avergonzaste, porque Dios los desechó.",
+      "number": 5,
+      "id": 14726
+    },
+    {
+      "verse": "¡Oh, si saliera de Sion la salvación de Israel! Cuando Dios hiciere volver de la cautividad a su pueblo, Se gozará Jacob, y se alegrará Israel.",
+      "number": 6,
+      "id": 14727
+    }
+  ]
+}

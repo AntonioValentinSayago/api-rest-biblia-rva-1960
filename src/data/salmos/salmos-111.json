@@ -1,0 +1,59 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 111,
+  "vers": [
+    {
+      "verse": "Alabaré a Jehová con todo el corazón En la compañía y congregación de los rectos.",
+      "number": 1,
+      "study": "Dios cuida de su pueblo",
+      "id": 15795
+    },
+    {
+      "verse": "Grandes son las obras de Jehová, Buscadas de todos los que las quieren.",
+      "number": 2,
+      "id": 15796
+    },
+    {
+      "verse": "Gloria y hermosura es su obra, Y su justicia permanece para siempre.",
+      "number": 3,
+      "id": 15797
+    },
+    {
+      "verse": "Ha hecho memorables sus maravillas; Clemente y misericordioso es Jehová.",
+      "number": 4,
+      "id": 15798
+    },
+    {
+      "verse": "Ha dado alimento a los que le temen; Para siempre se acordará de su pacto.",
+      "number": 5,
+      "id": 15799
+    },
+    {
+      "verse": "El poder de sus obras manifestó a su pueblo, Dándole la heredad de las naciones.",
+      "number": 6,
+      "id": 15800
+    },
+    {
+      "verse": "Las obras de sus manos son verdad y juicio; Fieles son todos sus mandamientos,",
+      "number": 7,
+      "id": 15801
+    },
+    {
+      "verse": "Afirmados eternamente y para siempre, Hechos en verdad y en rectitud.",
+      "number": 8,
+      "id": 15802
+    },
+    {
+      "verse": "Redención ha enviado a su pueblo; Para siempre ha ordenado su pacto; Santo y temible es su nombre.",
+      "number": 9,
+      "id": 15803
+    },
+    {
+      "verse": "El principio de la sabiduría es el temor de Jehová; Buen entendimiento tienen todos los que practican sus mandamientos; Su loor permanece para siempre.",
+      "number": 10,
+      "id": 15804
+    }
+  ]
+}

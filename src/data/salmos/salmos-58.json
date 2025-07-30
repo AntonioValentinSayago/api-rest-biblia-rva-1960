@@ -1,0 +1,64 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 58,
+  "vers": [
+    {
+      "verse": "Oh congregación, ¿pronunciáis en verdad justicia? ¿Juzgáis rectamente, hijos de los hombres?",
+      "number": 1,
+      "study": "Plegaria pidiendo el castigo de los malos",
+      "id": 14782
+    },
+    {
+      "verse": "Antes en el corazón maquináis iniquidades; Hacéis pesar la violencia de vuestras manos en la tierra.",
+      "number": 2,
+      "id": 14783
+    },
+    {
+      "verse": "Se apartaron los impíos desde la matriz; Se descarriaron hablando mentira desde que nacieron.",
+      "number": 3,
+      "id": 14784
+    },
+    {
+      "verse": "Veneno tienen como veneno de serpiente; Son como el áspid sordo que cierra su oído,",
+      "number": 4,
+      "id": 14785
+    },
+    {
+      "verse": "Que no oye la voz de los que encantan, Por más hábil que el encantador sea.",
+      "number": 5,
+      "id": 14786
+    },
+    {
+      "verse": "Oh Dios, quiebra sus dientes en sus bocas; Quiebra, oh Jehová, las muelas de los leoncillos.",
+      "number": 6,
+      "id": 14787
+    },
+    {
+      "verse": "Sean disipados como aguas que corren; Cuando disparen sus saetas, sean hechas pedazos.",
+      "number": 7,
+      "id": 14788
+    },
+    {
+      "verse": "Pasen ellos como el caracol que se deslíe; Como el que nace muerto, no vean el sol.",
+      "number": 8,
+      "id": 14789
+    },
+    {
+      "verse": "Antes que vuestras ollas sientan la llama de los espinos, Así vivos, así airados, los arrebatará él con tempestad.",
+      "number": 9,
+      "id": 14790
+    },
+    {
+      "verse": "Se alegrará el justo cuando viere la venganza; Sus pies lavará en la sangre del impío.",
+      "number": 10,
+      "id": 14791
+    },
+    {
+      "verse": "Entonces dirá el hombre: Ciertamente hay galardón para el justo; Ciertamente hay Dios que juzga en la tierra.",
+      "number": 11,
+      "id": 14792
+    }
+  ]
+}

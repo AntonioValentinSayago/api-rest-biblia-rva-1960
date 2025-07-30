@@ -1,0 +1,59 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 64,
+  "vers": [
+    {
+      "verse": "Escucha, oh Dios, la voz de mi queja; Guarda mi vida del temor del enemigo.",
+      "number": 1,
+      "study": "Plegaria pidiendo protección contra enemigos ocultos",
+      "id": 14853
+    },
+    {
+      "verse": "Escóndeme del consejo secreto de los malignos, De la conspiración de los que hacen iniquidad,",
+      "number": 2,
+      "id": 14854
+    },
+    {
+      "verse": "Que afilan como espada su lengua; Lanzan cual saeta suya, palabra amarga,",
+      "number": 3,
+      "id": 14855
+    },
+    {
+      "verse": "Para asaetear a escondidas al íntegro; De repente lo asaetean, y no temen.",
+      "number": 4,
+      "id": 14856
+    },
+    {
+      "verse": "Obstinados en su inicuo designio, Tratan de esconder los lazos, Y dicen: ¿Quién los ha de ver?",
+      "number": 5,
+      "id": 14857
+    },
+    {
+      "verse": "Inquieren iniquidades, hacen una investigación exacta; Y el íntimo pensamiento de cada uno de ellos, así como su corazón, es profundo.",
+      "number": 6,
+      "id": 14858
+    },
+    {
+      "verse": "Mas Dios los herirá con saeta; De repente serán sus plagas.",
+      "number": 7,
+      "id": 14859
+    },
+    {
+      "verse": "Sus propias lenguas los harán caer; Se espantarán todos los que los vean.",
+      "number": 8,
+      "id": 14860
+    },
+    {
+      "verse": "Entonces temerán todos los hombres, Y anunciarán la obra de Dios, Y entenderán sus hechos.",
+      "number": 9,
+      "id": 14861
+    },
+    {
+      "verse": "Se alegrará el justo en Jehová, y confiará en él; Y se gloriarán todos los rectos de corazón.",
+      "number": 10,
+      "id": 14862
+    }
+  ]
+}

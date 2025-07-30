@@ -1,0 +1,69 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 143,
+  "vers": [
+    {
+      "verse": "Oh Jehová, oye mi oración, escucha mis ruegos; Respóndeme por tu verdad, por tu justicia.",
+      "number": 1,
+      "study": "Súplica de liberación y dirección",
+      "id": 16295
+    },
+    {
+      "verse": "Y no entres en juicio con tu siervo; Porque no se justificará delante de ti ningún ser humano.",
+      "number": 2,
+      "id": 16296
+    },
+    {
+      "verse": "Porque ha perseguido el enemigo mi alma; Ha postrado en tierra mi vida; Me ha hecho habitar en tinieblas como los ya muertos.",
+      "number": 3,
+      "id": 16297
+    },
+    {
+      "verse": "Y mi espíritu se angustió dentro de mí; Está desolado mi corazón.",
+      "number": 4,
+      "id": 16298
+    },
+    {
+      "verse": "Me acordé de los días antiguos; Meditaba en todas tus obras; Reflexionaba en las obras de tus manos.",
+      "number": 5,
+      "id": 16299
+    },
+    {
+      "verse": "Extendí mis manos a ti, Mi alma a ti como la tierra sedienta. Selah",
+      "number": 6,
+      "id": 16300
+    },
+    {
+      "verse": "Respóndeme pronto, oh Jehová, porque desmaya mi espíritu; No escondas de mí tu rostro, No venga yo a ser semejante a los que descienden a la sepultura.",
+      "number": 7,
+      "id": 16301
+    },
+    {
+      "verse": "Hazme oír por la mañana tu misericordia, Porque en ti he confiado; Hazme saber el camino por donde ande, Porque a ti he elevado mi alma.",
+      "number": 8,
+      "id": 16302
+    },
+    {
+      "verse": "Líbrame de mis enemigos, oh Jehová; En ti me refugio.",
+      "number": 9,
+      "id": 16303
+    },
+    {
+      "verse": "Enséñame a hacer tu voluntad, porque tú eres mi Dios; Tu buen espíritu me guíe a tierra de rectitud.",
+      "number": 10,
+      "id": 16304
+    },
+    {
+      "verse": "Por tu nombre, oh Jehová, me vivificarás; Por tu justicia sacarás mi alma de angustia.",
+      "number": 11,
+      "id": 16305
+    },
+    {
+      "verse": "Y por tu misericordia disiparás a mis enemigos, Y destruirás a todos los adversarios de mi alma, Porque yo soy tu siervo.",
+      "number": 12,
+      "id": 16306
+    }
+  ]
+}

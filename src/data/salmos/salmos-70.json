@@ -1,0 +1,34 @@
+{
+  "testamento": "antiguo",
+  "nombre": "Salmos",
+  "num_capítulos": 150,
+  "capítulo": 70,
+  "vers": [
+    {
+      "verse": "Oh Dios, acude a librarme; Apresúrate, oh Dios, a socorrerme.",
+      "número": 1,
+      "estudio": "Súplica por liberación",
+      "id": 14974
+    },
+    {
+      "verse": "Sean avergonzados y confundidos Los que buscan mi vida; Sean vueltos atrás y avergonzados Los que mi mal desean.",
+      "número": 2,
+      "id": 14975
+    },
+    {
+      "verse": "Sean vueltos atrás, en pago de su afrenta hecha, Los que dicen: ¡Ah! ¡Ah!",
+      "número": 3,
+      "id": 14976
+    },
+    {
+      "verse": "Gócense y alégrense en ti todos los que te buscan, Y digan siempre los que aman tu salvación: Engrandecido sea Dios.",
+      "número": 4,
+      "id": 14977
+    },
+    {
+      "verse": "Yo estoy afligido y menesteroso; Apresúrate a mí, oh Dios. Ayuda mía y mi libertador eres tú; Oh Jehová, no te detengas.",
+      "número": 5,
+      "id": 14978
+    }
+  ]
+}

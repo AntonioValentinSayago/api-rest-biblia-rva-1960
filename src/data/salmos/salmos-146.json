@@ -1,0 +1,59 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 146,
+  "vers": [
+    {
+      "verse": "Alaba, oh alma mía, a Jehová.",
+      "number": 1,
+      "study": "Alabanza por la justicia de Dios",
+      "id": 16343
+    },
+    {
+      "verse": "Alabaré a Jehová en mi vida; Cantaré salmos a mi Dios mientras viva.",
+      "number": 2,
+      "id": 16344
+    },
+    {
+      "verse": "No confiéis en los príncipes, Ni en hijo de hombre, porque no hay en él salvación.",
+      "number": 3,
+      "id": 16345
+    },
+    {
+      "verse": "Pues sale su aliento, y vuelve a la tierra; En ese mismo día perecen sus pensamientos.",
+      "number": 4,
+      "id": 16346
+    },
+    {
+      "verse": "Bienaventurado aquel cuyo ayudador es el Dios de Jacob, Cuya esperanza está en Jehová su Dios,",
+      "number": 5,
+      "id": 16347
+    },
+    {
+      "verse": "El cual hizo los cielos y la tierra, El mar, y todo lo que en ellos hay; Que guarda verdad para siempre,",
+      "number": 6,
+      "id": 16348
+    },
+    {
+      "verse": "Que hace justicia a los agraviados, Que da pan a los hambrientos. Jehová liberta a los cautivos;",
+      "number": 7,
+      "id": 16349
+    },
+    {
+      "verse": "Jehová abre los ojos a los ciegos; Jehová levanta a los caídos; Jehová ama a los justos.",
+      "number": 8,
+      "id": 16350
+    },
+    {
+      "verse": "Jehová guarda a los extranjeros; Al huérfano y a la viuda sostiene, Y el camino de los impíos trastorna.",
+      "number": 9,
+      "id": 16351
+    },
+    {
+      "verse": "Reinará Jehová para siempre; Tu Dios, oh Sion, de generación en generación. Aleluya.",
+      "number": 10,
+      "id": 16352
+    }
+  ]
+}

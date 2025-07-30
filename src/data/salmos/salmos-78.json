@@ -1,0 +1,369 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 78,
+  "vers": [
+    {
+      "verse": "Escucha, pueblo mío, mi ley; Inclinad vuestro oído a las palabras de mi boca.",
+      "number": 1,
+      "study": "Fidelidad de Dios hacia su pueblo infiel",
+      "id": 15115
+    },
+    {
+      "verse": "Abriré mi boca en proverbios; Hablaré cosas escondidas desde tiempos antiguos,",
+      "number": 2,
+      "id": 15116
+    },
+    {
+      "verse": "Las cuales hemos oído y entendido; Que nuestros padres nos las contaron.",
+      "number": 3,
+      "id": 15117
+    },
+    {
+      "verse": "No las encubriremos a sus hijos, Contando a la generación venidera las alabanzas de Jehová, Y su potencia, y las maravillas que hizo.",
+      "number": 4,
+      "id": 15118
+    },
+    {
+      "verse": "El estableció testimonio en Jacob, Y puso ley en Israel, La cual mandó a nuestros padres Que la notificasen a sus hijos;",
+      "number": 5,
+      "id": 15119
+    },
+    {
+      "verse": "Para que lo sepa la generación venidera, y los hijos que nacerán; Y los que se levantarán lo cuenten a sus hijos,",
+      "number": 6,
+      "id": 15120
+    },
+    {
+      "verse": "A fin de que pongan en Dios su confianza, Y no se olviden de las obras de Dios; Que guarden sus mandamientos,",
+      "number": 7,
+      "id": 15121
+    },
+    {
+      "verse": "Y no sean como sus padres, Generación contumaz y rebelde; Generación que no dispuso su corazón, Ni fue fiel para con Dios su espíritu.",
+      "number": 8,
+      "id": 15122
+    },
+    {
+      "verse": "Los hijos de Efraín, arqueros armados, Volvieron las espaldas en el día de la batalla.",
+      "number": 9,
+      "id": 15123
+    },
+    {
+      "verse": "No guardaron el pacto de Dios, Ni quisieron andar en su ley;",
+      "number": 10,
+      "id": 15124
+    },
+    {
+      "verse": "Sino que se olvidaron de sus obras, Y de sus maravillas que les había mostrado.",
+      "number": 11,
+      "id": 15125
+    },
+    {
+      "verse": "Delante de sus padres hizo maravillas En la tierra de Egipto, en el campo de Zoán.",
+      "number": 12,
+      "id": 15126
+    },
+    {
+      "verse": "Dividió el mar y los hizo pasar; Detuvo las aguas como en un montón.",
+      "number": 13,
+      "id": 15127
+    },
+    {
+      "verse": "Les guió de día con nube, Y toda la noche con resplandor de fuego.",
+      "number": 14,
+      "id": 15128
+    },
+    {
+      "verse": "Hendió las peñas en el desierto, Y les dio a beber como de grandes abismos,",
+      "number": 15,
+      "id": 15129
+    },
+    {
+      "verse": "Pues sacó de la peña corrientes, E hizo descender aguas como ríos.",
+      "number": 16,
+      "id": 15130
+    },
+    {
+      "verse": "Pero aún volvieron a pecar contra él, Rebelándose contra el Altísimo en el desierto;",
+      "number": 17,
+      "id": 15131
+    },
+    {
+      "verse": "Pues tentaron a Dios en su corazón, Pidiendo comida a su gusto.",
+      "number": 18,
+      "id": 15132
+    },
+    {
+      "verse": "Y hablaron contra Dios, Diciendo: ¿Podrá poner mesa en el desierto?",
+      "number": 19,
+      "id": 15133
+    },
+    {
+      "verse": "He aquí ha herido la peña, y brotaron aguas, Y torrentes inundaron la tierra; ¿Podrá dar también pan? ¿Dispondrá carne para su pueblo?",
+      "number": 20,
+      "id": 15134
+    },
+    {
+      "verse": "Por tanto, oyó Jehová, y se indignó; Se encendió el fuego contra Jacob, Y el furor subió también contra Israel,",
+      "number": 21,
+      "id": 15135
+    },
+    {
+      "verse": "Por cuanto no habían creído a Dios, Ni habían confiado en su salvación.",
+      "number": 22,
+      "id": 15136
+    },
+    {
+      "verse": "Sin embargo, mandó a las nubes de arriba, Y abrió las puertas de los cielos,",
+      "number": 23,
+      "id": 15137
+    },
+    {
+      "verse": "E hizo llover sobre ellos maná para que comiesen, Y les dio trigo de los cielos.",
+      "number": 24,
+      "id": 15138
+    },
+    {
+      "verse": "Pan de nobles comió el hombre; Les envió comida hasta saciarles.",
+      "number": 25,
+      "id": 15139
+    },
+    {
+      "verse": "Movió el solano en el cielo, Y trajo con su poder el viento sur,",
+      "number": 26,
+      "id": 15140
+    },
+    {
+      "verse": "E hizo llover sobre ellos carne como polvo, Como arena del mar, aves que vuelan.",
+      "number": 27,
+      "id": 15141
+    },
+    {
+      "verse": "Las hizo caer en medio del campamento, Alrededor de sus tiendas.",
+      "number": 28,
+      "id": 15142
+    },
+    {
+      "verse": "Comieron, y se saciaron; Les cumplió, pues, su deseo.",
+      "number": 29,
+      "id": 15143
+    },
+    {
+      "verse": "No habían quitado de sí su anhelo, Aún estaba la comida en su boca,",
+      "number": 30,
+      "id": 15144
+    },
+    {
+      "verse": "Cuando vino sobre ellos el furor de Dios, E hizo morir a los más robustos de ellos, Y derribó a los escogidos de Israel.",
+      "number": 31,
+      "id": 15145
+    },
+    {
+      "verse": "Con todo esto, pecaron aún, Y no dieron crédito a sus maravillas.",
+      "number": 32,
+      "id": 15146
+    },
+    {
+      "verse": "Por tanto, consumió sus días en vanidad, Y sus años en tribulación.",
+      "number": 33,
+      "id": 15147
+    },
+    {
+      "verse": "Si los hacía morir, entonces buscaban a Dios; Entonces se volvían solícitos en busca suya,",
+      "number": 34,
+      "id": 15148
+    },
+    {
+      "verse": "Y se acordaban de que Dios era su refugio, Y el Dios Altísimo su redentor.",
+      "number": 35,
+      "id": 15149
+    },
+    {
+      "verse": "Pero le lisonjeaban con su boca, Y con su lengua le mentían;",
+      "number": 36,
+      "id": 15150
+    },
+    {
+      "verse": "Pues sus corazones no eran rectos con él, Ni estuvieron firmes en su pacto.",
+      "number": 37,
+      "id": 15151
+    },
+    {
+      "verse": "Pero él, misericordioso, perdonaba la maldad, y no los destruía; Y apartó muchas veces su ira, Y no despertó todo su enojo.",
+      "number": 38,
+      "id": 15152
+    },
+    {
+      "verse": "Se acordó de que eran carne, Soplo que va y no vuelve.",
+      "number": 39,
+      "id": 15153
+    },
+    {
+      "verse": "¡Cuántas veces se rebelaron contra él en el desierto, Lo enojaron en el yermo!",
+      "number": 40,
+      "id": 15154
+    },
+    {
+      "verse": "Y volvían, y tentaban a Dios, Y provocaban al Santo de Israel.",
+      "number": 41,
+      "id": 15155
+    },
+    {
+      "verse": "No se acordaron de su mano, Del día que los redimió de la angustia;",
+      "number": 42,
+      "id": 15156
+    },
+    {
+      "verse": "Cuando puso en Egipto sus señales, Y sus maravillas en el campo de Zoán;",
+      "number": 43,
+      "id": 15157
+    },
+    {
+      "verse": "Y volvió sus ríos en sangre, Y sus corrientes, para que no bebiesen.",
+      "number": 44,
+      "id": 15158
+    },
+    {
+      "verse": "Envió entre ellos enjambres de moscas  que los devoraban, Y ranas que los destruían.",
+      "number": 45,
+      "id": 15159
+    },
+    {
+      "verse": "Dio también a la oruga sus frutos, Y sus labores a la langosta.",
+      "number": 46,
+      "id": 15160
+    },
+    {
+      "verse": "Sus viñas destruyó con granizo, Y sus higuerales con escarcha;",
+      "number": 47,
+      "id": 15161
+    },
+    {
+      "verse": "Entregó al pedrisco sus bestias, Y sus ganados a los rayos.",
+      "number": 48,
+      "id": 15162
+    },
+    {
+      "verse": "Envió sobre ellos el ardor de su ira; Enojo, indignación y angustia, Un ejército de ángeles destructores.",
+      "number": 49,
+      "id": 15163
+    },
+    {
+      "verse": "Dispuso camino a su furor; No eximió la vida de ellos de la muerte, Sino que entregó su vida a la mortandad.",
+      "number": 50,
+      "id": 15164
+    },
+    {
+      "verse": "Hizo morir a todo primogénito en Egipto, Las primicias de su fuerza en las tiendas de Cam.",
+      "number": 51,
+      "id": 15165
+    },
+    {
+      "verse": "Hizo salir a su pueblo como ovejas, Y los llevó por el desierto como un rebaño.",
+      "number": 52,
+      "id": 15166
+    },
+    {
+      "verse": "Los guió con seguridad, de modo que no tuvieran temor; Y el mar cubrió a sus enemigos.",
+      "number": 53,
+      "id": 15167
+    },
+    {
+      "verse": "Los trajo después a las fronteras de su tierra santa, A este monte que ganó su mano derecha.",
+      "number": 54,
+      "id": 15168
+    },
+    {
+      "verse": "Echó las naciones de delante de ellos; Con cuerdas repartió sus tierras en heredad, E hizo habitar en sus moradas a las tribus de Israel.",
+      "number": 55,
+      "id": 15169
+    },
+    {
+      "verse": "Pero ellos tentaron y enojaron al Dios Altísimo, Y no guardaron sus testimonios;",
+      "number": 56,
+      "id": 15170
+    },
+    {
+      "verse": "Sino que se volvieron y se rebelaron como sus padres; Se volvieron como arco engañoso.",
+      "number": 57,
+      "id": 15171
+    },
+    {
+      "verse": "Le enojaron con sus lugares altos, Y le provocaron a celo con sus imágenes de talla.",
+      "number": 58,
+      "id": 15172
+    },
+    {
+      "verse": "Lo oyó Dios y se enojó, Y en gran manera aborreció a Israel.",
+      "number": 59,
+      "id": 15173
+    },
+    {
+      "verse": "Dejó, por tanto, el tabernáculo de Silo, La tienda en que habitó entre los hombres,",
+      "number": 60,
+      "id": 15174
+    },
+    {
+      "verse": "Y entregó a cautiverio su poderío, Y su gloria en mano del enemigo.",
+      "number": 61,
+      "id": 15175
+    },
+    {
+      "verse": "Entregó también su pueblo a la espada, Y se irritó contra su heredad.",
+      "number": 62,
+      "id": 15176
+    },
+    {
+      "verse": "El fuego devoró a sus jóvenes, Y sus vírgenes no fueron loadas en cantos nupciales.",
+      "number": 63,
+      "id": 15177
+    },
+    {
+      "verse": "Sus sacerdotes cayeron a espada, Y sus viudas no hicieron lamentación.",
+      "number": 64,
+      "id": 15178
+    },
+    {
+      "verse": "Entonces despertó el Señor como quien duerme, Como un valiente que grita excitado del vino,",
+      "number": 65,
+      "id": 15179
+    },
+    {
+      "verse": "E hirió a sus enemigos por detrás; Les dio perpetua afrenta.",
+      "number": 66,
+      "id": 15180
+    },
+    {
+      "verse": "Desechó la tienda de José, Y no escogió la tribu de Efraín,",
+      "number": 67,
+      "id": 15181
+    },
+    {
+      "verse": "Sino que escogió la tribu de Judá, El monte de Sion, al cual amó.",
+      "number": 68,
+      "id": 15182
+    },
+    {
+      "verse": "Edificó su santuario a manera de eminencia, Como la tierra que cimentó para siempre.",
+      "number": 69,
+      "id": 15183
+    },
+    {
+      "verse": "Eligió a David su siervo, Y lo tomó de las majadas de las ovejas;",
+      "number": 70,
+      "id": 15184
+    },
+    {
+      "verse": "De tras las paridas lo trajo, Para que apacentase a Jacob su pueblo, Y a Israel su heredad.",
+      "number": 71,
+      "id": 15185
+    },
+    {
+      "verse": "Y los apacentó conforme a la integridad de su corazón, Los pastoreó con la pericia de sus manos.",
+      "number": 72,
+      "id": 15186
+    }
+  ]
+}

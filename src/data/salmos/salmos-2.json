@@ -1,0 +1,69 @@
+{
+  "testament": "old",
+  "name": "Salmos",
+  "num_chapters": 150,
+  "chapter": 2,
+  "vers": [
+    {
+      "verse": "¿Por qué se amotinan las gentes, Y los pueblos piensan cosas vanas?",
+      "number": 1,
+      "study": "El reino del ungido de Jehová",
+      "id": 13947
+    },
+    {
+      "verse": "Se levantarán los reyes de la tierra, Y príncipes consultarán unidos Contra Jehová y contra su ungido, diciendo:",
+      "number": 2,
+      "id": 13948
+    },
+    {
+      "verse": "Rompamos sus ligaduras, Y echemos de nosotros sus cuerdas.",
+      "number": 3,
+      "id": 13949
+    },
+    {
+      "verse": "El que mora en los cielos se reirá; El Señor se burlará de ellos.",
+      "number": 4,
+      "id": 13950
+    },
+    {
+      "verse": "Luego hablará a ellos en su furor, Y los turbará con su ira.",
+      "number": 5,
+      "id": 13951
+    },
+    {
+      "verse": "Pero yo he puesto mi rey Sobre Sion, mi santo monte.",
+      "number": 6,
+      "id": 13952
+    },
+    {
+      "verse": "Yo publicaré el decreto; Jehová me ha dicho: Mi hijo eres tú; Yo te engendré hoy.",
+      "number": 7,
+      "id": 13953
+    },
+    {
+      "verse": "Pídeme, y te daré por herencia las naciones, Y como posesión tuya los confines de la tierra.",
+      "number": 8,
+      "id": 13954
+    },
+    {
+      "verse": "Los quebrantarás con vara de hierro; Como vasija de alfarero los desmenuzarás.",
+      "number": 9,
+      "id": 13955
+    },
+    {
+      "verse": "Ahora, pues, oh reyes, sed prudentes; Admitid amonestación, jueces de la tierra.",
+      "number": 10,
+      "id": 13956
+    },
+    {
+      "verse": "Servid a Jehová con temor, Y alegraos con temblor.",
+      "number": 11,
+      "id": 13957
+    },
+    {
+      "verse": "Honrad al Hijo, para que no se enoje, y perezcáis en el camino; Pues se inflama de pronto su ira. Bienaventurados todos los que en él confían.",
+      "number": 12,
+      "id": 13958
+    }
+  ]
+}
